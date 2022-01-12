@@ -2,7 +2,7 @@
 
 This repository contains the content and layout files for the Hugo website on "biochar systems", developped as the final deliverable of the Vinnova research project [Biochar systems analysis for climate benefits](https://www.vinnova.se/p/biokol---systemanalys-for-klimatnytta/).
 
-If you are reading this, it means that you are likely an editor of the contents of the website. This ReadMe.md file will guide you in how to edit the website: 
+If you are reading this, it means that you are likely an editor of the contents of the website. This README.md file will guide you in how to edit the website: 
 
 
 ## Prerequisites & Installation
@@ -27,8 +27,10 @@ To check your that everything is ok:
 
 ### 2. git & github account
 Git & GitHub are two different things, but we use them together.
-- Git is used locally, on your computer, to track changes you make to a folder, and save these changes at different points in time (so called commits)
 - GitHub is hosting the online version of the repository, accessible to others
+- Git is used locally, on your computer, to track changes you make to a folder, and save these changes at different points in time (so called commits)
+
+>> Note: as an alternative to the command-line git, you can use the GitHub Desktop App (which is a graphical user interface for git).
 
 From the git command line, we can push the changes we made locally onto the remote (online github repository), so that others can have access to the updates.
 
