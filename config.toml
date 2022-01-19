@@ -74,13 +74,13 @@ sidebar = ["recent_posts", "taxonomy_category", "taxonomy_tags"]
 ################################# Contact page ################################
 [params.contact]
 # Address block
-phone = "0700193988"
-email = "demo@email.com"
+phone = "+46 186 718 11"
+email = "cecilia.sundberg@slu.se"
 location = """
-**Themefisher**  
-North Main Street  
-Brooklyn, New South Wales  
-Australia
+**SLU**  
+Institution för energi och teknik
+Box 7032
+75007 Uppsala
 """
 # Whether to display text descriptors (like "E-mail: ", "Phone: ") before the address block elements
 address_descriptors = false

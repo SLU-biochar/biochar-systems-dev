@@ -22,6 +22,8 @@
         {{ end }}
       </div>
     </div>
+    {{ with .Params.about.funfacts_enable }}
+    {{ if .enable }}
     <div class="row counter-box text-center mt-50">
       {{ range .funfacts }}
       <div class="col-md-2">
@@ -33,6 +35,8 @@
       </div>
       {{ end }}
     </div>
+    {{ end }}
+    {{ end }}
   </div>
 </section>
 {{ end }}
@@ -70,25 +74,31 @@
 <section class="testimonial section-sm">
   <div class="container">
     <div class="row">
-      {{ if .Params.testimonial.enable }}
-      {{ with .GetPage "/" }}
-      <div class="col-md-6">
-        <div class="testimonial-carousel text-center">
-          <div class="testimonial-slider owl-carousel">
-            {{ range .Params.funfacts.testimonial_slider }}
+      {{ if .Params.testimonial_enable }}
+      <div class="col-md-5 col-md-offset-1">
+
+        <div class="tabCommon">
+          <ul class="nav nav-tabs">
+            <li class="active"><a>Team & former members</a></li>
+          </ul>
+        </div>
+
+        <div class="testimonial-carousel text-center" data-interval="5000">
+          <div class="testimonial-slider owl-carousel" data-interval="5000">
+            {{ range .Params.testimonial_slider }}
             <div>
               <i class="ion-quote"></i>
-              {{ with .content }}<p>"{{ . | markdownify }}"</p>{{ end }}
+              {{ with .name }}{{ . | $.Page.RenderString (dict "display" "block") }}{{ end }}
               <div class="user">
-                {{ with .image }}<img src="{{ . | relURL }}" alt="client">{{ end }}
-                <p><span>{{ .name | markdownify }}</span> {{ .designation | markdownify }}</p>
+                <img src="{{ .image | relURL }}" alt="" />
+                <p><span>{{ .title | markdownify }}</span> {{ .field | markdownify }}</p>
+                <p><a href="mailto:{{ .mail }} ?subject=Contact from biochar system website">{{ .mail }}</a> / <a href="tel:{{ .phone }}">{{ .phone }}</a></p>
               </div>
             </div>
             {{ end }}
           </div>
         </div>
       </div>
-      {{ end }}
       {{ end }}
 
       {{ with .Params.mission_vision }}

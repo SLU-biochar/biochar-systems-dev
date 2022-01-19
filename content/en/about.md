@@ -17,20 +17,26 @@ menu:
 ################################## About #####################################
 about:
   enable : true
-  image : "images/company/about.jpg"
-  title : "We strive to be the best and <br> make awesome work."
-  content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eius enim, accusantium repellat ex autem numquam iure officiis facere vitae itaque.
+  image : "img/case-studies-bg.png"
+  title : "We strive to assess biochar systems<br />
+          in all their diversity."
+  content : "
+  <br />
 
 
-  Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nam qui vel cupiditate exercitationem, ea fuga est
-  velit nulla culpa modi quis iste tempora non, suscipit repellendus labore voluptatem dicta amet? Lorem ipsum
-  dolor sit amet, consectetur adipisicing elit. Provident, neque!"
+  Our team is made of researchers with diverse expertise in environmental systems analysis, spatial analysis, but also environmental policy. We collaborate with other research groups in Sweden & internationally, as well as with the public & private sectors.
+
+
+  We aim to produce high quality science, contributing to meeting climate & sustainability objectives.
+  "
 
   button:
     enable : false
     label : "Download Company Profile"
     link : "#"
 
+  funfacts_enable:
+    enable : false
   funfacts:
   # funfacts loop
   - icon : "ion-ios-flask-outline" #ionicon pack v2 : https://ionicons.com/v2/
@@ -64,47 +70,89 @@ about:
 
 ################################ feature #####################################
 features:
-  enable : false
-  title : "We are indepented Design & Development Agency"
+  enable : true
+  title : "We have expertise in ..."
   feature_item:
-  # feature item loop
-  - icon : "ion-ios-color-filter-outline" #ionicon pack v2 : https://ionicons.com/v2/
-    name : "IOS App Development"
-    content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut"
+  # ion-flash  ion-thermometer ion-planet  ion-ios-cloud ion-ios-pulse-strong ion-ios-speedometer-outline
+  # ion-ios-color-filter-outline  ion-ios-location-outline ion-ios-partlysunny-outline ion-settings ion-map
+  # ion-ios-star-outline ion-ios-lightbulb-outline ion-android-sync
+  # ion-android-globe ion-ios-flame ion-android-checkbox-blank ion-leaf
 
   # feature item loop
-  - icon : "ion-ios-unlocked-outline" #ionicon pack v2 : https://ionicons.com/v2/
-    name : "App Secutity"
-    content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut"
+  - icon : "ion-ios-speedometer" #ionicon pack v2 : https://ionicons.com/v2/
+    name : "LCA"
+    content : "Life Cycle Assessment"
 
   # feature item loop
-  - icon : "ion-ios-game-controller-b-outline" #ionicon pack v2 : https://ionicons.com/v2/
-    name : "Games Development"
-    content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut"
+  - icon : "ion-android-sync" #ionicon pack v2 : https://ionicons.com/v2/
+    name : "MEFA"
+    content : "Material & Energy Flow Analysis"
 
   # feature item loop
-  - icon : "ion-ios-mic-outline" #ionicon pack v2 : https://ionicons.com/v2/
-    name : "Animation and Editing"
-    content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut"
+  - icon : "ion-map" #ionicon pack v2 : https://ionicons.com/v2/
+    name : "GIS"
+    content : "Geographic Information Systems" 
+  
+  # feature item loop
+  - icon : "ion-android-globe" #ionicon pack v2 : https://ionicons.com/v2/
+    name : "Climate change"
+    content : "From static to dynamic impact assessments"
 
   # feature item loop
-  - icon : "ion-ios-lightbulb-outline" #ionicon pack v2 : https://ionicons.com/v2/
-    name : "UI/UX Design"
-    content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut"
+  - icon : "ion-flash" #ionicon pack v2 : https://ionicons.com/v2/
+    name : "Bioenergy"
+    content : "From forest to agricultural land"
 
   # feature item loop
-  - icon : "ion-ios-star-outline" #ionicon pack v2 : https://ionicons.com/v2/
-    name : "Branding"
-    content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut"
-
+  - icon : "ion-android-checkbox-blank" #ionicon pack v2 : https://ionicons.com/v2/
+    name : "Biochar"
+    content : "Pyrolysis across scales"
 
 #################################### testimonial & mission vision #######################################
-testimonial:
-  enable : false
-  # testimonial content comes from "data/*/homepage.yml" file
+testimonial_enable: true
+
+testimonial_slider:
+  # testimonial item loop
+  - name: "Cecilia Sundberg "
+    title: "Associate Professor"
+    field: "in bioenergy systems"
+    image: "/img/team/cesu.jpeg"
+    mail: "cecilia.sundberg@slu.se"
+    phone: "+46 186 718 11"
+  
+  - name: "Elias S. Azzi"
+    title: "PhD"
+    field: "in industrial ecology & biochar systems"
+    image: "/img/team/eazzi.jpeg"
+    mail: "eazzi@kth.se"
+    phone: "+46 7 001 939 88"
+
+  - name: "Shivesh Karan"
+    title: "PhD"
+    field: "in spatial analysis"
+    image: "/img/team/skaran.jpg"
+    mail: "shivesh.karan@slu.se"
+    phone: ""
+
+  - name: "Lisa Zakrisson"
+    title: "PhD Candidate"
+    field: "in LCA & biochar systems"
+    image: ""
+    mail: "lisa.zakrisson@slu.se"
+    phone: ""
+
+  - name: "Asterios Papageorgiou"
+    title: "PhD Candidate"
+    field: "in LCA
+    
+    
+    (former member)"
+    image: ""
+    mail: ""
+    phone: ""
 
 mission_vision:
-  enable : true
+  enable : off
   tabs:
   # tab item loop
   - name : "Vision"

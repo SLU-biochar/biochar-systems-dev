@@ -21,23 +21,33 @@ about:
   enable: true
   title: "About this website"
   description: "This website is the last deliverable of a 4-year research project funded by the Vinnova, the Swedish innovation agency. The project evaluated the energy, climate and environmental implications of deploying biochar technologies in Sweden."
-  content: " The purpose of this website is to share the insights gained from various case studies, in Sweden and beyond, but also to present methodologies, data and models for studying biochar systems. The target audience includes students, researchers, municipalities, consultants, and industrials, regardless of their prior level of knowledge on biochar or environmental systems analysis. 
+  content: "
+  The **purpose** of this website is to share the insights gained from various case studies, in Sweden and beyond, but also to present methodologies, data and models for studying biochar systems.
   
 
-  The website is currently maintained by the **Bioenergy systems** research group at the Swedish University of Agricultural Sciences (SLU). The contents are meant to be updated, with new case studies, data, and models. Contributions are welcome: either <u><a href='mailto:eazzi@kth.se?subject=Contribution ideas for biochar-systems'> reach out to us</a></u> with suggestions, or check the <u>[contribution guide](https://github.com/ntropy-esa/biochar-systems-dev)</u>."
+  The **target audience** includes students, researchers, municipalities, consultants, and industrials, regardless of their prior level of knowledge on biochar or environmental systems analysis. 
+  
+
+  The website is currently maintained by the **Bioenergy systems** research group at the Swedish University of Agricultural Sciences (SLU). The contents are meant to be updated, with new case studies, data, and models. Contributions are welcome: either <u><a href='mailto:cecilia.sundberg@slu.se?subject=Contribution ideas for biochar-systems'> reach out to us</a></u> with suggestions, or check the <u><a href='https://github.com/SLU-biochar/biochar-systems-dev' target='_blank'>contribution guide</a></u>."
+
   image: "img/vinnova-en.png"
 
 
 ######################### Portfolio ###############################
 portfolio:
   enable: true
-  bg_image: "img/case-studies-bg.jpg"
+  bg_image: "img/case-studies-bg.png"
   title: "CASE STUDIES"
-  content: " Why doing case studies? ...
+  content: " Why doing case studies? 
   
-  Some case studies we have performed: keywords:
+
+  Biochar systems are diverse: biochar can be produced from different biomass, in many types of pyrolysis reactors, at different scales, and used in various applications, on all continents. *All these possible configurations can lead to very different environmental performances.*
+
+
+  We have performed case studies in Sweden (Stockholm, Lindeborg, Uppsala, Helsingborg) & abroad (Kenya). 
   
-  - Large-scale biochar production connected to Stockholm's district heating, and biochar use as animal feed supplement and manture additive on dairy farms.
+  <!--
+  - Large-scale biochar production connected to Stockholm's district heating, and biochar use as animal feed supplement and manure additive on dairy farms.
   
   - Small-scale biochar production on-farm, for drying grain, heating premises and greenhouses. 
   
@@ -45,14 +55,15 @@ portfolio:
   
   - Biochar use in urban environment, whether in urban plantings, green roofs, water filters, concrete. 
 
-  - Biochar use for biofilm treatment in individual waste water management
+  - Biochar use for individual waste water management
 
-  - GIS recommendations ...
+  - Multi-criteria GIS analysis: on which arable land is biochar most suited in Sweden?
 
-  - Kenya - smallholder farming - cooking heat - biochar for improving fertility of tropical degraded soils
-
-
+  - Smallholder farming in Kenya: gasifier cookstove for improved cooking & biochar for improved soil fertility on degraded soils
+  
   Learn more about the findings of these case studies ...
+  -->
+
   "
   button:
     enable: true
@@ -75,7 +86,7 @@ cta:
   You have a biochar project in mind?
   
 
-  Our guide will help you to perform a preliminary assessment, make sure you have the most important topics covered, and check if some of our resources can be applied to your case."
+  Our guide will help you to perform a preliminary assessment, tackle key topics, and check if some of our resources can be applied to your case."
   button:
     enable: true
     label: "Analyse your project"
@@ -83,7 +94,7 @@ cta:
 
 ############################# Funfacts ###############################
 funfacts:
-  enable: true
+  enable: off
   title: "Biochar production in Sweden & Europe"
   description: "Biochar production is ramping up. However, it's difficult to get an overview of biochar production volumes over the years. 
   

@@ -113,7 +113,7 @@ bw2.projects.set_current("MyProject")
 https://kubernetes.io/docs/contribute/style/hugo-shortcodes/#glossary
 https://github.com/kubernetes/website/tree/main/layouts/shortcodes
 
-Par exemple, le snippet suivant est rendu à {{< tooltip_glossary text="cluster" term_id="cluster" tooltip_text="shit" >}} avec une infobulle. But this {{< tooltip_glossary text="tooltip" term_id="" tooltip_text="It is just a local explanation." >}} is now just an explanation without entry in the glossary
+Par exemple, le snippet suivant est rendu à {{< tooltip_glossary text="LCA" term_id="LCA" tooltip_text="some text" >}} avec une infobulle. But this {{< tooltip_glossary text="tooltip" term_id="" tooltip_text="It is just a local explanation." >}} is now just an explanation without entry in the glossary
 
 ## Flowcharts
 <script>mermaid.initialize({ startOnLoad: true, securityLevel: 'loose'});</script>

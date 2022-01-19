@@ -73,14 +73,12 @@ What you will need: biochar C content, H, C contents, pyrolysis temperature, bio
 
 {{% expandcss idLabel="vera" title="**Vera**" %}}
   Inner content that will be **markdownified** and blablabla.
-
-  The text is enriched with tooltips. For instance, if you don't know what a {{< tooltip_glossary text="cluster" term_id="cluster" >}} is, you should hover the word.
-  
+ 
 {{% /expandcss %}}
 
 ## Demo Tooltip with custom text or bibliography
 
-The text is enriched with tooltips. For instance, if you don't know what a {{< tooltip_glossary text="cluster" term_id="cluster" >}} is, you should hover the word.
+The text is enriched with tooltips. For instance, if you don't know what a {{< tooltip_glossary text="LCA" term_id="LCA" >}} is, you should hover the word.
 
 ## Comparision of voluntary biochar C sink credit systems
 
