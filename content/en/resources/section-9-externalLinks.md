@@ -20,7 +20,5 @@ styling:
 * [International Biochar Initiative](https://biochar-international.org/)
 
 * [European biochar Industry](https://www.biochar-industry.com/)
-
-* ...
   
 </div>

@@ -27,7 +27,8 @@
 
 // SCSS rules for SHORTCODE expand-css.html /section class = accordion with checkbox inside
 /*  Functionality 
-Try to fix transition vertical jump with https://codepen.io/bilal-pf/pen/eYZrPGW */ 
+Try to fix transition vertical jump with https://codepen.io/bilal-pf/pen/eYZrPGW 
+in the short code*/ 
 section.accordion {
   position: relative; 
 }
@@ -42,8 +43,9 @@ section.accordion {
   -webkit-transition:max-height 0.5s;
 }
 .accordion > input[type="checkbox"]:checked ~ .content {
-  height: 20px;
-  overflow: scroll;
+  height: 0px;
+  overflow-x: hidden;
+  overflow-y: hidden;
 }
 .accordion label {
   display: block;

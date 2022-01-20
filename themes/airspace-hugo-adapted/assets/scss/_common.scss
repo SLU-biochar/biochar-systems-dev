@@ -334,7 +334,7 @@ input[type="tel"] {
 
     p {
       color: $light;
-      text-align: left;
+      text-align: center; /* ESA > page title text : left or center */
     }
   }
 }

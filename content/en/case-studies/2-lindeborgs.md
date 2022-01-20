@@ -96,7 +96,7 @@ Several small-scale pyrolysis plants have been installed on Swedish farms and up
 {{% /expandcss %}}
 
 {{% expandcss idLabel="selfsustaining" title="" %}}
-  .
+  
 {{% /expandcss %}}
 
 </div></div>

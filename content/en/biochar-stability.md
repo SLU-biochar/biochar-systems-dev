@@ -1,31 +1,25 @@
----
-title: "Biochar stability explained"
-description: "Comparative methods, interactive tables & models to download"
-bg_image: "images/feature-bg.jpg"
-draft: false
-menu:
-  main:
-    parent: "More"
-    name: "Biochar stability"
-    weight: 1
-  footer:
-    name: "Biochar stability"
-    weight: 6
+
+ ---
+title: "Biochar stability - old page"
+description: ""
+subtitle : "Biochar is well known as an option to mitigate climate change. Here, we want to give the big picture & revisit some of the basic science behind it."
+bg_image: "img/lin-field.JPG"
+layout: "faq"
+lastmod: 2022-01-19T00:00:00
+draft: true
+
 ---
 
-## Some basics
-Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quas officiis cumque, harum dicta necessitatibus
-reprehenderit, delectus molestiae, impedit alias adipisci distinctio voluptas. Tempora modi amet voluptate
-at provident soluta consequatur.
 
-  - why it is a carbon removal?
+ - why it is a carbon removal?
   - make it clear there are different stabilities because there are different biochars & applications
   - mostly studied in soils, what about other uses?
   - why is it a challenge: - measuring a very small flux over short period is technically difficult; - extrapolating a curve on 1-5 years to 500 years is scientifically not very valid
 
-### What can we say with certainty today?
 
-## The initial amount of carbon sequestred
+#### What can we say with certainty today?
+
+##### The initial amount of carbon sequestred
 
 Freshly produced biochar has a carbon content. ...
 Lab determination of the carbon content. 

@@ -11,8 +11,8 @@ category: ['Resources']
 menu:
   main:
     name: "Resources"
-    weight: 3
+    weight: 4
   footer:
     name: "Resources"
-    weight: 3
+    weight: 6
 ---

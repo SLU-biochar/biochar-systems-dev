@@ -4,7 +4,7 @@ description: "
 Here, we present a generic flowchart to describe biochar systems and we link to 8 modules that explain each part of a biochar system.
 " # How to analyse biochar production and use in a systematic manner
 draft: false
-bg_image: ""
+bg_image: "img/lin-field.JPG"
 menu:
   main:
     parent: "Systems analysis"

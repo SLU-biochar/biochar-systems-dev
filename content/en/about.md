@@ -8,7 +8,7 @@ menu:
   main:
     parent: "More"
     name: "About"
-    weight: 1
+    weight: 3
   footer:
     name: "About"
     weight: 1
@@ -101,7 +101,7 @@ features:
   # feature item loop
   - icon : "ion-flash" #ionicon pack v2 : https://ionicons.com/v2/
     name : "Bioenergy"
-    content : "From forest to agricultural land"
+    content : "From forest to agriculture & urban waste"
 
   # feature item loop
   - icon : "ion-android-checkbox-blank" #ionicon pack v2 : https://ionicons.com/v2/
@@ -152,7 +152,7 @@ testimonial_slider:
     phone: ""
 
 mission_vision:
-  enable : off
+  enable : true
   tabs:
   # tab item loop
   - name : "Vision"

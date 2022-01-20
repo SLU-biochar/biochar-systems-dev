@@ -9,9 +9,7 @@ menu:
     parent: "More"
     name: "Demo"
     weight: 10
-  footer:
-    name: "Demo"
-    weight: 100
+
 
 # Page-specific JavaScript & CSS #ESA
 js : ["bw2widgets/d3.v7.min", "bw2widgets/d3-scale-chromatic.v1.min", "bw2widgets/d3-sankey-diagram.min", "bw2widgets/widget_plot_types", "js/mermaid.min"]

@@ -201,7 +201,7 @@ attributes = "defer"
 	contentDir = "content/en"
 	weight = 1
 	title = 'Biochar Systems'
-	copyright = 'Elias S. Azzi, Cecilia Sundberg, KTH, SLU'
+	copyright = '&#169; Elias S. Azzi, Cecilia Sundberg, KTH, SLU'
 
 	# Navigation menus
 	# NOTE: Leaf entries linking to content should be defined in the content file's respective front matter.

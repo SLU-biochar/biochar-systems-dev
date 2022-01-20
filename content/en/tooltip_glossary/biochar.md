@@ -25,6 +25,3 @@ Finally, existing voluntary certificates of biochar include in their definitions
 
 All these materials have different properties. Usually, charcoal is produced in a way that maximises its yield (around 35% of the initial biomass weight), and charcoal has a lower carbon content and a higher hydrogen content than biochar produced at higher temperatures (and with a lower yield).
 
-- More about this in the webinar from 
-- You can also check [our glosary]({{< ref "tooltip_glossary/index.md" >}})
-

@@ -13,9 +13,10 @@ styling:
 
 <!-- * 202x-xx-xx, Media, [title](url)  -->
 
-* 202x-xx-xx, Media, [title](url) 
   
 * 2020-09-15, Dagens Industri, [Ny forskning: De vill rädda klimatet med kol](https://www.di.se/hallbart-naringsliv/ny-forskning-de-vill-radda-klimatet-med-kol/)
+
+* 2020-05-20, Avfall & Miljö, [Biokol, billig lösning för förorenad jord](http://ebooks.exakta.se/avfall_sverige/2020/2005/20/)
 
 * 2019-12-05, NyTeknik, [Forskare: Stor biokolfabrik ger klimatnytta](https://www.nyteknik.se/premium/forskare-stor-biokolfabrik-ger-klimatnytta-6980636)
 

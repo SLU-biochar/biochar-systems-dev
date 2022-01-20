@@ -4,7 +4,7 @@
 {{ if .Params.title_image }}
 {{ $image := .Page.Resources.GetMatch .Params.title_image }}
 {{ $image := $image.Resize "500x webp" }}
-<section class="page-title bg-2"style="background-image: url( {{ $image.RelPermalink  }} );">
+<section class="page-title bg-2" style="background-image: url( {{ $image.RelPermalink  }} );">
   <div class="container">
     <div class="row" >
       <div class="col-md-5 text-center">
@@ -20,7 +20,7 @@
   </div>
 </section>
 {{ else }}
-<section class="page-title bg-2">
+<section class="page-title bg-2" style="background-image: url('{{ .Params.bg_image | relURL }}');">
   <div class="container">
     <div class="row" >
       <div class="col-md-12">

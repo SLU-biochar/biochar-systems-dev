@@ -10,10 +10,10 @@ menu:
   main:
     parent: "More"
     name: "FAQ"
-    weight: 3
+    weight: 2
   footer:
     name: "FAQ"
-    weight: 5
+    weight: 7
 ---
 
 ### Your questions are welcome to enrich this list!
