@@ -11,15 +11,37 @@ styling:
 <div class="col-md-12 text-left">
 
 ## **Cradle-to-gate climate impact of several biochar supply-chains**
+<br />
 
-Source: our paper
+</div>
 
-How to read / Meaning of contributions
-- biochar C-sink: initial, no 100% stability assumed there
-- contributions meaning: RLBU
-- energy context & changing it...
-  
-Parameters: + disclaimer
+<div class="col-md-6 text-left">
+
+
+In our [Uppsala case study]({{< ref "case-studies/4-uppsala.md" >}}) (paper under publication), we presented cradle-to-gate emission factors for biochar products with different properties (carbon content, bulk densities), pyrolysis reactors (E: electricity-heated, S: syngas-heated, M: mobile-syngas heated), and different biomass (WP: wood pellet, GW: garden waste, LR: logging residues). 
+
+The figures below present the climate change impact, from biochar production & the initial carbon sink. Some parameter values can be changed to see how results are affected.
+
+{{% notice warning %}}
+The values presented are not to be used as LCA data for product footprinting without further analysis & verification of our underlying modelling assumptions. 
+{{% /notice %}}
+
+</div>
+<div class="col-md-6 text-left">
+
+Meaning of contributions (colors):
+- Biochar C-sink: initial amount of C sequestred (100% stability assumed here)
+- Reactor: manufacturing and disposal of reactor
+- RLBU: reference land or biomass use
+- Transport: all transport from biomass supply to biochar handling
+- Pyrolysis: energy inputs for pyrolysis & direct air emissions
+- Biomass production: energy, machinery, fertilser use
+- Energy substitution: displacement of heat from alternative source, by combustion of pyrolysis co-products
+
+
+</div>
+
+<div class="col-md-12 text-left">
 
 {{< bw2widget widgetName="BSCtonne"  widgetJS="bw2widgets/widget_biochar-supply-chain" widgetTitle="For 1 tonne of biochar:" plotType="stackedbar" ylabel="kg CO₂-eq per kg biochar" >}} 
 
