@@ -227,13 +227,13 @@ attributes = "defer"
 	contentDir = "content/sv"
 	weight = 2
 	title = 'Biokolsystem'
-	copyright = 'Elias S. Azzi, Cecilia Sundberg, KTH, SLU'
+	copyright = '&#169; Elias S. Azzi, Cecilia Sundberg, KTH, SLU'
 
 	# Navigation menus
 	# NOTE: Leaf entries linking to content should be defined in the content file's respective front matter.
 	[[languages.sv.menu.main]]
 		hasChildren = true
-		name = "Systemanalysis"
+		name = "Systemanalys"
 		weight = 2
 
 	[[languages.sv.menu.main]]
@@ -244,4 +244,4 @@ attributes = "defer"
 	[[languages.sv.menu.main]]
 		hasChildren = true
 		name = "Mer"
-		weight = 5		
+		weight = 6		

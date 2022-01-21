@@ -1,70 +1,49 @@
 ---
-title: "Frequently Asked Questions"
-description: "this is meta description"
-subtitle : "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sequi, repudiandae."
-lastmod: 2021-04-01T00:00:00
+title: "Vanliga frågor"
+description: ""
+subtitle : "Om biomassa, pyrolysis, biokol, mm"
+lastmod: 2022-01-19T00:00:00
 bg_image: "images/feature-bg.jpg"
 layout: "faq"
 draft: false
 menu:
   main:
     parent: "Mer"
-    name: "Questions fréquentes"
-    weight: 3
+    name: "FAQ"
+    weight: 2
   footer:
-    name: "Questions fréquentes"
-    weight: 5
+    name: "FAQ"
+    weight: 7
 ---
 
-### Welcome to Airspace!
+### Dina frågor är välkomna att berika denna lista!
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia ullam sint quas pariatur ipsam nemo
-repellendus suscipit quod accusantium numquam tempora assumenda sequi, velit voluptatem soluta voluptatibus
-nesciunt ducimus iure. Excepturi voluptatum ullam tenetur perspiciatis alias delectus beatae voluptatibus
-magni facere aspernatur, qui, quas nesciunt blanditiis assumenda a expedita accusantium quos consectetur neque
-nemo. Necessitatibus est quod quo deserunt, dicta aut voluptatem blanditiis, alias quos sed vel unde enim
-dolore aliquam quis reiciendis qui vitae reprehenderit. Similique nemo accusamus, vel possimus error cumque
-quas, tempora repellendus velit, unde cupiditate impedit deserunt fugit labore et nostrum sapiente est
-obcaecati maiores voluptates.
+Sidan är under uppbyggnad och kan utökas med dina frågor. Skicka dem till <a href="mailto:cecilia.sundberg@slu.se?subject=FAQ biochar systems" style="color:hotpink">oss via e-post</a> så försöker vi ge ett svar här.
 
-#### 1.Overview
+<br />
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptas iusto, alias, tempora fuga quam eveniet
-neque excepturi aliquid. Eligendi, mollitia.
 
-#### 2. Data We Collect
+### 1. What is biochar? Is it the same as charcoal?
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit. Alias, earum, quibusdam? Accusantium, eaque at
-quasi dicta quis consectetur. Temporibus, natus illo quasi, magni neque fugiat ducimus omnis, ab ullam
-reprehenderit obcaecati. Inventore ut nisi repellendus dolores odit. Ea molestias perspiciatis enim, tenetur
-impedit suscipit quidem optio asperiores quibusdam. Minus, vel.
+Carbonised biomass; charcoal, activated carbon, biocoal and biochar can all be described as a solid carbon-rich residue that remain from the heating of biomass in partial or complete absence of oxygen.
+- Charcoal refers to a traditional fuel produced from woody biomass, and still widely used. 
+- Activated carbons, instead, can be derived from any biomass or even fossil coal via further activation treatments, and are mainly used for filtering or sorption applications. 
+- Biochar, the newest term, was initially differentiated from charcoal stressing the fact that biochar is intended for amendment to agricultural soils and carbon sequestration.
 
-#### 3. How We Use Data
+With the expansion of the biochar research field, the definition of biochar is however no longer limited to soil applications. In some acceptations, the definition even includes biochar use for energy – sometimes called biocoal – in industrial processes or products that may be later incinerated such as activated biochar filters or electronic components. 
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit. Repellendus repellat id, laboriosam ipsa
-repudiandae quisquam, suscipit officiis, praesentium itaque facilis distinctio dolorum. Velit reiciendis
-libero laudantium corporis, delectus impedit sunt.
+Finally, existing voluntary certificates of biochar include in their definitions specific requirements on production conditions and quality e.g. approved biomass types, minimum carbon content, treatment temperature, or pollutant contents.
 
-#### 4. How We Disclose Data.
+All these materials have different properties. Usually, charcoal is produced in a way that maximises its yield (around 35% of the initial biomass weight), and charcoal has a lower carbon content and a higher hydrogen content than biochar produced at higher temperatures (and with a lower yield).
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit. Tenetur itaque ut culpa totam ratione! Iste
-possimus beatae consequuntur, fugit iusto fugiat id, dignissimos culpa obcaecati voluptatum omnis est
-quibusdam quos, et illo rerum quae dolorem error quis suscipit asperiores facilis? Ratione, facere architecto
-modi incidunt voluptatibus iusto maiores, at libero accusamus aliquam dolor minus autem possimus illum maxime,
-fugit fuga! A libero adipisci molestias praesentium distinctio odio, alias accusantium, dolorum itaque,
-necessitatibus labore! Facilis explicabo pariatur laudantium quibusdam consequatur ex odio labore sequi animi.
-Voluptatem impedit, maiores, cupiditate, iure possimus neque quaerat natus aut minima quibusdam tempora
-magnam, vero itaque!
+- More about this in the webinar from 
+- You can also check [our glosary]({{< ref "tooltip_glossary/index.md" >}})
 
-#### 5. Security
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit. Beatae blanditiis quod saepe, inventore ipsum sint
-cum iste quae ratione nobis laborum minima autem totam similique, quia neque deleniti! Provident, suscipit.
 
-#### 6. Advertising.
+### 2. What is the global potential for biochar carbon sequestration?
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit. Delectus, eaque repellendus placeat aperiam fugit.
-Quod inventore quis quos, molestias nostrum tempora quae adipisci dolorem ipsam repellendus officia,
-voluptatem assumenda porro possimus, eius eum enim qui natus! Quas numquam voluptas reiciendis eveniet ab at
-provident omnis mollitia ipsa. Asperiores vero rem cum minima voluptas, vitae magni accusantium quae. Sed,
-expedita, ad.
+There are few studies that estimated the global potential of biochar carbon sequestration. The range they provide is 3 - 10 GtCO<sub>2</sub> per year, with varying assumptions on biomass feedstocks used. If achieved, this potential is a significant amount for the climate system. However, humanity must also mitigate its current 50 GtCO<sub>2</sub>-eq emitted annually.
+
+
+### n. ...future questions

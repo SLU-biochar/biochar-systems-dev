@@ -1,35 +1,43 @@
 ---
-title: "About Our Company"
-description: "this is meta description"
+title: "Om vår forskning grupp"
+description: ""
 bg_image: "images/feature-bg.jpg"
 layout: "about"
 draft: false
 menu:
   main:
-    name: "À propos"
-    weight: 2
+    parent: "Mer"
+    name: "Om oss"
+    weight: 3
   footer:
-    name: "À propos"
+    name: "Om oss"
     weight: 1
 
 
 ################################## About #####################################
 about:
   enable : true
-  image : "images/company/about.jpg"
-  title : "We strive to be the best and <br> make awesome work."
-  content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eius enim, accusantium repellat ex autem numquam iure officiis facere vitae itaque.
+  image : "img/case-studies-bg.png"
+  title : "Vi strävar efter att bedöma biokolsystem<br />
+           i all deras mångfald."
+  content : "
+  <br />
 
 
-  Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nam qui vel cupiditate exercitationem, ea fuga est
-  velit nulla culpa modi quis iste tempora non, suscipit repellendus labore voluptatem dicta amet? Lorem ipsum
-  dolor sit amet, consectetur adipisicing elit. Provident, neque!"
+  Vårt team består av forskare med mångsidig expertis inom miljösystemanalys, rumslig analys, men även miljöpolitik. Vi samarbetar med andra forskargrupper i Sverige och internationellt, samt med offentlig och privat sektor.
+
+
+   Vi strävar efter att producera högkvalitativ vetenskap som bidrar till att uppfylla klimat- och hållbarhetsmålen.
+  "
 
   button:
-    enable : true
+    enable : false
     label : "Download Company Profile"
     link : "#"
 
+  funfacts_enable:
+    enable : false
+    title: ""
   funfacts:
   # funfacts loop
   - icon : "ion-ios-flask-outline" #ionicon pack v2 : https://ionicons.com/v2/
@@ -64,43 +72,85 @@ about:
 ################################ feature #####################################
 features:
   enable : true
-  title : "We are indepented Design & Development Agency"
+  title : "Vi har kunskap inom..."
   feature_item:
-  # feature item loop
-  - icon : "ion-ios-color-filter-outline" #ionicon pack v2 : https://ionicons.com/v2/
-    name : "IOS App Development"
-    content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut"
+  # ion-flash  ion-thermometer ion-planet  ion-ios-cloud ion-ios-pulse-strong ion-ios-speedometer-outline
+  # ion-ios-color-filter-outline  ion-ios-location-outline ion-ios-partlysunny-outline ion-settings ion-map
+  # ion-ios-star-outline ion-ios-lightbulb-outline ion-android-sync
+  # ion-android-globe ion-ios-flame ion-android-checkbox-blank ion-leaf
 
   # feature item loop
-  - icon : "ion-ios-unlocked-outline" #ionicon pack v2 : https://ionicons.com/v2/
-    name : "App Secutity"
-    content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut"
+  - icon : "ion-ios-speedometer" #ionicon pack v2 : https://ionicons.com/v2/
+    name : "LCA"
+    content : "Livscykelanalys"
 
   # feature item loop
-  - icon : "ion-ios-game-controller-b-outline" #ionicon pack v2 : https://ionicons.com/v2/
-    name : "Games Development"
-    content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut"
+  - icon : "ion-android-sync" #ionicon pack v2 : https://ionicons.com/v2/
+    name : "MFA"
+    content : "Material & Energiflödesanalys"
 
   # feature item loop
-  - icon : "ion-ios-mic-outline" #ionicon pack v2 : https://ionicons.com/v2/
-    name : "Animation and Editing"
-    content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut"
+  - icon : "ion-map" #ionicon pack v2 : https://ionicons.com/v2/
+    name : "GIS"
+    content : "Geografiska informationssystem" 
+  
+  # feature item loop
+  - icon : "ion-android-globe" #ionicon pack v2 : https://ionicons.com/v2/
+    name : "Klimatförändring"
+    content : "Statiska och dynamiska konsekvensbedömningar"
 
   # feature item loop
-  - icon : "ion-ios-lightbulb-outline" #ionicon pack v2 : https://ionicons.com/v2/
-    name : "UI/UX Design"
-    content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut"
+  - icon : "ion-flash" #ionicon pack v2 : https://ionicons.com/v2/
+    name : "Bioenergi"
+    content : "Från skog till jordbruk & stadsavfall"
 
   # feature item loop
-  - icon : "ion-ios-star-outline" #ionicon pack v2 : https://ionicons.com/v2/
-    name : "Branding"
-    content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut"
-
+  - icon : "ion-android-checkbox-blank" #ionicon pack v2 : https://ionicons.com/v2/
+    name : "Biokol"
+    content : "Fråm olika produktionskedja & för olika applikationer"
 
 #################################### testimonial & mission vision #######################################
-testimonial:
-  enable : true
-  # testimonial content comes from "data/*/homepage.yml" file
+testimonial_enable: true
+testimonial_title: "Lagmedlemmar"
+testimonial_slider:
+  # testimonial item loop
+  - name: "Cecilia Sundberg "
+    title: "Docent"
+    field: "inom bioenergisystem"
+    image: "/img/team/cesu.jpeg"
+    mail: "cecilia.sundberg@slu.se"
+    phone: "+46 186 718 11"
+  
+  - name: "Elias S. Azzi"
+    title: "Doktor"
+    field: "inom industriell ekologi & biokol system"
+    image: "/img/team/eazzi.jpeg"
+    mail: "eazzi@kth.se"
+    phone: "+46 7 001 939 88"
+
+  - name: "Shivesh Karan"
+    title: "Doktor, Postdoc"
+    field: "expert inom GIS analys"
+    image: "/img/team/skaran.jpg"
+    mail: "shivesh.karan@slu.se"
+    phone: ""
+
+  - name: "Lisa Zakrisson"
+    title: "Doktorand"
+    field: "inom LCA & biokolsystem"
+    image: ""
+    mail: "lisa.zakrisson@slu.se"
+    phone: ""
+
+  - name: "Asterios Papageorgiou"
+    title: "Doktorand"
+    field: "inom LCA
+    
+    
+    (tidigare medlem)"
+    image: ""
+    mail: ""
+    phone: ""
 
 mission_vision:
   enable : true

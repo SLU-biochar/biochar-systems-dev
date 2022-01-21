@@ -110,7 +110,7 @@ features:
 
 #################################### testimonial & mission vision #######################################
 testimonial_enable: true
-
+testimonial_title: "Team members"
 testimonial_slider:
   # testimonial item loop
   - name: "Cecilia Sundberg "

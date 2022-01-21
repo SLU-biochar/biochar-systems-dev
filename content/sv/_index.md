@@ -7,104 +7,118 @@ menu:
 ############################### Banner ##############################
 banner:
   enable: true
-  bg_image: "images/slider-bg.jpg"
+  bg_image: "img/biochar-banner.jpg"
   bg_overlay: true
-  title: "A Digital Marketing <br/> & Design Agency"
-  content: "We love the Web and the work we do.We work closely with our clients to deliver  the best possible solutions for their needs"
+  title: "Biokol <br> systemanalys"
+  content: "Att beskriva och kvantifiera miljöeffekterna av produktion och användning av biokol på ett systematiskt sätt"
   button:
     enable: true
-    label: "Discover Our Project"
-    link: "project"
+    label: "Upptäck metoden"
+    link: "modules"
 
 ############################# About #################################
 about:
   enable: true
-  title: "About Us"
-  description: "Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in Bookmarksgrove right at the coast of the Semantics"
-  content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id."
-  image: "images/wrapper-img.png"
+  title: "Om webbplatsen"
+  description: "Denna webbplats är den sista leveransen av ett 4-årigt forskningsprojekt finansierat av Vinnova, den svenska innovationsmyndigheten. Projektet utvärderade energi-, klimat- och miljökonsekvenserna av att använda biokolteknik i Sverige."
+  content: "
+  **Syftet** med denna webbplats är att dela med sig av insikter från olika fallstudier, i Sverige och utanför, men också att presentera metoder, data och modeller för att studera biokolsystem.
+  
+
+  **Målgruppen** inkluderar studenter, forskare, kommuner, konsulter och industriföretag, oavsett deras tidigare kunskapsnivå om biokol eller miljösystemanalys.
+  
+
+  Webbplatsen sköts för närvarande av forskargruppen **Bioenergisystem** vid Sveriges Lantbruksuniversitet (SLU). Innehållet är tänkt att uppdateras med nya fallstudier, data och modeller. Bidrag är välkomna: antingen <u><a href='mailto:cecilia.sundberg@slu.se?subject=Bidragsidéer för biokolsystem'> kontakta oss</a></u> med förslag, eller kolla in <u><a href='https://github.com/SLU-biochar/biochar-systems-dev' target='_blank'>bidragsguiden</a></u>."
+
+  image: "img/vinnova-sv.png"
 
 
 ######################### Portfolio ###############################
 portfolio:
   enable: true
-  bg_image: "images/feature-bg.jpg"
-  title: "WE BELIEVE IN GREAT IDEAS"
-  content: " Maecenas faucibus mollis interdum. Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus.
+  bg_image: "img/case-studies-bg.png"
+  title: "FALLSTUDIER"
+  content: " Varför gör man fallstudier? 
+  
+
+  Biokolsystem är olika: biokol kan produceras från olika biomassa, i många typer av pyrolysreaktorer, i olika skalor och användas i olika tillämpningar, på alla kontinenter. *Alla dessa möjliga konfigurationer kan leda till mycket olika miljöprestanda.*
 
 
-  Maecenas faucibus mollis interdum. Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus.
+  Vi har utfört fallstudier i Sverige (Stockholm, Lindeborg, Uppsala, Helsingborg) & utomlands (Kenya).
+  
+  <!--
+  - Large-scale biochar production connected to Stockholm's district heating, and biochar use as animal feed supplement and manure additive on dairy farms.
+  
+  - Small-scale biochar production on-farm, for drying grain, heating premises and greenhouses. 
+  
+  - Medium-scale biochar production from urban wood waste and use for remediation of contaminated soils
+  
+  - Biochar use in urban environment, whether in urban plantings, green roofs, water filters, concrete. 
 
+  - Biochar use for individual waste water management
 
-  Maecenas faucibus mollis interdum. Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus.
+  - Multi-criteria GIS analysis: on which arable land is biochar most suited in Sweden?
+
+  - Smallholder farming in Kenya: gasifier cookstove for improved cooking & biochar for improved soil fertility on degraded soils
+  
+  Lär dig mer om resultaten av dessa fallstudier ...
+  -->
+
   "
   button:
     enable: true
-    label: "View Works"
-    link: "project"
+    label: "Se fallstudier"
+    link: "case-studies"
 
 
 ############################# Service ############################
 service:
-  enable: true
+  enable: false
   # service content comes from "service.md" file
 
 
 ############################ call to action ###########################
 cta:
   enable: true
-  bg_image: "images/call-to-action-bg.jpg"
-  title: "We design delightful digital experiences."
-  content: "Read more about what we do and our philosophy of design. Judge for yourself The work and results <br> we’ve achieved for other clients, and meet our highly experienced Team who just love to design."
+  bg_image: "img/pyreg-sbp.jpg"
+  title: "Utvärdera ditt eget projekt och använd våra resurser"
+  content: "
+  Har du ett biokolprojekt i åtanke?
+  
+
+  Vår guide hjälper dig att göra en preliminär bedömning, ta itu med viktiga ämnen och kontrollera om några av våra resurser kan användas i ditt fall."
   button:
     enable: true
-    label: "Tell Us Your Story"
-    link: "contact"
+    label: "Utvärdera ditt projekt"
+    link: "evaluate-project"
 
 ############################# Funfacts ###############################
 funfacts:
-  enable: true
-  title: "Fun Facts About Us"
-  description: "'Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, <br> there live the blind texts. Separated they live in Bookmarksgrove right at the coast of the Semantics'"
+  enable: off
+  title: "Biokolproduktion i Sverige & Europa"
+  description: "Biokolproduktionen ökar. Det är dock svårt att få en överblick över produktionsvolymerna för biokol genom åren.
+  
+
+  Uppgifterna nedan baseras på en frivillig undersökning som årligen skickas ut till biokolproducenter."
   funfact_item:
   # funfacts item loop
-  - icon: "ion-ios-chatboxes-outline" #ionicon pack v2: https://ionicons.com/v2/
-    name: "Cups Of Coffee"
+  - icon: "ion-android-apps" #ionicon pack v2: https://ionicons.com/v2/
+    name: "Antal anläggningar"
     count: "99"
 
   # funfacts item loop
-  - icon: "ion-ios-glasses-outline" #ionicon pack v2: https://ionicons.com/v2/
-    name: "Article Written"
-    count: "45"
-
-  # funfacts item loop
-  - icon: "ion-ios-compose-outline" #ionicon pack v2: https://ionicons.com/v2/
-    name: "Projects Completed"
-    count: "125"
-
-  # funfacts item loop
-  - icon: "ion-ios-timer-outline" #ionicon pack v2: https://ionicons.com/v2/
-    name: "Combined Projects"
-    count: "200"
-
+  - icon: "ion-ios-circle-filled" #ionicon pack v2: https://ionicons.com/v2/
+    name: "Ton biokol produceras 2020"
+    count: "45000"
+  
+  testimonial_enable: false
   testimonial_slider:
   # testimonial item loop
   - name: "Raymond Roy"
-    image: "images/clients/avater-1.jpg"
+    image: ""
     designation: "CEO-Themefisher"
-    content: "This Company created an e-commerce site with the tools to make our business a success, with innovative ideas we feel that our site has unique elements that make us stand out from the crowd."
+    content: "Company X "
 
-  # testimonial item loop
-  - name: "Randi Renin"
-    image: "images/clients/avater-1.jpg"
-    designation: "CEO-Themefisher"
-    content: "This Company created an e-commerce site with the tools to make our business a success, with innovative ideas we feel that our site has unique elements that make us stand out from the crowd."
-
-  # testimonial item loop
-  - name: "Rose Rio"
-    image: "images/clients/avater-3.jpg"
-    designation: "CEO-Themefisher"
-    content: "This Company created an e-commerce site with the tools to make our business a success, with innovative ideas we feel that our site has unique elements that make us stand out from the crowd."
 
 
 ---

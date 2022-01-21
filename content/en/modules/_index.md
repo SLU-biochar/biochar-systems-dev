@@ -27,7 +27,7 @@ portfolio:
 <section class="">
     <div class="container">
         <div class="row center-block">
-            {{< svg src="img/flowchart.svg" gridclass="col-md-9 col-md-push-1" >}}
+            {{< svg src="img/flowchart_en.svg" gridclass="col-md-9 col-md-push-1" >}}
         </div>
     </div>
 </section>
@@ -38,7 +38,7 @@ portfolio:
 {{% notice tip %}}
 The flowchart is <mark>interactive</mark>! Click on a box to access a dedicated page with definitions, explanations, useful resources, data and references. The goal of this knowledge compilation is not to be a complete textbook on biochar, but specifically to provide key information for assessing biochar systems for environmental purposes or decision-making based on environmental condiserations.
 <br /><br />
-On each page, the information is presented by increasing <mark>level of complexity</mark>: at the top, you will find definitions and overview information. The more you scroll down, specialised concepts are explained and other useful resources are provided. The levels of complexity are marked in each sections, from <mark>easy</mark> (\*) to <mark>advanced</mark> (\*\*\*).
+On each page, the information is presented by increasing <mark>level of complexity</mark>: at the top, you will find definitions and overview information. The more you scroll down, specialised concepts are explained and other useful resources are provided.
 {{% /notice %}}
 
   </div>
