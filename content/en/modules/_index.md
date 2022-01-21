@@ -93,6 +93,8 @@ The flowchart can be helpful for:
 
 See some examples below:
 
+<a name="gitnew"></a>
+
 {{% expandcss idLabel="project-idea" title="**Describing the Stockholm Biochar Project in a systems perspective** " %}}
 
 Brief history of the Stockholm Biochar Project (SBP): 

@@ -4,7 +4,7 @@ baseURL = "https://ntropy-esa.github.io/biochar-systems/"
 title = 'Biochar Systems'
 theme = "airspace-hugo-adapted"
 themesDir = 'themes'
-buildDrafts = true # include draft pages when building, or not
+buildDrafts = false # include draft pages when building, or not
 publishDir = '../biochar-systems/' # default: 'public'
 ignoreErrors = ["error-remote-getcsv"]
 
