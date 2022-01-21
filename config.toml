@@ -1,6 +1,6 @@
 ################################# Basic configuration #########################
 # Documentation: https://gohugo.io/getting-started/configuration/#all-configuration-settings
-baseURL = "https://ntropy-esa.github.io/biochar-systems/"
+baseURL = "https://SLU-biochar.github.io/biochar-systems/"
 title = 'Biochar Systems'
 theme = "airspace-hugo-adapted"
 themesDir = 'themes'
