@@ -21,8 +21,10 @@ menu:
 To grasp the bigger picture, one must start with the global carbon cycle (Figure 1, reproduced from Friedlingstein & colleagues (2020), [available online](https://doi.org/10.5194/essd-12-3269-2020)).
 
 #### Repartition of anthropogenic carbon dioxide emissions
-Looking at the thick arrows, this figure tells us where anthropogenic emissions of carbon dioxide are distributed in various environmental compartments (ocean, atmosphere, terrestrial biosphere). On the one hand, anthropogenic emissions of carbon dioxide are made of: +9.4 GtC yr<sup>-1</sup> of fossil emissions & 1.6 GtC of land use change emissions. On the other hand, this carbon is dispersed in the environment: 3.4 GtC yr<sup>-1</sup> is taken up by vegetation, 
- GtC yr<sup>-1</sup> is taken up by oceans, and 5.1 GtC yr<sup>-1</sup> is taken up by the atmosphere. You notice that: (9.4 + 1.6) - (3.4 + 2.5 + 5.1) = 0.  There is a balance (neglecting here vulcano emissions & smaller uncertainties). Reminder: these +5.1 GtC yr<sup>-1</sup> in the atmosphere tells us by how much the concentration of CO2 in the atmosphere is increasing, and thereby the magnitude of the additional greenhouse effect. 
+Looking at the thick arrows, this figure tells us where anthropogenic emissions of carbon dioxide are distributed in various environmental compartments (ocean, atmosphere, terrestrial biosphere). 
+- On the one hand, anthropogenic emissions of carbon dioxide are made of: +9.4 GtC yr<sup>-1</sup> of fossil emissions & 1.6 GtC of land use change emissions. 
+- On the other hand, this carbon is dispersed in the environment: 3.4 GtC yr<sup>-1</sup> is taken up by vegetation,  2.5 GtC yr<sup>-1</sup> is taken up by oceans, and 5.1 GtC yr<sup>-1</sup> is taken up by the atmosphere. You notice that: (9.4 + 1.6) - (3.4 + 2.5 + 5.1) = 0.  
+There is a balance (neglecting here vulcano emissions & smaller uncertainties). Reminder: these +5.1 GtC yr<sup>-1</sup> in the atmosphere tells us by how much the concentration of CO2 in the atmosphere is increasing, and thereby the magnitude of the additional greenhouse effect. 
 
 {{< figure src="../img/climate_GlobalCarbonCycle-web.png" title="Fig 1. Representation of the overall perturbation of the global carbon cycle caused by anthropogenic activities, averaged globally for the decade 2010–2019. (Friedlingstein & colleagues, 2020, https://doi.org/10.5194/essd-12-3269-2020)" width="100%">}}<br />
 

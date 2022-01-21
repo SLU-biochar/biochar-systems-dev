@@ -26,7 +26,7 @@ The cradle-to-gate LCA of biomass production and supply should include (but not 
 
 #### 1. Supply-chain activities
 
-**For crop cultivation or forestry operations** (e.g. willon cultivation on cropland):
+**For crop cultivation or forestry operations** (e.g. willow cultivation on cropland):
 
 - Machinery and fuel use for e.g. land preparation, harvesting, irriguation
 - Manufacturing and disposal of machinery and infrastructure
@@ -60,8 +60,7 @@ For instance, in a study by Hammar & al (2015) logging residues are considered a
 What if to produce wood, we use biofuels made from wood via a fischer-trop process? That's what we call a loop in LCA. It can be solved but makes calculations sometimes more complicated than if we assume that fossil fuels are used in the supply-chain. 
 
 {{% notice tip%}}
-Read more about biomass supply chains in these articles:
-<br />
+Read more about biomass supply chains in the work of[ Wolf et al. (2016)](https://doi.org/10.1111/jiec.12321).
 {{% /notice %}} 
 
 </div>
@@ -89,8 +88,7 @@ Examples of reference *biomass* uses:
 - garden waste chipped and used as mulch
 
 {{% notice tip%}}
-Read more about reference land and biomass use in these articles:
-<br />
+Read more about reference land and biomass use in the work of [Bernes et al. (2012)](https://doi.org/10.1002/wene.41) & [Koponen et al. (2017)](https://doi.org/10.1016/j.rser.2017.05.292).
 {{% /notice %}} 
 
 </div>

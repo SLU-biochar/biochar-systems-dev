@@ -20,6 +20,7 @@ styling:
 <br />
 Predicting the exact composition and the qualities of pyrolysis oil and gases is not straightforward, and often requires actual experimentation or advanced chemistry models (e.g. Aspen).
 
+
 However, simpler <mark>mass and energy balances</mark> have been developped for special cases. Here, we present two of these:
 
 - Model 1: heat production only

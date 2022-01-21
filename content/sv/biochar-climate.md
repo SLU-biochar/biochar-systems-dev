@@ -21,10 +21,12 @@ menu:
 To grasp the bigger picture, one must start with the global carbon cycle (Figure 1, reproduced from Friedlingstein & colleagues (2020), [available online](https://doi.org/10.5194/essd-12-3269-2020)).
 
 #### Repartition of anthropogenic carbon dioxide emissions
-Looking at the thick arrows, this figure tells us where anthropogenic emissions of carbon dioxide are distributed in various environmental compartments (ocean, atmosphere, terrestrial biosphere). On the one hand, anthropogenic emissions of carbon dioxide are made of: +9.4 GtC yr<sup>-1</sup> of fossil emissions & 1.6 GtC of land use change emissions. On the other hand, this carbon is dispersed in the environment: 3.4 GtC yr<sup>-1</sup> is taken up by vegetation, 
- GtC yr<sup>-1</sup> is taken up by oceans, and 5.1 GtC yr<sup>-1</sup> is taken up by the atmosphere. You notice that: (9.4 + 1.6) - (3.4 + 2.5 + 5.1) = 0.  There is a balance (neglecting here vulcano emissions & smaller uncertainties). Reminder: these +5.1 GtC yr<sup>-1</sup> in the atmosphere tells us by how much the concentration of CO2 in the atmosphere is increasing, and thereby the magnitude of the additional greenhouse effect. 
+Looking at the thick arrows, this figure tells us where anthropogenic emissions of carbon dioxide are distributed in various environmental compartments (ocean, atmosphere, terrestrial biosphere). 
+- On the one hand, anthropogenic emissions of carbon dioxide are made of: +9.4 GtC yr<sup>-1</sup> of fossil emissions & 1.6 GtC of land use change emissions. 
+- On the other hand, this carbon is dispersed in the environment: 3.4 GtC yr<sup>-1</sup> is taken up by vegetation,  2.5 GtC yr<sup>-1</sup> is taken up by oceans, and 5.1 GtC yr<sup>-1</sup> is taken up by the atmosphere. You notice that: (9.4 + 1.6) - (3.4 + 2.5 + 5.1) = 0.  
+There is a balance (neglecting here vulcano emissions & smaller uncertainties). Reminder: these +5.1 GtC yr<sup>-1</sup> in the atmosphere tells us by how much the concentration of CO2 in the atmosphere is increasing, and thereby the magnitude of the additional greenhouse effect. 
 
-{{< figure src="../img/climate_GlobalCarbonCycle-web.png" title="Fig 1. Representation of the overall perturbation of the global carbon cycle caused by anthropogenic activities, averaged globally for the decade 2010–2019. (Friedlingstein & colleagues, 2020, https://doi.org/10.5194/essd-12-3269-2020)" width="100%">}}<br />
+{{< figure src="../../img/climate_GlobalCarbonCycle-web.png" title="Fig 1. Representation of the overall perturbation of the global carbon cycle caused by anthropogenic activities, averaged globally for the decade 2010–2019. (Friedlingstein & colleagues, 2020, https://doi.org/10.5194/essd-12-3269-2020)" width="100%">}}<br />
 
 #### Fast & slow cycles of carbon
 Now, looking at the thin arrows, the figures tells us about carbon cycling in the ocean, the terrestrial biosphere, rivers, lakes, and coastal areas. The geolocical carbon cycle is not visible, mainly because it is extremly slow (turnovers of millenias to millions of year) leading to small/neglectable natural flows. For the fast carbon cycles (daily to decadal & millenia turovers), the flows are much larger. 
@@ -54,7 +56,7 @@ All these terms are related. Some are synonyms. Some have different meanings. Le
 
 First, the largest difference is between the biochar carbon sink & climate change impact of a biochar system. It is illustrated in the Figure 2, below.
 
-{{< figure src="../img/climate_BiocharSinkImpact.png" title="Fig 2. The carbon sink of biochar is only a part of the climate change impact of a biochar system." width="100%">}}<br />
+{{< figure src="../../img/climate_BiocharSinkImpact.png" title="Fig 2. The carbon sink of biochar is only a part of the climate change impact of a biochar system." width="100%">}}<br />
 
 [to be continued]
 - Definitions of terms
@@ -82,7 +84,7 @@ Here, we only cover the second approach as it relies on actual observations and 
 
 The process to extrapolate incubation data to longer times is described in Figure 3, alongside with methodological choices that arise along the way.
 
-{{< figure src="../img/climate_BiocharDataAnalysis.png" title="Fig 3. From incubation data to stability estimators" width="100%">}}<br />
+{{< figure src="../../img/climate_BiocharDataAnalysis.png" title="Fig 3. From incubation data to stability estimators" width="100%">}}<br />
 
 
 [to be continued]
