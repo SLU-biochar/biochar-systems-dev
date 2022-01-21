@@ -140,7 +140,15 @@ At first, we recommend buying biochar. It's usually easier, allows for developme
 
 ## Storyline 4 - I am an investor or decision-maker... 
 
-You have heard about biochar, and you would like to invest or support a biochar project. Alternatively, you are a decision-maker or a consultant, and you have to decide whether or not to proceed with a biochar project, but lack an expertise in that area? The checklist below will try to get you covered.
+You have heard about biochar, and you would like to invest or support a biochar project. Alternatively, you are a decision-maker or a consultant, and you have to decide whether or not to proceed with a biochar project? 
+
+Ideally, you could have a look at our overall biochar system description
+
+And scan the 3 storylines above
+
+Then, try to fill in this empty template of our generic biochar system description
+
+
 
 
 
