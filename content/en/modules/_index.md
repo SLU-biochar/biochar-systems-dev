@@ -154,7 +154,7 @@ However, such an emission factor for biochar may be difficult to find in LCA res
 
 Here, we would like to stress that to determine a biochar emission factor, there is a need to make subjective choices:
 - delimiting the system boundaries (what is excluded from the modelling)
-- deciding upon a reference land of biomass fate
+- deciding upon a reference land or biomass fate
 - deciding how to handle co-products from pyrolysis, e.g. via allocation (which one?) or substition (which substituted product?)
 
 In LCA theory, there is no unique & objective way of making these choices. Burden attribution and references are subjective. However, in practice, guidelines like the EU Product Environmental Footprints or EPDs PCR are set of rules where these subjectives choices have been made for specific categories of products.
