@@ -1,8 +1,8 @@
 ---
 title: "Utvärdera ditt projekt"
 description: "
-Go through this guide to get a quick evaluation of your biochar project. Start by picking the storyline that fits you best."
-subtitle : "Pick a storyline below:"
+Genom denna guiden får du en snabbt en utvärdering av ditt biokolsprojekt. Börja med att välja det scenario som passar dig bäst."
+subtitle : "Välj ett scenario nedan:"
 lastmod: 2021-10-25T00:00:00
 bg_image: "img/lin-forest.JPG"
 layout: "evalproject"

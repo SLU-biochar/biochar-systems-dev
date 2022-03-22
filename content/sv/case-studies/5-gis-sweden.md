@@ -1,7 +1,7 @@
 ---
 title: "Rumslig och multikriterierekommendation för biokolanvändning på åkermark i Sverige"
 description: "
-*Vad var vår motivation?*
+*Vad var motivationen för studien?*
 
 " # a text describing the motivations, the context, the research questions, attratively
 draft: false

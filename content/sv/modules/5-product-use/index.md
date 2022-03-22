@@ -1,13 +1,13 @@
 ---
-title: "5 - Användning av biokolprodukter"
+title: "5 - Användning av biokolsprodukter"
 description: "
-It is usually during the use phase of biochar products that many of the biochar effects take place: e.g. improved water holding capacity of a soil, reduced emissions from fertiliser applications, or improved stormwater management.
+Vanligtvis är det under användningsfasen i biokolsprodukternas livscykel som många av effekterna från biokol uppkommer: t.ex. förbättrad vattenupptagningsförmåga i jord, minskade utsläpp från gödselanvändning, eller förbättrad hantering av dagvatten.
 
 
-The use phase of biochar products often lasts several decades (e.g. urban soils, green roof), but can also be limited to less than a few years (e.g. filters). In the case of application to agriculural soils, the use phase is theoretically infinite (and undistinguished from the end-of-life of the biochar product).
+Användningsfasen av biokolsprodukter pågår ofta i flera decennier (t.ex. jordar i urban miljö, gröna tak) men kan också vara begränsad till några få år (t.ex. filter). För applicering i jorden i jordbruket är användningsfasen teoretiskt sett oändligt lång (och går därmed inte att urskilja från det sista steget i biokolsproduktens livscykel, s.k. *end-of-life*).
 
 
-A challenge for when assessing new biochar products with long service life is to describe, understand, and quantify (over time) the biochar effects that take place during the use phase.
+En utmaning med att analysera nya biokolsprodukter med långa livslängder är att beskriva, förstå och över tid kvantifiera effekterna från biokolet som äger rum i användninsfasen.
 
 "
 title_image: "pyreg-sbp.jpg" # find a img of pyrolysis oil and gas, or a burner of it, or a condenser...
@@ -16,7 +16,7 @@ draft: false
 menu:
   main:
     parent: "Systemanalys"
-    name: "5. Biokolprodukt användning"
+    name: "5. Användning av biokolsprodukter"
     weight: 6
 category: "Module"
 # Page-specific JavaScript & CSS #ESA

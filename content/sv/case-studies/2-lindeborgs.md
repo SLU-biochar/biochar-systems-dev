@@ -1,10 +1,10 @@
 ---
 title: "Lindeborgs - Biokolproduktionspotential, variation och miljöprestanda på gårdsnivå "
 description: "
-*Vad var vår motivation?*
+*Vad var motivationen för studien?*
 
 
-Lindeborg's farm got its pyrolysis reactor back in fall 2017. It is one of the first farms in Sweden equipped with a such a reactor to provide heating to its premises and produce biochar. Our case study was performed in 2018-2019, at a time when little data from the plant were available and some operational challenges were reported, in particular during warm winter days. Therefore, the research focused on combining LCA to simulations of the operation of small-scale reactors at the farm level. 
+Lindeborgs gård har haft en pyrolysreaktor sedan hösten 2017. Det är en av de första gårdarna i Sverige med en sådan reaktor, med syfte att generera värme till byggnaderna och producera biokol. Vår fallstudie utfördes 2018-2019 och vid tidpunkten fanns det inte mycket data tillgänglig från reaktorn och vissa praktiska utmaningar upptäcktes, särskilt under varmare vinterdagar. Därför fokuserade denna studie på att kombinera livscykelanalys med simulering av de små reaktorerna i drift, på lokal nivå. 
 " # a text describing the motivations, the context, the research questions, attratively
 
 draft: false
@@ -19,11 +19,11 @@ menu:
     weight: 3
  
 information:
-  - info : "Open-source tools were combined to analyse new on-farm pyrolysis heating systems."
-  - info : "On-farm pyrolysis heating systems can achieve net negative emissions with biochar."
-  - info : "Proper sizing of pyrolysis heating system is crucial to maximise biochar production."
-  - info : "Biochar carbon sequestration came at an environmental cost, increased biomass use."
-  - info : "Sustainable biomass provision and efficient biochar use are determinant factors."
+  - info : "Open-source verktyg kombinerades för att analysera det nya pyrolys-värmesystemet på gården."
+  - info : "Värmesystem från pyrolys på gårdar kan uppnå negativa nettoklimatutsläpp med hjälp av biokol."
+  - info : "För att maximera produktionen av biokol är det av stor vikt att dimensionera pyrolys-värmesystemet på ett passande sätt."
+  - info : "Lagring av kol via biokolet hade i sig en miljöpåverkan, genom ökad användning av biomassa."
+  - info : "Hållbar tillförsel av biomassa och effektiv användning av biokol är kritiska faktorer."
 
 ---
 ## **Resurser**
@@ -41,17 +41,17 @@ information:
 
   <div class="col-md-4">
 
-  ### Presentations
-  The work was presented at a conference and several workshops. Download presentation slides below:
+  ### Presentationer
+  Studien har presenterats vid en konferens och ett flertal workshops. Slides från presentationerna kan laddas ned nedan:
 
   {{< button href="../presentation_2019-09-16_BiocharII_Farm scale biochar production.pdf" icon="download" >}} 2019, Cetraro, Bio-char II conference {{< /button >}}
   <br/><br/>
   </div>
   <div class="col-md-4">
 
-  ### Model
-  The modelling was performed in python, using brightway2 and ficus. The files are available on GitHub at [P2_farm_biochar](https://github.com/ntropy-esa/P2_farm_biochar). 
-
+  ### Modell
+  I studien modellerades systemet i Python, där brightway2 och ficus användes. Filerna finns tillgängliga på GitHub via [P2_farm_biochar](https://github.com/ntropy-esa/P2_farm_biochar). 
+ 
   </div>
 </div>
 
@@ -59,7 +59,7 @@ information:
   <div class="col-md-12">
   
   ### Inspelningar
-  Watch a presentation of the article.
+  Titta på en presentation av artikeln.
   </div>
 
   <div class="col-md-5">

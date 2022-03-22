@@ -9,7 +9,7 @@ banner:
   enable: true
   bg_image: "img/biochar-banner.jpg"
   bg_overlay: true
-  title: "Biokol <br> systemanalys"
+  title: "Biokolssystemanalys"
   content: "Att beskriva och kvantifiera miljöeffekterna av produktion och användning av biokol på ett systematiskt sätt"
   button:
     enable: true
@@ -22,13 +22,13 @@ about:
   title: "Om webbplatsen"
   description: "Denna webbplats är den sista leveransen av ett 4-årigt forskningsprojekt finansierat av Vinnova, den svenska innovationsmyndigheten. Projektet utvärderade energi-, klimat- och miljökonsekvenserna av att använda biokolteknik i Sverige."
   content: "
-  **Syftet** med denna webbplats är att dela med sig av insikter från olika fallstudier, i Sverige och utanför, men också att presentera metoder, data och modeller för att studera biokolsystem.
+  **Syftet** med denna webbplats är att dela med sig av insikter från olika fallstudier, i och utanför Sverige, men också att presentera metoder, data och modeller för att studera biokolsystem.
   
 
   **Målgruppen** inkluderar studenter, forskare, kommuner, konsulter och industriföretag, oavsett deras tidigare kunskapsnivå om biokol eller miljösystemanalys.
   
 
-  Webbplatsen sköts för närvarande av forskargruppen **Bioenergisystem** vid Sveriges Lantbruksuniversitet (SLU). Innehållet är tänkt att uppdateras med nya fallstudier, data och modeller. Bidrag är välkomna: antingen <u><a href='mailto:cecilia.sundberg@slu.se?subject=Bidragsidéer för biokolsystem'> kontakta oss</a></u> med förslag, eller kolla in <u><a href='https://github.com/SLU-biochar/biochar-systems-dev' target='_blank'>bidragsguiden</a></u>."
+  Webbplatsen sköts för närvarande av forskargruppen **Bioenergisystem** vid Sveriges Lantbruksuniversitet (SLU). Innehållet är tänkt att uppdateras med nya fallstudier, data och modeller. Bidrag är välkomna: ni kan antingen <u><a href='mailto:cecilia.sundberg@slu.se?subject=Bidragsidéer för biokolsystem'> kontakta oss</a></u> med förslag, eller vända er till <u><a href='https://github.com/SLU-biochar/biochar-systems-dev' target='_blank'>bidragsguiden</a></u> på GitHub."
 
   image: "img/vinnova-sv.png"
 
@@ -41,10 +41,10 @@ portfolio:
   content: " Varför gör man fallstudier? 
   
 
-  Biokolsystem är olika: biokol kan produceras från olika biomassa, i många typer av pyrolysreaktorer, i olika skalor och användas i olika tillämpningar, på alla kontinenter. *Alla dessa möjliga konfigurationer kan leda till mycket olika miljöprestanda.*
+  Biokolsystem är olika; biokol kan produceras från olika typer av biomassa, i olika skalor och typer av pyrolysreaktorer, och användas i olika tillämpningar, på alla kontinenter. Det finns således många möjliga konfigurationer, och  *de kan resultera i mycket olika miljöprestanda.*
 
 
-  Vi har utfört fallstudier i Sverige (Stockholm, Lindeborg, Uppsala, Helsingborg) & utomlands (Kenya).
+  Vi har utfört fallstudier i Sverige (Stockholm, Lindeborg, Uppsala, Helsingborg) och utomlands (Kenya).
   
   <!--
   - Large-scale biochar production connected to Stockholm's district heating, and biochar use as animal feed supplement and manure additive on dairy farms.
@@ -83,10 +83,10 @@ cta:
   bg_image: "img/pyreg-sbp.jpg"
   title: "Utvärdera ditt eget projekt och använd våra resurser"
   content: "
-  Har du ett biokolprojekt i åtanke?
+  Har du ett biokolprojekt på gång?
   
 
-  Vår guide hjälper dig att göra en preliminär bedömning, ta itu med viktiga ämnen och kontrollera om några av våra resurser kan användas i ditt fall."
+  Vår guide hjälper dig att göra en preliminär bedömning, ta itu med viktiga frågor och se om våra resurser kan användas i ditt fall."
   button:
     enable: true
     label: "Utvärdera ditt projekt"

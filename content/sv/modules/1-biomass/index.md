@@ -1,7 +1,7 @@
 ---
-title: "1 - Biomassa tillförsel"
-description: "<p>Biomass is organic matter that comes from living organisms, mainly plants and animals. Biomass is a renewable resource, in the sense that it derives - directly or indirectly - from photosynthesis. However, biomass is also a limited resource, meaning that the amounts available in a given year are finite.</p>
-<p>Humans rely on biomass for a variety of services: human food, animal feed, biomaterials and bioenergy. In total, it is estimated that the human appropriation of Earth's biomass productivity is already around 30%, and it is expected to increase in future scenarios with high use of biomaterials and bioenergy.</p>"
+title: "1 - Tillförsel av biomassa"
+description: "<p>Biomassa är organiskt material som härstammar från levande organismer, framför allt växter och djur. Biomassa är en förnybar resurs, på så sätt att det uppkommer genom fotosyntesen, antingen direkt eller indirekt. Dock är biomassa också en begränsad resurs, vilket betyder att mändgen tillgänglig biomassa är ändlig.</p>
+<p>Människor är beroende av biomassa för en mängd olika tjänster: mat för människor såväl som djur, biomaterial och bioenergi. Människans användning av jordens totala produktion av biomassa uppskattas vara så stor som omkring 30% för närvarande, och det förväntas öka i framtiden med användning av biomaterial och bioenergi i hög grad.</p>"
 title_image: "pexels-andré-cook-131723.jpg"
 title_image_credit: "André Cook, via Pexel"
 draft: false
@@ -9,7 +9,7 @@ draft: false
 menu:
   main:
     parent: "Systemanalys"
-    name: "1. Biomassa tillförsel"
+    name: "1. Tillförsel av biomassa"
     weight: 2
 
 category: [ "Module"]

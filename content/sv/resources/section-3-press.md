@@ -9,7 +9,7 @@ styling:
 
 <div class="col-md-8">
 
-### **På nyheterna**
+### **I nyheterna**
 
 <!-- * 202x-xx-xx, Media, [title](url)  -->
 

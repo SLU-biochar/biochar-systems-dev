@@ -1,12 +1,12 @@
 ---
 title: "3 - Användning av pyrolysbiprodukter"
 description: "
-<p>When biochar is in focus, the co-products are the pyrolysis oil and gases.</p>
-<p>In many commercial reactors, today, these products are combusted directly and a fraction of the released heat is used for <mark>sustainaing the pyrolysis</mark> reaction, <mark>drying</mark> the incoming biomass, and eventually, any excess heat can be recovered for <mark>space heating</mark>. In some cases, <mark>steam</mark> can be produced or a turbine can be added to convert thermal energy to <mark>electricity</mark>.</p>
+<p>Med biokol i fokus är biprodukterna oljan och gaserna från processen.</p>
+<p>I många kommersiella reaktorer idag förbränns dessa produkter direkt och en anvdel av den genererade värmen används för att <mark>pyrolysprocessen</mark> ska fortgå, <mark>torkning</mark> av den inkommande biomassan, och så småningom om kan överflödig värme användas för <mark>uppvärmning av lokaler</mark>. I vissa fall kan <mark>ånga</mark> produceras och en turbin kan läggas till i systemet för att konvertera termisk energi till <mark>elektricitet</mark>.</p>
 
-<p>More advanced reactors can include a post-treatment step to modify the properties of the gases and oil. In these cases, the new chemicals obtained can be stored and later used as liquid fuel or material .</p>
+<p>I mer avancerade reaktorer kan det finnas ett efterbehandlingssteg för att modifiera gasernas eller oljan egenskaper. I dessa fall kan nya erhållna kemikalier förvaras för att senare användas som flytande bränsle eller material.</p>
 
-<p>For environmental systems analysis, a key question regarding the use of co-products is to identify equivalent products on the markets, i.e. products with similar properties that they can substitute.</p>
+<p>I miljösystemanalyser är en viktig fråga gällande biprodukterna att identifiera likvärdiga produkter som redan finns på marknaden, t.ex. produkter med liknande egenskaper som de kan substituera.</p>
 "
 title_image: "pyreg-sbp.jpg" # find a img of pyrolysis oil and gas, or a burner of it, or a condenser...
 title_image_credit: "Stockholm Vatten och Avfall"

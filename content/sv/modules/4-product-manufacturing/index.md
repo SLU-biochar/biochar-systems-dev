@@ -1,13 +1,13 @@
 ---
-title: "4 - Tillverkning av biokolprodukter"
+title: "4 - Tillverkning av biokolsprodukter"
 description: "
-Once produced, biochar is used as a material, in combination with other materials, to make a \"biochar product\". In other words, biochar is an input to the lifecycle of a \"biochar product\", which has its manufacturing, use and disposal phases.
+När väl producerat kombineras biokol med andra material för att skapa en \"biokolsprodukt\". Med andra ord, biokol är en input i livscykeln av en \"biokolsprodukt\", vilken är uppdelad i tillverkning, användning och avfallshantering.
 
 
-Beyond direct application of biochar to soils, biochar can be involved in a variety of products, in multiple industries: animal feed or food additive, manure management or biowaste treatment additive, specialised fertilisers, soil blends, filters, construction materials, electronics...
+Förutom direkt användning av biokol i jordar kan biokol användas i en mängd olika produkter och industrier: djurfoder eller tillsatser i mat, gödselhantering eller tillsats i behandling av biologiskt avfall, specialiserade gödseltyper, jordblandningar, filter, byggmaterial, elektronik, ...
 
 
-Inclusion of biochar in products leads to change in the formulation of the products. From a systems analysis perpsective, this relative change may lead to substitition of materials and shifts of environmental impacts.
+När biokol är del av produkter förändras tillverkningen av produkterna. Från ett systemanalysperspektiv kan denna förändringen innebära substitution av material och en förskjutning av miljöpåverkan.
 
 "
 title_image: "pyreg-sbp.jpg" # find a img of pyrolysis oil and gas, or a burner of it, or a condenser...
@@ -16,7 +16,7 @@ draft: false
 menu:
   main:
     parent: "Systemanalys"
-    name: "4. Biokolprodukter"
+    name: "4. Biokolsprodukter"
     weight: 5
 
 category: "Module"

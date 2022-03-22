@@ -1,10 +1,10 @@
 ---
 title: "Uppsala - Biokol i stadsmiljö"
 description: "
-*Vad var vår motivation?*
+*Vad var motivationen för studien?*
 
 
-The number of organisations interested in biochar products rose dramatically between 2017 and 2021. In particular, multiple companies started to market biochar products for use in urban areas. Therefore, we wanted to assess the environmental performance of such products. In addition, Uppsala municipality who was a partner of this project, was interested in estimating amounts of biochar needed for its future southern city district. 
+Antalet organisation som är intresserade av biokolsprodukter steg drastiskt mellan 2017 och 2021. Ett flertal företag har börjat marknadsföra biokolsprodukter specifikt för urbana användningsområden. Med detta som bakgrund ville vi bedöma miljöpåverkan av sådana produkter. För Uppsala kommun, som deltog i detta projektet, var det även av intresse att estimera mändged biokol som behövs för den framtida södra statsdelen.
 " # a text describing the motivations, the context, the research questions, attratively
 draft: false
 image : "case-studies/4-uppsala-art.png"
@@ -18,11 +18,11 @@ menu:
 
 category: ["LCA", "MFA", "Sverige", "Biokol i stadsmiljö", "Uppsala"]
 information:
-  - info : "Multiple life cycle assessments of novel urban biochar applications were performed."
-  - info : "Urban biochar use can have better climate impact than reference and oxidative uses."
-  - info : "Low climate impact requires high biochar stability and decarbonised energy system."
-  - info : "Biochar leads to shifts of environmental burden between sectors and impacts."
-  - info : "In a city perspective, adequate management of future biochar waste flows is needed."
+  - info : "Ett flertal livscykelanalyser av nya urbana användningsområden för biokol utfördes."
+  - info : "Urban biokolsanvändning kan ha lägre klimatpåverkan än annan referensanvändning, samt förbränning."
+  - info : "För att uppnå en låg klimatpåverkan krävs en high stabilitet hos biokolet samt ett energisystem fritt från fossila bränslen."
+  - info : "Biokol resulterar i att miljöpåverkan förflyttas mellan olika sektorer och typer av miljöpåverkan."
+  - info : "Från ett stadsperspektiv behövs avfall som uppkommer från biokolssystemet i framtiden tas hand om på ett korrekt sätt."
 
 ---
 
@@ -41,8 +41,8 @@ information:
 
   <div class="col-md-4">
 
-  ### Presentations
-  The work was presented at a conference and several workshops, for different target audiences. Download presentation slides below:
+  ### Presentationer
+  Studien har presenterats vid en konferens och ett flertal workshops, för olika målgrupper. Slides från presentationerna kan laddas ned nedan:
 
   {{< button href="../presentation_2021-08-15_LCM 2021 short_Biochar urban applications.pdf" icon="download" >}} 2021 LCM conference, short {{< /button >}}
   <br/><br/>
@@ -53,8 +53,8 @@ information:
   </div>
   <div class="col-md-4">
 
-  ### Model
-  The modelling was performed in python, using brightway2. The files are available on GitHub at [P5_uppsala](https://github.com/ntropy-esa/P5_uppsala).
+  ### Modell
+  Modellering utfördes i programmeringsspråket Python, med brightway2. Filerna finns tillgängliga på GitHub via [P5_uppsala](https://github.com/ntropy-esa/P5_uppsala).
 
   </div>
 </div>
@@ -63,7 +63,7 @@ information:
   <div class="col-md-12">
   
   ### Inspelningar
-  Watch a presentation of the article.
+  Titta på en presentation av artikeln.
   </div>
 
   <div class="col-md-5">

@@ -1,5 +1,5 @@
 ---
-title: "Om vår forskning grupp"
+title: "Om vår forskningsgrupp"
 description: ""
 bg_image: "images/feature-bg.jpg"
 layout: "about"
@@ -102,12 +102,12 @@ features:
   # feature item loop
   - icon : "ion-flash" #ionicon pack v2 : https://ionicons.com/v2/
     name : "Bioenergi"
-    content : "Från skog till jordbruk & stadsavfall"
+    content : "Från skog till jordbruk och stadsavfall"
 
   # feature item loop
   - icon : "ion-android-checkbox-blank" #ionicon pack v2 : https://ionicons.com/v2/
     name : "Biokol"
-    content : "Fråm olika produktionskedja & för olika applikationer"
+    content : "Från olika produktionskedjor & för olika applikationer"
 
 #################################### testimonial & mission vision #######################################
 testimonial_enable: true

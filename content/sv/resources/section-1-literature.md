@@ -14,9 +14,9 @@ lastmod: "2022-01-20"
 
 ### **Vetenskaplig litteratur** - ett _urval_
 
-Mellan tidigt 2000-tal och 2020 publicerades mer än 15 000 forskningsartiklar inklusive nyckelordet <mark>biokol</mark> i akademiska tidskrifter. Under 2020 publicerades cirka 4000 artiklar. Det motsvarar mer än 10 nya artiklar varje dag. I den här takten är det bokstavligen omöjligt – för forskare såväl som enskilda – att läsa all forskning som finns om biokol.
+Mellan tidigt 2000-tal och 2020 publicerades mer än 15 000 forskningsartiklar som hade <mark>biokol</mark> som sökord i akademiska tidskrifter. Under 2020 publicerades cirka 4000 artiklar. Det motsvarar mer än 10 nya artiklar varje dag. I den här takten är det bokstavligen omöjligt – för forskare såväl som enskilda – att läsa all forskning som finns om biokol.
 
-Därför föreslår vi nedan några <mark>stora referenser</mark>, grupperade efter ämnen (klicka för att expandera):
+Därför föreslår vi nedan några <mark>huvudreferenser</mark>, grupperade efter ämnen (klicka för att expandera):
 
 {{% expandcss idLabel="general" title=" **Generell översikt** " collpased='True' %}}
 - Bird, M. I.; Wynn, J. G.; Saiz, G.; Wurster, C. M.; McBeath, A. The Pyrogenic Carbon Cycle. Annu. Rev. Earth Planet. Sci. 2015, 43 (1), 273–298. https://doi.org/10.1146/annurev-earth-060614-105038
@@ -83,7 +83,7 @@ Därför föreslår vi nedan några <mark>stora referenser</mark>, grupperade ef
 - Liu, W.-J.; Jiang, H.; Yu, H.-Q. Emerging Applications of Biochar-Based Materials for Energy Storage and Conversion. Energy Environ. Sci. 2019, 12 (6), 1751–1779. https://doi.org/10.1039/C9EE00206E
 {{% /expandcss %}}
 
-{{% expandcss idLabel="carbon-sink" title="**Biokol stabilitet**" collpased='True' %}}
+{{% expandcss idLabel="carbon-sink" title="**Biokolsstabilitet**" collpased='True' %}}
 - Woolf, D.; Lehmann, J.; Ogle, S.; Kishimoto-Mo, A. W.; McConkey, B.; Baldock, J. Greenhouse Gas Inventory Model for Biochar Additions to Soil. Environ. Sci. Technol. 2021. https://doi.org/10.1021/acs.est.1c02425.
 
 - Leng, L.; Huang, H.; Li, H.; Li, J.; Zhou, W. Biochar Stability Assessment Methods: A Review. Sci. Total Environ. 2019, 647, 210–222. https://doi.org/10.1016/j.scitotenv.2018.07.402
