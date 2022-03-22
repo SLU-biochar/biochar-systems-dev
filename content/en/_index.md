@@ -20,7 +20,7 @@ banner:
 about:
   enable: true
   title: "About this website"
-  description: "This website is the last deliverable of a 4-year research project funded by the Vinnova, the Swedish innovation agency. The project evaluated the energy, climate and environmental implications of deploying biochar technologies in Sweden."
+  description: "This website is the last deliverable of a 4-year research project funded by Vinnova, the Swedish innovation agency. The project evaluated the energy, climate and environmental implications of deploying biochar technologies in Sweden."
   content: "
   The **purpose** of this website is to share the insights gained from various case studies, in Sweden and beyond, but also to present methodologies, data and models for studying biochar systems.
   
@@ -28,7 +28,7 @@ about:
   The **target audience** includes students, researchers, municipalities, consultants, and industrials, regardless of their prior level of knowledge on biochar or environmental systems analysis. 
   
 
-  The website is currently maintained by the **Bioenergy systems** research group at the Swedish University of Agricultural Sciences (SLU). The contents are meant to be updated, with new case studies, data, and models. Contributions are welcome: either <u><a href='mailto:cecilia.sundberg@slu.se?subject=Contribution ideas for biochar-systems'> reach out to us</a></u> with suggestions, or check the <u><a href='https://github.com/SLU-biochar/biochar-systems-dev' target='_blank'>contribution guide</a></u>."
+  The website is currently maintained by the **Bioenergy systems** research group at the Swedish University of Agricultural Sciences (SLU). The contents are meant to be updated, with new case studies, data, and models. Contributions are welcome: either <u><a href='mailto:cecilia.sundberg@slu.se?subject=Contribution ideas for biochar-systems'> reach out to us</a></u> with suggestions, or check the <u><a href='https://github.com/SLU-biochar/biochar-systems-dev' target='_blank'>GitHub contribution guide</a></u>."
 
   image: "img/vinnova-en.png"
 
@@ -38,13 +38,13 @@ portfolio:
   enable: true
   bg_image: "img/case-studies-bg.png"
   title: "CASE STUDIES"
-  content: " Why doing case studies? 
+  content: " Why do case studies? 
   
 
   Biochar systems are diverse: biochar can be produced from different biomass, in many types of pyrolysis reactors, at different scales, and used in various applications, on all continents. *All these possible configurations can lead to very different environmental performances.*
 
 
-  We have performed case studies in Sweden (Stockholm, Lindeborg, Uppsala, Helsingborg) & abroad (Kenya). 
+  We have performed case studies in Sweden (Stockholm, Lindeborg, Uppsala, Helsingborg) and abroad (Kenya). 
   
   <!--
   - Large-scale biochar production connected to Stockholm's district heating, and biochar use as animal feed supplement and manure additive on dairy farms.
@@ -83,10 +83,10 @@ cta:
   bg_image: "img/pyreg-sbp.jpg"
   title: "Evaluate your own project & make use of our resources"
   content: "
-  You have a biochar project in mind?
+  Do you have a biochar project in mind?
   
 
-  Our guide will help you to perform a preliminary assessment, tackle key topics, and check if some of our resources can be applied to your case."
+  Our guide will help you to perform a preliminary assessment, tackle key topics, and check if our resources can be applied to your case."
   button:
     enable: true
     label: "Analyse your project"

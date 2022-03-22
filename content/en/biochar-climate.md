@@ -9,10 +9,10 @@ draft: false
 menu:
   main:
     parent: "More"
-    name: "Biochar & Climate"
+    name: "Biochar and climate"
     weight: 1
   footer:
-    name: "Biochar & Climate"
+    name: "Biochar and climate"
     weight: 4
 ---
 

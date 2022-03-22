@@ -4,6 +4,20 @@ This repository contains the content and layout files for the Hugo website on "b
 
 If you are reading this, it means that you are likely an editor of the contents of the website. This README.md file will guide you in how to edit the website: 
 
+## Contribution guide
+
+Feedback & contributions to this project are welcome. Feedback can be sent by email to elias.azzi@slu.se. Contributions can be made via filing issues on Github & making pull requests. 
+
+On the content side:
+- Identification of bugs or language typos
+- Translation improvements to existing languages (English, Swedish), translation to new languagues
+- Submission of new contents e.g. pyrolysis datasheets, life cycle inventories
+- Suggestion of new references & scientific content vulgarisation
+- ...
+
+On the technical side: 
+- Suggestion of new interactive modules, or improvement of existing ones
+- ...
 
 ## Prerequisites & Installation
 
@@ -25,7 +39,7 @@ To check your that everything is ok:
 - type 'hugo version' 
 - it should return the version number of hugo
 
-### 2. git & github account
+### 2. git or github account
 Git & GitHub are two different things, but we use them together.
 - GitHub is hosting the online version of the repository, accessible to others
 - Git is used locally, on your computer, to track changes you make to a folder, and save these changes at different points in time (so called commits)
@@ -184,8 +198,3 @@ https://opensource.com/article/19/7/create-pull-request-github
 - From the command line, in the folder biochar-systems-dev, type: 'hugo'
 - The generated website will be located in the folder biochar-systems (at the same level as biochar-systems-dev)
 - Place these files on your web server, and it will be up and running
-
-
-## Contribution guidelines
-
-
