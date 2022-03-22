@@ -1,10 +1,10 @@
 ---
-title: "Biokol spisar i Kenya"
+title: "Biokolsspisar i Kenya"
 description: "
-*Vad var vår motivation?*
+*Vad var motivationen för studien?*
 
 
-Biochar has been shown to have large positive effects on degraded tropical soils. Early biochar research actually comes from tropical agriculture. But, how to produce biochar in these regions? What other socio-environmental effects can be obtained? 
+Biokol har visat sig ha stora positiva effekter i tropiska jordar av låg kvalitet. Tidig forskning på biokol härstammar faktiskt från tropiskt jordbruk. Men hur ska biokol produceras i dessa regioner? Vilka andra socio-miljö-effekter kan uppstå? 
 " # a text describing the motivations, the context, the research questions, attratively
 draft: false
 image : "/case-studies/7-kenya-cookstove-art.jpg"
@@ -13,15 +13,15 @@ bg_image: "images/feature-bg.jpg"
 menu:
   main:
     parent: "Fallstudier"
-    name: "7. Kenyan cookstove"
+    name: "7. Kenya"
     weight: 8
 
 category: ["LCA", "Kenya", "Afrika"]
 information:
-  - info : "In this research project, the production and use of biochar in 150 smallholder farming households in three different regions in Kenya was investigated. Biochar-producing cookstoves were distributed and fuel use efficiency, emissions and biochar production were quantified. Effects on crop yields after application of biochar to soil was studied."
-  - info : "Biochar produced in cookstoves can contribute to negative carbon emissions through sequestration of biomass carbon, while also providing clean renewable energy and increasing yields in tropical agriculture."
-  - info : "The project is a transdisciplinary collaboration between researchers in Kenya (IITA, ICRAF and CIFOR) and Sweden (KTH, SLU and Lund University)."
-  - info : "The research is funded by the Swedish Research Council, grant No. 2015 03180, and the Swedish Research Council for Environment, Agricultural Sciences and Spatial Planning, grants No. 924-2015-1112 and 942-2015-1648."
+  - info : "I det här forskningsprojektet undersöktes produktion och användning av biokol i 150 små jordbrukshushåll i tre olika regioner i Kenya. Spisar som producerar biokol distribuerades och bränsleanvändningseffektivitet, utsläpp och biokolsproduktion kvantifierades. Dessutom studerades hur tillsättning av biokol i jorden påverkade skörden av grödor."
+  - info : "Biokol som produceras i spisar can bidra till negativa koldioxidutsläpp genom lagring av kol från biomassa, samtidigt som förnybar energi genereras och skördar blir större i tropiskt jordbruk."
+  - info : "Projektet är ett transdisciplinärt samarbete mellan forskare i Kenya (IITA, ICRAF och CIFOR) och Sverige (KTH, SLU och Lunds universitet)."
+  - info : "Forskningen finansierades av Vetenskapsrådet, nr. 2015 03180, samt Formas, nr. 924-2015-1112 och 942-2015-1648."
 ---
 
 ## **Resurser**
@@ -35,7 +35,7 @@ Gitau, K. J.; Sundberg, C.; Mendum, R.; Mutune, J.; Njenga, M. Use of Biochar-Pr
 Gitau, K. J.; Mutune, J.; Sundberg, C.; Mendum, R.; Njenga, M. Factors Influencing the Adoption of Biochar-Producing Gasifier Cookstoves by Households in Rural Kenya. Energy Sustain. Dev. 2019, 52, 63–71 https://doi.org/10.1016/J.ESD.2019.07.006
 
 
-  Complete list of references further down.
+  En komplett lista av referenser finns längre ned på sidan.
 
   </div>
 

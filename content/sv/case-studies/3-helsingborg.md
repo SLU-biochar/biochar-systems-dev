@@ -1,10 +1,10 @@
 ---
 title: "Helsingborg - Biokol framställt av träavfall för marksanering"
 description: "
-*Vad var vår motivation?*
+*Vad var motivationen för studien?*
 
 
-This RE:source-funded project investigated whether it is possible to valorise urban wood waste as biochar, and to use the biochar to remediate lightly contaminated soil and avoids its landfilling. The work involved a municipal waste management company (NSR), researchers with expertise in soil remediation, and our LCA research group. While others in the project were responsible for testing the biochar remediation technique, our task was to evaluate the environmental suitability of this technique from life cycle perspective.
+Denna studien finansierades av RE:source och undersökte huruvida det är möjligt att valorise urbant träavfall (woodwaste) som biokol, samt använda biokolet för att sanera milt förorenad jord och därmed undvika deponering. I studien samarbetade ett kommunalt avfallshanteringsföretag (NSR), forskare med expertis inom jordsanering, och vår forskningsgrupp inom livscykelanalys. Medan andra i projectet var ansvariga för att testa tekniken för rening med hjälp av biokol innefattade vårt arbete att utvärdera miljöpåverkan av denna tekink från ett livscykelperspektiv.
 " # a text describing the motivations, the context, the research questions, attratively
 
 draft: false
@@ -19,11 +19,11 @@ menu:
 
 category:  [ "Sverige", "LCA", "MFA", "SFA", "Marksanering", "Helsingborg"]
 information:
-  - info : "Using biochar for soil remediation was compared to landfilling of contaminated soil."
-  - info : "Biochar treatment brought large reductions of CO<sub>2</sub>-emissions compared to landfilling."
-  - info : "100-year leaching of PAH and Cu was much lower in treated soil than in landfill."
-  - info : "100-year leaching of several other metals was too sensitive to model assumptions."
-  - info : "Biochar for remediation is promising but needs case-specific risk assessment."
+  - info : "Användning av biokol för sanering av jordar jämfördes med deponering av förorenad jord."
+  - info : "Biokolsbehandlingen innebar stora reduktioner av CO<sub>2</sub>-utsläpp jämfört med deponering."
+  - info : "100-års läckage av PAH och Cu var mycket mindre i behandlade jordar än i deponi."
+  - info : "100-års läckage av flera andra metaller var för osäkert för att kunna model assumptions."
+  - info : "Biokol för sanering av jordar är en lovande teknik men kräver fallspecifik riskbedömning."
 ---
 
 ## **Resurser**
@@ -36,28 +36,28 @@ information:
 
   {{< button href="../papageorgiou2021_HELS.ris" icon="download" >}} Download citation as RIS {{< /button >}}
   <br/><br/>
-  {{< button href="https://www.sciencedirect.com/science/article/pii/S0048969721010202/pdfft?isDTMRedir=true&download=true" icon="download" >}} Download as PDF {{< /button >}}
+  {{< button href="https://www.sciencedirect.com/science/article/pii/S0048969721010202/pdfft?isDTMRedir=true&download=true" icon="download" >}} Ladda ned som PDF {{< /button >}}
   </div>
 
   <div class="col-md-4">
 
-  ### Presentations
-  The work was presented at a conference and several workshops. Download presentation slides below:
+  ### Presentationer
+  Studien har presenterats vid en konferens och ett flertal workshops. Slides från presentationerna kan laddas ned nedan:
 
   {{< button href="../presentation_2020-04-15_Remediation_GreenCarbonWebinar.pdf" icon="download" >}} 2020 Webinar slides {{< /button >}}
   <br/><br/>
 
-  ### Project report
-  A project report was also published in Swedish language: Enell A, Azzi ES, Berggren Kleja D, et al (2020) Biokol - från organiskt avfall till resurs för nyttiggörande av jordavfall, Syntesrapport, Statens geotekniska institut, SGI, Linköping, 2020-11-09. Linköping
+  ### Projektrapport
+  En projektrapport har också publicerats: Enell A, Azzi ES, Berggren Kleja D, et al (2020) Biokol - från organiskt avfall till resurs för nyttiggörande av jordavfall, Syntesrapport, Statens geotekniska institut, SGI, Linköping, 2020-11-09. Linköping
 
-  {{< button href="https://www.sgi.se/globalassets/syntesrapport-biokol-resource-2020-11-09_ny.pdf" icon="download" >}} Download as PDF {{< /button >}}
+  {{< button href="https://www.sgi.se/globalassets/syntesrapport-biokol-resource-2020-11-09_ny.pdf" icon="download" >}} Ladda ned som PDF {{< /button >}}
 
   </div>
   <div class="col-md-4">
 
-  ### Model
-  The modelling was performed in Microsoft Excel and python, using brightway2. The files are available upon request.
-
+  ### Modell
+  Modellering utfördes i Microsoft Excel och Python, med brightway2. Filerna finns tillgängliga vid efterfrågan.
+ 
   </div>
 </div>
 
@@ -65,7 +65,7 @@ information:
   <div class="col-md-12">
   
   ### Inspelningar
-  Watch a presentation of the article.
+  Titta på en presentation av artikeln.
   </div>
 
   <div class="col-md-5">

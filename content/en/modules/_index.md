@@ -36,9 +36,9 @@ portfolio:
   <div class="col-md-9 col-md-push-1">
 
 {{% notice tip %}}
-The flowchart is <mark>interactive</mark>! Click on a box to access a dedicated page with definitions, explanations, useful resources, data and references. The goal of this knowledge compilation is not to be a complete textbook on biochar, but specifically to provide key information for assessing biochar systems for environmental purposes or decision-making based on environmental condiserations.
+The flowchart is <mark>interactive</mark>! Click on a box to access a dedicated page with definitions, explanations, useful resources, data and references. The goal of this knowledge compilation is not to be a complete textbook on biochar, but specifically to provide key information for assessing biochar systems for environmental purposes or decision-making based on environmental considerations.
 <br /><br />
-On each page, the information is presented by increasing <mark>level of complexity</mark>: at the top, you will find definitions and overview information. The more you scroll down, specialised concepts are explained and other useful resources are provided.
+On each page, the information is presented by increasing <mark>level of complexity</mark>: at the top, you will find definitions and overview information. As you scroll down, specialised concepts are explained and other useful resources are provided.
 {{% /notice %}}
 
   </div>
@@ -67,7 +67,7 @@ Like any other product, a biochar product has a use phase and an end-of-life (al
 
 #### **Multi-functionality**
 Biochar systems are multi-functional: 
-- The biochar product has a function, e.g. tree planted or water filtered, 
+- The biochar product has a function, e.g. tree planted or water filtered
 - Another function is provided by the pyrolysis oil and gas, e.g energy services
 - Since we are dealing with biomass, we also have either a reference land use or a reference biomass use, e.g. if waste biomass is used, the biochar system has a waste treatment function.
 

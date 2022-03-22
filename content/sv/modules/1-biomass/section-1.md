@@ -9,15 +9,15 @@ styling:
 
 <div class="col-md-8">
 
-### Biomass for pyrolysis systems
+### Biomassa i pyrolyssystem
 
-Any kind of biomass can be used for pyrolysis, but common biomass feedstocks include:
-- wood and wood processing by-products, 
-- agricultural crop and residues, 
-- marine biomass, 
-- biogenic waste from municipal waste streams, 
-- and animal manure, human faeces and sewage sludge. 
+Alla typer av biomassa kan pyrolyseras, men de vanligaste är:
+- trä och restprodukter från behandling av trä, 
+- grödor och rester från jordbruket,
+- marint växtmaterial, 
+- organiskt hushållsavfall, 
+- samt naturgödsel, mänsklig avföring och slam från vattenreningsverk. 
 
-Biomass feedstocks have different properties and are available in different amounts. They also have variable supply-chains, which leads to differentiated environmental impacts. 
+Olika typer av biomassa har olika egenskaper och är tillgängliga i olika mängder. De tillverkas också på olika sätt, vilket innebär att de inte har samma miljöpåverkan. 
 
 </div>

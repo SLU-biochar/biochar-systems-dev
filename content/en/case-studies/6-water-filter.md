@@ -1,7 +1,7 @@
 ---
 title: "Biochar water filters"
 description: "
-*What was our motivation?*
+This research project is ongoing and aims to assess and compare the environmental impacts of sandfilters and biocharfilters in smallscale, onsite wastewater treatment.
 
 " # a text describing the motivations, the context, the research questions, attratively
 draft: false

@@ -1,5 +1,5 @@
 ---
-title: "Biokol & Klimat"
+title: "Biokol och klimat"
 description: "[page under construction]"
 subtitle : "Biokol är välkänt som ett alternativ för att mildra klimatförändringarna. Här vill vi ge helheten och återbesöka en del av den grundläggande vetenskapen bakom det."
 bg_image: "img/lin-field.JPG"
@@ -9,10 +9,10 @@ draft: false
 menu:
   main:
     parent: "Mer"
-    name: "Biokol & Klimat"
+    name: "Biokol och klimat"
     weight: 1
   footer:
-    name: "Biokol & Klimat"
+    name: "Biokol och klimat"
     weight: 4
 ---
 

@@ -1,12 +1,12 @@
 ---
-title: Glossary
-description: "Definition of key terms used across the website"
+title: Ordlista
+description: "Definitioner av vanliga termer på hemsidan"
 draft: false
 bg_image: "images/feature-bg.jpg"
 layout: "list"
 menu:
   footer:
-    name: "Glossary"
+    name: "Ordlista"
     weight: 10
 ---
 

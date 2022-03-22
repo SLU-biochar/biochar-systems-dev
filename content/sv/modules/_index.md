@@ -1,7 +1,7 @@
 ---
-title: "Biokolsystemsanalys"
+title: "Biokolssystemanalys"
 description: "
-Här presenterar vi ett generiskt flödesschema för att beskriva biokolsystem och vi länkar till 8 moduler som förklarar varje del av ett biokolsystem.
+Nedan presenteras ett generiskt flödesschema för att beskriva biokolssystem, med länkar till 8 moduler som förklarar varje separat del av systemet.
 " # How to analyse biochar production and use in a systematic manner
 draft: false
 bg_image: "img/lin-field.JPG"
@@ -36,9 +36,9 @@ portfolio:
   <div class="col-md-9 col-md-push-1">
 
 {{% notice tip %}}
-Flödesschemat är <mark>interaktivt</mark>! Klicka på en ruta för att komma åt en dedikerad sida med definitioner, förklaringar, användbara resurser, data och referenser. Målet med denna kunskapssammanställning är inte att vara en komplett lärobok om biokol, utan specifikt att ge nyckelinformation för bedömning av biokolsystem för miljöändamål eller beslutsfattande baserat på miljöförutsättningar.
+Flödesschemat är <mark>interaktivt</mark>! Klicka på en ruta för att komma åt en dedikerad sida med definitioner, förklaringar, användbara resurser, data och referenser. Målet med denna kunskapssammanställning är inte att vara en komplett lärobok om biokol, utan att ge information som kan vara behjälplig för bedömning av biokolsystem för miljöändamål eller beslutsfattande baserat på miljöförutsättningar.
 <br /><br />
-På varje sida presenteras informationen genom ökande <mark>komplexitetsnivå</mark>: högst upp hittar du definitioner och översiktsinformation. Ju mer du scrollar ner, förklaras specialiserade koncept och andra användbara resurser visas.
+På varje sida presenteras informationen med ökande <mark>komplexitetsnivå</mark>: högst upp hittar du definitioner och översiktsinformation. När du scrollar ner förklaras specialiserade koncept och du hittar även andra användbara resurser.
 {{% /notice %}}
 
   </div>
@@ -48,33 +48,33 @@ På varje sida presenteras informationen genom ökande <mark>komplexitetsnivå</
   <div class="col-md-9 col-md-push-1">
 
   ## **Flowchart description** 
-The flowchart above describes a biochar system, starting with the <mark>production of biomass</mark> and finishing with the <mark>end-of-life of the biochar product</mark>. Outside of the boundaries, a <mark>reference system</mark> is depicted. 
+Flödesschemat ovan beskriver ett biokolssystem, som börjar med <mark>produktion av biomassa</mark> och slutar med <mark>avfallshantering av biokolsprodukten</mark>. Utanför systemgränserna finnas <mark>referenssystem</mark>.
 
-#### **Biomass production**
-It involves the cultivation of land, the application of fertilisers, the use of agricultural or forestry machinery. It can also refer to the collection & preparation of a waste biomass stream.
+#### **Produktion av biomassa**
+Det första steget av ett biokolssystem innefattar kultivering av mark, gödselanvändning, samt maskiner för skogs- eller jordbruk. Detta steg kan också innebära insamling och behandling av avfallsbiomassa.
 
-#### **Biomass pyrolysis**
-Once the biomass is produced, harvested and delivered, the next step is the thermochemical conversion step. It may include some pre-treatment, like drying or chipping. The main treatment is the pyrolysis reaction. From there, multiple streams are generated: biochar, pyrolysis gas & pyrolysis oil.
+#### **Pyrolys av biomassa**
+När biomassan har blivit producerad, skördad och levererad är nästa steg termokemisk omvandling. Detta steg kan även innefatta ett förbehandlingssteg, såsom att torka eller flisa materialet. Själva huvudbehandling är dock pyrolys av materialet. Från pyrolyssteget genereras flera material: biokol, gas och olja.
 
-#### **Use of tars and gases**
-The pyrolysis gases and oils are usually burnt to produce energy services, like heating or electricity. In some cases, the pyrolysis oil can be condensed, upgraded, and stored for later use.
+#### **Användning av olja och gaser**
+Gasen och oljan som fås av pyrolysen förbränns ofta i syfte att producera energi, såsom värme eller elektricitet. I vissa fall kan oljan kondenseras, uppgraderas och förvaras för senare användning.
 
-#### **Biochar product manufacturing** & **Supply of other materials**
-Biochar is then combined with other materials to make different biochar products. This may include some post-processing of the biochar like seiving, crushing, or activation. Many biochar products exists: soil blends for urban areas, water filters, or engineered fertilisers for the agricultural sector.
+#### **Tillverkling av biokolssprodukten** och **tillförsel av annat material**
+Biokol kombineras vidare med annat material för att tillverka biokolsprodukter. Detta steg kan inkludera efterbehandling av biokolet, såsom sållning, kross, eller aktivering. Det finns många olika typer av biokolsprodukter: olika jordblandningar för användning i urbana miljöer, vattenfilter, eller gödselmedel som kan användas i jordbrukssektorn.
 
-#### **Biochar product use** & **end-of-life**
-Like any other product, a biochar product has a use phase and an end-of-life (also known as waste management phase). 
+#### **Användning av biokolsprodukten** och **avfallshantering**
+Som vilken annnan produkt som helst har biokolsprodukter en användningsfas, och efter att produkten inte längre fyller sitt syfte ses den som avfall, som ska hanteras. 
 
-#### **Multi-functionality**
-Biochar systems are multi-functional: 
-- The biochar product has a function, e.g. tree planted or water filtered, 
-- Another function is provided by the pyrolysis oil and gas, e.g energy services
-- Since we are dealing with biomass, we also have either a reference land use or a reference biomass use, e.g. if waste biomass is used, the biochar system has a waste treatment function.
+#### **Multifunktionalitet**
+Biokolssystem är multifunktionella: 
+- Biokolsprodukten har en funktion, t.ex. plantering av ett träd, eller filtrering av vatten, 
+- Ytterligare en funktion uppkommer från oljan och gasen från pyrolysprocessen, exempelvis produktion av energi
+- Eftersom vi använder oss av biomassa har vi antingen en referens för landanvändning eller användning av biomassa, t.ex. om vi använder oss av avfallsbiomassa har biokolssystemet avfallshantering som funktion.
 
-For all these functions, one or several reference situations can be defined.
+För alla dessa funktioner kan en eller flera referenser definieras.
 
 {{% notice note %}}
-The flowchart above results from our experience in performing LCA of various biochar systems. It is further described in our research article about assessing the co-benefits of biochar (<a href="https://doi.org/10.1016/j.jenvman.2021.112154" target="_blank">Azzi et al. 2021</a>) and in the following <a href="https://urn.kb.se/resolve?urn=urn:nbn:se:kth:diva-303912" target="_blank">PhD thesis</a>. 
+Flödesschemat ovan är ett resultat från våra livscykelanalyser av ett flertal biokolssystem. En mer detaljerad beskrivning finns i vår forskningsartikel som behandlar biokolseffekter (<a href="https://doi.org/10.1016/j.jenvman.2021.112154" target="_blank">Azzi et al. 2021</a>) samt i den efterföljande <a href="https://urn.kb.se/resolve?urn=urn:nbn:se:kth:diva-303912" target="_blank">doktorsavhandlingen</a>. 
 {{% /notice %}}
 
   </div>

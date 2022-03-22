@@ -1,13 +1,13 @@
 ---
 title: "7 - Referens- och bakgrundssystem"
 description: "
-The environmental performance of a given biochar production process & biochar application is not intrinsic to it. 
+Hur miljövänlig produktionsprocessen och användningen av biokol är har inte bara med dessa processerna i sig själva att göra.
 
 
-In fact, environmental performance depends of the context in which we are set (so called background system). Besides, environmental performance is always relative and ought to be compared to alternative equivalent systems or reference systems.
+Miljövänligheten beror faktiskt även på kontexten av systemet (det så-kallade bakgrundssystemet). Dessutom är hållbarhet alltid relativ och bör bli jämförd med alternativa, likvärdiga system eller referenssystem.
 
 
-This module will explain and illustrate these two statements.
+I denna modulen kommer dessa två koncept förklaras och illustreras.
 "
 title_image: "pyreg-sbp.jpg" # find a img of pyrolysis oil and gas, or a burner of it, or a condenser...
 title_image_credit: "Stockholm Vatten och Avfall"

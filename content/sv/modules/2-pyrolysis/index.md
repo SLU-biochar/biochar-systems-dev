@@ -1,11 +1,11 @@
 ---
 title: "2 - Pyrolys"
 description: "
-<p>Pyrolysis is the thermochemical conversion process during which a (biomass) feedstock is heated in the partial or total absence of oxygen. While pyrolysis is the main technique for producing biochar, other thermochemical conversion techniques exists for carbonising biomass such as torrefaction, hydrothermal carbonisation, and gasification.</p>
+<p>Pyrolys är termokemisk omvandling där ett (organiskt) material värms upp i en syrefattig eller helt syrefri miljö. Pyrolys är den vanligaste tekniken för produktion av biokol, men det finns även andra termokemiska omvandlingsteknikser för att höja kolhalten i biomassa, såsom torrefiering, hydrotermisk karbonisering (HTC), och förgasning.</p>
 
-<p>Biomass pyrolysis yields three main products: non-condensable gases, liquid oil or tars, and solid char. Often, the pyrolysis gases and oil are directly combusted and recovered as energy. In more advanced cases, pyrolysis oil and gas can be recovered, upgraded and used later for energy or chemical products.</p>
+<p>Pyrolys av biomassa resulterar i tre huvudsakliga produkter: icke-kondenserbara gaser, flytande oljor eller tjära, samt kol i fast form. Ofta förbränns gaserna och oljan direkt för att utvinna energi. I mer avancerade fall kan oljor och gaser utvinnas, uppgraderas och användas senare för att utvinna energi eller kemiska produkter.</p>
 
-<p>In environmental systems analysis, pyrolysis is described as a multi-functional process or multi-product process since it delivers several useful products or services. Note that if <b>waste</b> biomass is used in pyrolysis, another service can be defined, namely <b>waste treatment</b>.</p>
+<p>I miljösystem analyser beskrivs pyrolys som en multifunktionell eller multi-produkt process eftersom den leverar ett flertal användbara produkter eller tjänster. Notera att om biomassa i form av <b>avfall</b> pyrolyseras kan ytterligare en produkt definieras, nämligen <b>avfallshantering</b>.</p>
 "
 title_image: "pyreg-sbp.jpg"
 title_image_credit: "Stockholm Vatten och Avfall"

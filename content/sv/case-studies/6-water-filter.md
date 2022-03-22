@@ -1,7 +1,7 @@
 ---
-title: "Vatten filter med biokol"
+title: "Vattenfilter med biokol"
 description: "
-*Vad var vår motivation?*
+Detta är ett pågående forskningsprojekt med syftet att beräkna och jämföra miljöpåverkan från markbäddar och biokolsfilter i små avloppsanläggningar.
 
 " # a text describing the motivations, the context, the research questions, attratively
 draft: false
@@ -11,7 +11,7 @@ bg_image: "images/feature-bg.jpg"
 menu:
   main:
     parent: "Fallstudier"
-    name: "6. Water filters"
+    name: "6. Vattenfilter"
     weight: 7
 
 category: ["LCA", "Sverige"]

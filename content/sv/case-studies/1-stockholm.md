@@ -1,7 +1,7 @@
 ---
-title: "Stockholm - Prospektiv livscykelanalys av storskalig biokolproduktion och användning på mjölkgårdar"
+title: "Stockholm - Prospektiv livscykelanalys av storskalig biokolsproduktion och användning på mjölkgårdar"
 description: "
-*Vad var vår motivation?*
+*Vad var motivationen för studien?*
 
 
 Stockholm har ett stort fjärrvärmenät för att ge termisk komfort under vintertid. Under de senaste decennierna har bränslemixen i värmenätet blivit kraftigt dekarboniserad, och flyttat bort från kol och olja för att gynna biomassa, storskaliga värmepumpar och avfall. Vad kan vara nästa steg för att ytterligare minska klimatpåverkan från Stockholms energisystem? Är det klimatlämpligt att investera i en storskalig biokolanläggning eller ska vi investera i konventionell bioenergiteknik? Det var sammanhanget för denna fallstudie, utförd 2017-2019." # a text describing the motivations, the context, the research questions, attratively
@@ -19,8 +19,8 @@ menu:
 information:
   - info : "En storskalig pyrolysanläggning kan integreras i Stockholms fjärrvärmenät och fungera som baslastanläggning med hög drifttid (ca 80 % av året)"
   - info : "Jämfört med konventionell bioenergi producerar pyrolys mindre värme och kraft per enhet biomassa. Detta innebär en avvägning mot klimatförändringar som främst påverkas av vilken typ av el som finns tillgänglig."
-  - info : "Om koldioxidutsläpp av el uppnås blir att bygga en ny pyrolysanläggning ett bättre klimatalternativ än konventionell förbränning."
-  - info : "Effekterna av kaskadanvändning av biokol i djurhållning är osäkra men skulle kunna ge 10–20 % mer begränsning än direkt biokolinförlivning i marken, via minskningar av utsläpp av lustgas och metan."
+  - info : "Med ett fossilfritt elsystem blir bygge av en ny pyrolysanläggning ett bättre klimatalternativ än konventionell förbränning."
+  - info : "Det finns vissa osäkerheter för bedömning av effekterna av kaskadanvändning av biokol i djurhållning, men de skulle kunna ge 10–20 % mer reduktion än direkt biokolinförlivning i marken, via minskningar av utsläpp av lustgas och metan."
 
 ---
 
@@ -39,8 +39,8 @@ information:
 
   <div class="col-md-4">
 
-  ### Presentations
-  The work was presented at two conferences and several workshops. Download presentation slides below:
+  ### Presentationer
+  Studien har presenterats vid två konferenser och ett flertal workshops. Slides från presentationerna kan laddas ned nedan:
 
   {{< button href="../presentation_2019-10-16_NBN Conference_P1 Stockholm.pdf" icon="download" >}} 2019, Stockholm, Nordic Biochar conference {{< /button >}}
   <br/><br/>
@@ -48,8 +48,8 @@ information:
   </div>
   <div class="col-md-4">
 
-  ### Model
-  The modelling was performed in Microsoft Excel. The file is available upon request.
+  ### Modell
+  Microsoft Excel användes för modellering. Filen finns tillgänglig vid tillfrågning.
 
   </div>
 </div>
@@ -58,7 +58,7 @@ information:
   <div class="col-md-12">
   
   ### Inspelningar
-  Watch a presentation of the article.
+  Titta på en presentation av artikeln.
   </div>
 
   <div class="col-md-5">
