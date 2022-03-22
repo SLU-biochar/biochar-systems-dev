@@ -18,18 +18,21 @@ menu:
 
 ## A. Biochar in the global carbon cycle
 
-To grasp the bigger picture, one must start with the global carbon cycle (Figure 1, reproduced from Friedlingstein & colleagues (2020), [available online](https://doi.org/10.5194/essd-12-3269-2020)).
+To grasp the bigger picture, one must start with the global carbon cycle. Figure 1, reproduced from Friedlingstein & colleagues (2020, [available online](https://doi.org/10.5194/essd-12-3269-2020)) describes two features of the global carbon cycle:
+1. The repartition of anthropogenic carbon dioxide emissions in the environment
+2. The magnitude of the fast and slow carbon cycles
 
-#### Repartition of anthropogenic carbon dioxide emissions
-Looking at the thick arrows, this figure tells us where anthropogenic emissions of carbon dioxide are distributed in various environmental compartments (ocean, atmosphere, terrestrial biosphere). 
-- On the one hand, anthropogenic emissions of carbon dioxide are made of: +9.4 GtC yr<sup>-1</sup> of fossil emissions & 1.6 GtC of land use change emissions. 
-- On the other hand, this carbon is dispersed in the environment: 3.4 GtC yr<sup>-1</sup> is taken up by vegetation,  2.5 GtC yr<sup>-1</sup> is taken up by oceans, and 5.1 GtC yr<sup>-1</sup> is taken up by the atmosphere. You notice that: (9.4 + 1.6) - (3.4 + 2.5 + 5.1) = 0.  
-There is a balance (neglecting here vulcano emissions & smaller uncertainties). Reminder: these +5.1 GtC yr<sup>-1</sup> in the atmosphere tells us by how much the concentration of CO2 in the atmosphere is increasing, and thereby the magnitude of the additional greenhouse effect. 
+{{< figure src="../img/climate_GlobalCarbonCycle-web.png" title="Figure 1. Representation of the overall perturbation of the global carbon cycle caused by anthropogenic activities, averaged globally for the decade 2010–2019. ([Friedlingstein & colleagues, 2020](https://doi.org/10.5194/essd-12-3269-2020))" width="100%">}}<br />
 
-{{< figure src="../img/climate_GlobalCarbonCycle-web.png" title="Fig 1. Representation of the overall perturbation of the global carbon cycle caused by anthropogenic activities, averaged globally for the decade 2010–2019. (Friedlingstein & colleagues, 2020, https://doi.org/10.5194/essd-12-3269-2020)" width="100%">}}<br />
+#### 1. Repartition of anthropogenic carbon dioxide emissions
+Looking at the thick arrows in Figure 1, this figure explains where anthropogenic emissions of carbon dioxide are distributed in various environmental compartments (ocean, atmosphere, terrestrial biosphere). 
+- On the one hand, anthropogenic emissions of carbon dioxide include: 9.4 GtC yr<sup>-1</sup> of fossil carbon and 1.6 GtC of biogenic carbon arising from land use changes.
+- On the other hand, this carbon is dispersed in the environment: 3.4 GtC yr<sup>-1</sup> is taken up by vegetation,  2.5 GtC yr<sup>-1</sup> is taken up by oceans, and 5.1 GtC yr<sup>-1</sup> is taken up by the atmosphere. 
 
-#### Fast & slow cycles of carbon
-Now, looking at the thin arrows, the figures tells us about carbon cycling in the ocean, the terrestrial biosphere, rivers, lakes, and coastal areas. The geolocical carbon cycle is not visible, mainly because it is extremly slow (turnovers of millenias to millions of year) leading to small/neglectable natural flows. For the fast carbon cycles (daily to decadal & millenia turovers), the flows are much larger. 
+You notice that there is a balance (neglecting here vulcano emissions & smaller uncertainties): (9.4 + 1.6) - (3.4 + 2.5 + 5.1) = 0. In addition, the +5.1 GtC yr<sup>-1</sup> that add up in the atmosphere tells by how much the concentration of carbon dioxide in the atmosphere is increasing, and thereby sets the magnitude of the additional greenhouse effect arising from carbon dioxide. 
+
+#### 2. Fast & slow cycles of carbon
+Now, looking at the thin arrows in Figure 1, the figures explains the carbon cycling in the ocean, the terrestrial biosphere, rivers, lakes, and coastal areas. The geolocical carbon cycle is not visible, mainly because it is extremly slow (turnovers of millenias to millions of year) leading to small/neglectable natural flows. For the fast carbon cycles (daily to decadal & millenia turovers), the flows are much larger. 
 
 One is of particular interest to biobased technologies like biochar: the carbon cycle from vegetation, with its two main mechanisms photosynthesis & respiration. These flows are of about 120 GtC yr<sup>-1</sup> ([Ruy, Berry and Baldocchi, 2019](https://www.sciencedirect.com/science/article/pii/S0034425719300161)). Biomass based removal technologies are basically trying to imbalance the two flows in this cycle: increase photosynthesis (biomass productivity) & slow down respirtation (biomass decomposition). 
 
