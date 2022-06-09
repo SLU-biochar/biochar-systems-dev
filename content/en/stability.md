@@ -65,7 +65,8 @@ The project started in january 2022, and will continue until year 2025:
 
 ## Research outputs (dated 2022-06-08)
 
-* WP5: {{< button href="../schema_fromJSON.html" icon="download" >}} Biochar Stability Database Schema {{< /button >}}
+* WP5: A database schema to describe biochar stability incubation data was created. You can download it in machine readable format (JSON) or display it as a human readable HTML file (right click on the buttons below to open in a new tab) <br />
+{{< button href="../schema_fromJSON.html" icon="download" >}} HTML Database Schema {{< /button >}} {{< button href="../schema.json" icon="download" >}} JSON Database Schema {{< /button >}}
 
-
+schema.json
 </div>
