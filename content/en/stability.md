@@ -62,4 +62,10 @@ The project started in january 2022, and will continue until year 2025:
 * Helena Söderqvist (2050 Consulting) Knowledge bridge between market & user. helena.soderqvist@2050.se
 * <i>To be recruited</i> Post-doctoral researcher, field and laboratory trials
 
+
+## Research outputs (dated 2022-06-08)
+
+* WP5: {{< button href="../schema_fromJSON.html" icon="download" >}} Biochar Stability Database Schema {{< /button >}}
+
+
 </div>
