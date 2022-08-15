@@ -31,8 +31,7 @@ information:
   <div class="col-md-4">
 
   ### Reference
- Azzi ES, Karltun E, Sundberg C (2021) Life cycle assessment of urban uses of biochar and case study in Uppsala, Sweden. DOI: [submitted to journal]()
-
+ Azzi ES, Karltun E, Sundberg C (2022). Life cycle assessment of urban uses of biochar and case study in Uppsala, Sweden. <i>Biochar</i>, <i>4</i>(1), 18. DOI: https://doi.org/10.1007/s42773-022-00144-3
 
   {{< button href="" icon="download" >}} Download citation as RIS {{< /button >}}
   <br/><br/>
