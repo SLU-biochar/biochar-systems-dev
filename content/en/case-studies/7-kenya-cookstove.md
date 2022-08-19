@@ -1,5 +1,6 @@
 ---
 title: "Kenyan biochar cookstoves"
+slug: "kenya-cookstove"
 description: "
 *What was our motivation?*
 
