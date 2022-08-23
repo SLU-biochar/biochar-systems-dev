@@ -134,7 +134,14 @@ div.notices {
   margin: 2rem 0;
   position: relative;
 }
-div.notices p {
+div.notices a:not(.btn-default){
+  color: rgb(0, 0, 0);
+}
+div.notices a:not(.btn-default):hover{
+  color: rgb(129, 128, 128);
+}
+
+div.notices p{
   padding: 15px;
   display: block;
   font-size: 1.5rem;
