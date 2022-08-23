@@ -1,5 +1,6 @@
 ---
 title: "Biokolsspisar i Kenya"
+slug: "kenya-biokol"
 description: "
 *Vad var motivationen för studien?*
 
