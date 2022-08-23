@@ -11,7 +11,7 @@ styling:
 
 ### **MSc and BSc theses**
 
-Master and bachelor students write their theses with us on biochar. Here is a selection of recent ones:
+Master and bachelor students write their theses with us on biochar. Here is a selection of recent ones (titles are linked to the publications):
 
 MSc:
 * Lisa Zakrisson, 2021, [Comparative life cycle assessment of bioenergy systems with and without carbon dioxide removal](http://urn.kb.se/resolve?urn=urn:nbn:se:kth:diva-296955)
