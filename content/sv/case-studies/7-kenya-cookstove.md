@@ -5,7 +5,7 @@ description: "
 *Vad var motivationen för studien?*
 
 
-Biokol har visat sig ha stora positiva effekter i tropiska jordar av låg kvalitet. Tidig forskning på biokol härstammar faktiskt från tropiskt jordbruk. Men hur ska biokol produceras i dessa regioner? Vilka andra socio-miljö-effekter kan uppstå? 
+Biokol har visat sig ha stora positiva effekter i tropiska jordar av låg kvalitet. Tidig forskning om biokol härstammar faktiskt från tropiskt jordbruk. Men hur ska biokol produceras i dessa regioner? Vilka andra socio-miljö-effekter kan uppstå? 
 " # a text describing the motivations, the context, the research questions, attratively
 draft: false
 image : "/case-studies/7-kenya-cookstove-art.jpg"
@@ -20,9 +20,9 @@ menu:
 category: ["LCA", "Kenya", "Afrika"]
 information:
   - info : "I det här forskningsprojektet undersöktes produktion och användning av biokol i 150 små jordbrukshushåll i tre olika regioner i Kenya. Spisar som producerar biokol distribuerades och bränsleanvändningseffektivitet, utsläpp och biokolsproduktion kvantifierades. Dessutom studerades hur tillsättning av biokol i jorden påverkade skörden av grödor."
-  - info : "Biokol som produceras i spisar can bidra till negativa koldioxidutsläpp genom lagring av kol från biomassa, samtidigt som förnybar energi genereras och skördar blir större i tropiskt jordbruk."
+  - info : "Biokol som produceras i spisar kan bidra till negativa koldioxidutsläpp genom lagring av kol från biomassa, samtidigt som förnybar energi genereras och skördarna ökar i tropiskt jordbruk."
   - info : "Projektet är ett transdisciplinärt samarbete mellan forskare i Kenya (IITA, ICRAF och CIFOR) och Sverige (KTH, SLU och Lunds universitet)."
-  - info : "Forskningen finansierades av Vetenskapsrådet, nr. 2015 03180, samt Formas, nr. 924-2015-1112 och 942-2015-1648."
+  
 ---
 
 ## **Resurser**
@@ -84,6 +84,10 @@ Gitau, K. J.; Mutune, J.; Sundberg, C.; Mendum, R.; Njenga, M. Factors Influenci
 ## **Vill du läsa mer?**
 <div class="row">
   <div class="col-md-10">
+
+### Finansiering
+
+Forskningen 2016-2020 finansierades av Vetenskapsrådet, nr. 2015 03180, samt Formas, nr. 924-2015-1112 och 942-2015-1648.
 
 ### Project summary 
 

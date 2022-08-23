@@ -85,6 +85,11 @@ Gitau, K. J.; Mutune, J.; Sundberg, C.; Mendum, R.; Njenga, M. Factors Influenci
 <div class="row">
   <div class="col-md-10">
 
+### Funding
+
+The research (2016 to 2020) was funded by Vetenskapsrådet, with grant number 2015 03180, as well as Formas, with grant numbers 924-2015-1112 and 942-2015-1648.
+
+
 ### Project summary 
 
 Biochar produced in cookstoves can contribute to negative carbon emissions through sequestration of biomass carbon, while also providing clean renewable energy and increasing yields in tropical agriculture.
