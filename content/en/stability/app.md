@@ -51,7 +51,7 @@ The two graphs below present the actual biochar incubation data, for all observa
 
 <div class="row">
 <div id="component_1" style="height:90vh; margin:0 5% 1% 5%; max-width: 90%;" >
-    <div class="bk-root" id="d68cfcea-c95e-477b-babc-619787335918" data-root-id="1112"></div>    <br />
+    <div class="bk-root" id="7d585b7e-fba4-4f38-9308-3405cc4af5d1" data-root-id="1795"></div>    <br />
     <br />
 </div>
 </div>
@@ -96,7 +96,7 @@ Below, more interactive figures and text analyses are provided. They reproduce t
 <div class="row">
 <div class="col-md-7">
 <div id="component_2" style="max-height:90vh; margin:0 5% 1% 5%;" >
-    <div class="bk-root" id="637b00b1-a162-4bef-a70b-7d7550b180ac" data-root-id="2034"></div>    <br />
+    <div class="bk-root" id="8409e091-e1ce-4743-8942-3bf7c21dabf7" data-root-id="2401"></div>    <br />
 </div>
 </div>
 
@@ -141,7 +141,7 @@ A key difference between the biochar from different feedstocks is the ash conten
 <div class="row">
 <div class="col-md-7">
 <div id="component_3" style="max-height:90vh; margin:0 5% 1% 5%;" >
-    <br />
+    <div class="bk-root" id="f982bdaf-f103-4140-baeb-1625b889cf0a" data-root-id="2884"></div>    <br />
 </div>
 </div>
 
@@ -159,9 +159,9 @@ In most cases, the pyrolysis was performed in laboratory bench scale reactors, a
 
 ### **Pyrolysis temperature, heating rate, and residence time**
 
-Pyrolysis conditions are usually described using the highest treatment temperature (HHT, °C), the heating rate (HR, °C/min) and the residence time (RT, min) at the HHT (Figure 2). The HHT is nearly always reported in incubation studies, although it is recognised that HHT is difficult to determine in large scale (commercial) reactors due to non homogenous heat distribution [5]. Likewise, HR and RT are mostly reported for laboratory produced biochar where these parameters are well controlled. A common possible source of misinterpretation, for the RT, is that some studies report an overall RT inside the reactor (from start to end of pyrolysis process, possibly including drying time) while other report the RT at HHT. Here, only RT at HHT were included in the database leading to some missing data.
+Pyrolysis conditions are usually described using the highest treatment temperature (HHT, °C), the heating rate (HR, °C/min) and the residence time (RT, min) at the HHT. The HHT is nearly always reported in incubation studies, although it is recognised that HHT is difficult to determine in large scale (commercial) reactors due to non homogenous heat distribution. Likewise, HR and RT are mostly reported for laboratory produced biochar where these parameters are well controlled. A common possible source of misinterpretation, for the RT, is that some studies report an overall RT inside the reactor (from start to end of pyrolysis process, possibly including drying time) while other report the RT at HHT. Here, only RT at HHT were included in the database leading to some missing data.
 
-The range of HHT investigated spans from, with 200 to 800°C, with most values in the range of 400-600°C (Figure 2). One experiment used a gasification biochar produced at a much higher temperature of 1200°C [27], [28]. HR spanned between 2.5°C/min and up to 51°C/min. Finally, RT is mostly short, between 40 minutes and 3 hours, although the effect of longer residence time was tested in some cases, up to 72 hours.
+The range of HHT investigated spans from, with 200 to 800°C, with most values in the range of 400-600°C. One experiment used a gasification biochar produced at a much higher temperature of 1200°C. HR spanned between 2.5°C/min and up to 51°C/min. Finally, RT is mostly short, between 40 minutes and 3 hours, although the effect of longer residence time was tested in some cases, up to 72 hours.
 
 From this exploration, it can be drawn that there is a gap in coverage of biochar produced at higher temperatures (> 700°C) and that coverage of the lower range of temperature could be improved as it is likely to be associated with lower stability and non-linearity. Likewise, conditions other than slow pyrolysis should also better covered (at least, in the literature performing incubation with isotopic analysis), including hydro-thermal carbonisation, gasification, and fast/flash pyrolysis.
 
@@ -176,6 +176,7 @@ From this exploration, it can be drawn that there is a gap in coverage of biocha
 </section>
 
 <div id="bokeh_component_scripts">
+<script type="text/javascript" src="../component_3.js"></script>
 <script type="text/javascript" src="../component_2.js"></script>
 <script type="text/javascript" src="../component_1.js"></script>
 </div>

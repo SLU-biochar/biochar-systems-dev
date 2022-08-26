@@ -18,7 +18,7 @@ menu:
 
 category: ["LCA", "MFA", "Sverige", "Biokol i stadsmiljö", "Uppsala"]
 information:
-  - info : "Ett flertal livscykelanalyser av nya urbana användningsområden för biokol utfördes."
+  - info : "Ett flertal livscykelanalyser av nya urbana användningsområden för biokol utfördes. "
   - info : "Urban biokolsanvändning kan ha lägre klimatpåverkan än annan referensanvändning, samt förbränning."
   - info : "För att uppnå en låg klimatpåverkan krävs en high stabilitet hos biokolet samt ett energisystem fritt från fossila bränslen."
   - info : "Biokol resulterar i att miljöpåverkan förflyttas mellan olika sektorer och typer av miljöpåverkan."

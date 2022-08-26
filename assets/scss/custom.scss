@@ -8,12 +8,27 @@
 }
 .section-light h1, .section-light h2, .section-light h3, .section-light p .section-light div, .section-light a:not(.btn-default){
   color: rgb(10, 6, 6);
+  font-style:oblique;
 }
+.section-light a:not(.btn-default):hover{
+  color: rgb(82, 73, 73);
+  text-decoration: underline;
+}
+
 .section-dark {
   background-color: #474453 // grey-purple #474453 ; grey rgba(69, 78, 78, 0.795);
 }
 .section-dark h1, .section-dark h2, .section-dark h3, .section-dark p, .section-dark div, .section-dark a:not(.btn-default){
   color: white;
+}
+
+.section-dark a:not(.btn-default){
+  color: rgb(224, 224, 224);
+  font-style:oblique;
+}
+.section-dark a:not(.btn-default):hover{
+  color: rgb(255, 255, 255);
+  text-decoration: underline;
 }
 
 // SCSS rules for SHORTCODE fontawesome.html
@@ -119,7 +134,14 @@ div.notices {
   margin: 2rem 0;
   position: relative;
 }
-div.notices p {
+div.notices a:not(.btn-default){
+  color: rgb(0, 0, 0);
+}
+div.notices a:not(.btn-default):hover{
+  color: rgb(129, 128, 128);
+}
+
+div.notices p{
   padding: 15px;
   display: block;
   font-size: 1.5rem;

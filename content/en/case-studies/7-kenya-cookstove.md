@@ -1,5 +1,6 @@
 ---
 title: "Kenyan biochar cookstoves"
+slug: "kenya-cookstove"
 description: "
 *What was our motivation?*
 
@@ -83,6 +84,11 @@ Gitau, K. J.; Mutune, J.; Sundberg, C.; Mendum, R.; Njenga, M. Factors Influenci
 ## **Want to read more?**
 <div class="row">
   <div class="col-md-10">
+
+### Funding
+
+The research (2016 to 2020) was funded by Vetenskapsrådet, with grant number 2015 03180, as well as Formas, with grant numbers 924-2015-1112 and 942-2015-1648.
+
 
 ### Project summary 
 

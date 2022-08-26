@@ -5,7 +5,7 @@ description: "
 
 " # a text describing the motivations, the context, the research questions, attratively
 draft: false
-image : "case-studies/5-gis-sweden-art.png"
+image : "case-studies/Figure 4.jpg"
 weight : 6
 bg_image: "images/feature-bg.jpg"
 menu:
@@ -25,6 +25,4 @@ information:
 
 ## Page under construction 
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quas officiis cumque, harum dicta necessitatibus
-reprehenderit, delectus molestiae, impedit alias adipisci distinctio voluptas. Tempora modi amet voluptate
-at provident soluta consequatur.
+

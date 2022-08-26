@@ -87,7 +87,7 @@ Gitau, K. J.; Mutune, J.; Sundberg, C.; Mendum, R.; Njenga, M. Factors Influenci
 
 ### Finansiering
 
-"Forskningen 2016-2020 finansierades av Vetenskapsrådet, nr. 2015 03180, samt Formas, nr. 924-2015-1112 och 942-2015-1648."
+Forskningen 2016-2020 finansierades av Vetenskapsrådet, nr. 2015 03180, samt Formas, nr. 924-2015-1112 och 942-2015-1648.
 
 ### Project summary 
 
