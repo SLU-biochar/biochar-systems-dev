@@ -1,14 +1,15 @@
 ---
 title: "6 - Biochar product disposal"
 description: "
+<br />
 
-In most cases, a biochar product has a fixed service life. Biochar product disposal (aka end-of-life) refers to all handling that may occur until the materials are reused in other products (e.g. re-use of soil masses) or disposed in a final application (e.g. landfilling or soil amendement).
+In most cases, a biochar product has a fixed service life. Biochar product disposal (or end-of-life) refers to all handling operations that may occur until the materials are reused in other products (e.g. re-use in soil masses) or disposed in a final application (e.g. landfilling or soil amendement).
 
 
-The biochar product disposal plays an important role because it is the phase that guarantees the biochar carbon sink property (i.e. biochar is not burnt). The environment in which the biochar is placed also influences its stability.
+The biochar product disposal plays an important role because it is the phase that guarantees the biochar carbon storage over multiple decades to centuries (i.e. biochar is not burnt). The environment in which the biochar is placed also influences its permanence.
 
 "
-title_image: "pyreg-sbp.jpg" # find a img of pyrolysis oil and gas, or a burner of it, or a condenser...
+title_image: "biochar-compost-lindeborg.jpg" # find a img of pyrolysis oil and gas, or a burner of it, or a condenser...
 title_image_credit: "Stockholm Vatten och Avfall"
 draft: false
 menu:
