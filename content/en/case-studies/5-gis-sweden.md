@@ -1,11 +1,15 @@
 ---
-title: "Spatial and multi-criteria recommomendation for biochar use on arable land in Sweden"
+title: "Why and where to apply biochar in Sweden: exploring different narratives"
+
 description: "
 *What was our motivation?*
 
+
+Biochar is known to have positive effects on agronomy and various soil properties (e.g. pH, structure, nutrient, water). Here, we wanted to identify where in Sweden biochar application could be beneficial, and lead to e.g. improvements in soil quality, reduction in nitrogen leaching, or improvements in resilience to drought.
+
 " # a text describing the motivations, the context, the research questions, attratively
 draft: false
-image : "case-studies/Figure 4.jpg"
+image : "case-studies/5-gis-sweden-art.png"
 weight : 6
 bg_image: "images/feature-bg.jpg"
 menu:
@@ -16,13 +20,78 @@ menu:
 
 category: ["GIS", "Sweden", "Arable land"]
 information:
-  - info : ""
-  - info : ""
-  - info : ""
-  - info : ""
-  - info : ""
+  - info : "We have designed multiple narratives of biochar use"
+  - info : "We have compiled spatial data (maps) of Swedish soil and climate, such as "
+  - info : "Using multi-criteria analysis and expert knowledge on biochar-soil interactions, we have BUIM  "
+  - info : "Overall, we found that "
+  - info : "For narrative 1, "
+  - info : "For narrative 2, "
+  - info : "For narrative 3, "
+  - info : "Next step"
 ---
 
-## Page under construction 
+
+## **Resources**
+<div class="row">
+  <div class="col-md-4">
+
+  ### Reference
+  Karan, S. K., Osslund, F., Azzi, E. S., Karltun, E., &#38; Sundberg, C. (2023). A spatial framework for prioritizing biochar application to arable land: A case study for Sweden. <i>Resources, Conservation and Recycling</i>, <i>189</i>, 106769. DOI: [10.1016/j.resconrec.2022.106769](https://doi.org/10.1016/j.resconrec.2022.106769)
+
+  {{< button href="../karan2022_GIS.ris" icon="download" >}} Download citation as RIS {{< /button >}}
+  <br/><br/>
+  {{< button href="https://www.sciencedirect.com/science/article/pii/S0921344922006012/pdfft?isDTMRedir=true&download=true" icon="download" >}} Download as PDF {{< /button >}}
+  </div>
+
+  <div class="col-md-4">
+
+  ### Data
+  The modelling was performed in ArcGIS and Microsoft Excel. The output data generated in this study is [available online on Zenodo](https://doi.org/10.5281/zenodo.7060171). The uploaded data contains the following:
+  * Raster files for three different biochar prioritization narratives.
+
+  * High-resolution biochar use indication maps (in JPEG) for different prioritization narratives. 
+
+  </div>
+
+  <div class="col-md-4">
+  
+  ### Interactive map
+  Coming soon. A development version will be hosted on [Google's Earth Engine](#). 
+  </div>
+
+</div>
+
+<div class="row">
+
+  <div class="col-md-8">
+  
+  ### Previous work
+  The work presented in this paper is an extension and refinement of the work performed by:
+  - Waila AB, [https://waila.se/](https://waila.se/)
+
+  - Fabian Osslund, in his Master thesis project in 2020: [Prioritising biochar application to arable land in Sweden: A spatial multi-criteria analysis](http://kth.diva-portal.org/smash/get/diva2:1470879/FULLTEXT01.pdf)
+
+  </div>
+  
+</div>
+  
 
 
+## **Want to read more?**
+<div class="row">
+  <div class="col-md-10">
+
+### Abstract 
+
+The biochar-agriculture nexus can potentially generate several benefits ranging from soil carbon sequestration to the reduction in nutrient leaching from arable soils. However, leveraging these benefits requires spatially-explicit information on suitable locations for biochar application. 
+
+This study provides a flexible multicriteria framework that delivers spatial indications on biochar prioritization through a biochar use indication map (BUIM). The framework was exemplified as a case study for Swedish arable land through three different prioritization narratives. 
+
+The BUIM for all the narratives revealed that a significant fraction of the Swedish arable land could potentially benefit from biochar application. Furthermore, arable land that scored high for a given narrative did not necessarily score high in the others, thus indicating that biochar application schemes can be adjusted to various objectives and local needs.
+
+The framework presented here aims to promote the exploration of different avenues for deploying biochar in the agricultural sector.
+
+ </div>
+
+
+</div>
