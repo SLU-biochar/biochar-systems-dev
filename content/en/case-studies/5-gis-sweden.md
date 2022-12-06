@@ -20,14 +20,12 @@ menu:
 
 category: ["GIS", "Sweden", "Arable land"]
 information:
-  - info : "We have designed multiple narratives of biochar use"
-  - info : "We have compiled spatial data (maps) of Swedish soil and climate, such as "
-  - info : "Using multi-criteria analysis and expert knowledge on biochar-soil interactions, we have BUIM  "
-  - info : "Overall, we found that "
-  - info : "For narrative 1, "
-  - info : "For narrative 2, "
-  - info : "For narrative 3, "
-  - info : "Next step"
+  - info : "We have designed multiple narratives of biochar use in agricultural soils, reflecting either 1) improving soil quality, 2) improving crop resilience, and 3) reducing nitrogen leaching"
+  - info : "We have compiled spatial data (maps) of Swedish soil and climate such as: soil pH, soil organic matter, soil texture, nitrogen leaching estimates from SMED and low soil moisture estimates from SMHI"
+  - info : "Coupling multi-criteria analysis with expert knowledge on biochar-soil interactions, we provide indications on where to prioritize biochar use for each narrative."
+  - info : "For all the narratives, we found that a significant fraction of the Swedish arable land could potentially benefit from biochar application. Furthermore, arable land that scored high for a given narrative did not necessarily score high in the others, thus indicating that biochar application schemes can be adjusted to various objectives and local needs. "
+  - info : "Overall, the results of this study indicate that a priority-based framework for biochar application could help identify the magnitude and location of areas where biochar application could be beneficial."
+  - info : "In the next step, we will consult Swedish stakeholders for their opinion on the multi-criteria analysis and the priority maps and develep it futher through a Master's thesis project"
 ---
 
 
