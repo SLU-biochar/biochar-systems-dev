@@ -1,5 +1,4 @@
-
- ---
+---
 title: "Biochar stability - old page"
 description: ""
 subtitle : "Biochar is well known as an option to mitigate climate change. Here, we want to give the big picture & revisit some of the basic science behind it."

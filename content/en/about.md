@@ -152,7 +152,7 @@ testimonial_slider:
     phone: ""
 
 mission_vision:
-  enable : true
+  enable : false
   tabs:
   # tab item loop
   - name : "Vision"
