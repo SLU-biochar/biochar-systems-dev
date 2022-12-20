@@ -59,7 +59,7 @@ ordered = false
 	favicon = "img/favicon.png"
 	logo = "img/logo.png"
 	logo_sidetext = "Biochar Systems<br/>Research Group"
-	logo_width = "50px"
+	logo_width = "65px"
 	# OpenGraph / Twitter Card metadata
 	description = "This is meta description"
 	author = "Themefisher"
