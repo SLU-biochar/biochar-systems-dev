@@ -13,7 +13,7 @@ styling:
 
 <!-- * 202x-xx-xx, Media, [title](url)  -->
 
-* 2022-12-o8, KSLA Royal Swedish Academy of Agriculture and Forestry, [KSLA har utsett 2023 års pris- och belöningsmottagare](https://www.ksla.se/2022/12/08/ksla-har-utsett-2023-ars-pris-och-beloningsmottagare/)
+* 2022-12-08, KSLA Royal Swedish Academy of Agriculture and Forestry, [KSLA har utsett 2023 års pris- och belöningsmottagare](https://www.ksla.se/2022/12/08/ksla-har-utsett-2023-ars-pris-och-beloningsmottagare/)
   
 * 2020-09-15, Dagens Industri, [Ny forskning: De vill rädda klimatet med kol](https://www.di.se/hallbart-naringsliv/ny-forskning-de-vill-radda-klimatet-med-kol/)
 
