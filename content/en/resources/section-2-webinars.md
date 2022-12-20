@@ -12,6 +12,10 @@ styling:
 
 ### **Webinars**
 
+* 2022-01-26, Biochar Synthesis Day, [Practical research insights](https://www.youtube.com/watch?v=xymUjLXP3ic)
+
+* 2022-01-26, Biochar Synthesis Day, [Compilation of biochar projects in Sweden up to 2021](https://www.youtube.com/watch?v=C-KLZJDKefQ)
+
 * 2022-01-14, PhD Dissertation of Elias Azzi, [Biochar systems across scales in Sweden](https://www.youtube.com/watch?v=ymz-kaDvzdc)
 
 * 2021-05-20, Green Carbon Webinar, [Life cycle assessment of 6 urban applications of biochar](https://www.youtube.com/watch?v=PfIGIUWJnkw)
@@ -27,7 +31,9 @@ styling:
 
 </div>
 
-<div class="row">
+<div class="row">  
+<div class="col-sm-4" style="margin-bottom:0.5em;"> {{< youtube_test id="xymUjLXP3ic" title="Biochar systems across scales in Sweden - Practical research insights" autoplay="false" start="0" >}} </div>
+<div class="col-sm-4" style="margin-bottom:0.5em;"> {{< youtube_test id="C-KLZJDKefQ" title="Compilation of biochar projects in Sweden up to 2021" autoplay="false" start="0" >}} </div>
 <div class="col-sm-4" style="margin-bottom:0.5em;"> {{< youtube_test id="ymz-kaDvzdc" title="Biochar systems across scales in Sweden" autoplay="false" start="0" >}} </div>
 <div class="col-sm-4" style="margin-bottom:0.5em;"> {{< youtube_test id="PfIGIUWJnkw" title="Biochar Urban Areas" autoplay="false" start="0" >}} </div>
 <div class="col-sm-4" style="margin-bottom:0.5em;"> {{< youtube_test id="Eey_Kz4PTY0" title="Biochar carbon sink and climate effect" autoplay="false" start="369" >}} </div>

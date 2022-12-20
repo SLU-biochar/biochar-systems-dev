@@ -2,6 +2,12 @@
 
 {{ partial "page-title.html" . }}
 
+<!-- Include .Content from the index.md page-->
+{{ if .Content }}
+          {{ .Content }}
+{{ end }}
+<!-- End of Include .Content from the index.md page-->
+
 <!-- about -->
 {{ with .Params.about }}
 {{ if .enable }}
@@ -29,41 +35,6 @@
 {{ end }}
 <!-- /about -->
 
-
-{{ with .Params.features }}
-{{ if .enable }}
-<section class="about-feature bg-dark section dark-service">
-  <div class="container">
-    {{ with .title }}
-    <div class="row">
-      <div class="col-md-12">
-        <div class="title">
-          <h2>{{ . | markdownify }}</h2>
-        </div>
-      </div>
-    </div>
-    {{ end }}
-    <div class="row">
-      {{ range .feature_item }}
-      <div class="col-md-4">
-        <div class="service-item">
-          {{ with .icon }}<i class="{{ . }}"></i>{{ end }}
-          {{ with .name }}<h4>{{ . | markdownify }}</h4>{{ end }}
-          {{ with .content }}{{ . | $.Page.RenderString (dict "display" "block") }}{{ end }}
-        </div>
-      </div>
-      {{ end }}
-    </div>
-  </div>
-</section>
-{{ end }}
-{{ end }}
-
-<!-- Include .Content from the index.md page-->
-{{ if .Content }}
-          {{ .Content }}
-{{ end }}
-<!-- End of Include .Content from the index.md page-->
 
 <!-- Call to action -->
 {{ if .Params.cta.enable }}
