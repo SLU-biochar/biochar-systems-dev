@@ -10,7 +10,7 @@ The biochar product disposal plays an important role because it is the phase tha
 
 "
 title_image: "biochar-compost-lindeborg.jpg" # find a img of pyrolysis oil and gas, or a burner of it, or a condenser...
-title_image_credit: "Stockholm Vatten och Avfall"
+title_image_credit: "Biochar-compost blend, E. Azzi"
 draft: false
 menu:
   main:
