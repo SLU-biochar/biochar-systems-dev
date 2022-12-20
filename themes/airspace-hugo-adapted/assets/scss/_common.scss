@@ -327,7 +327,7 @@ input[type="tel"] {
     h1 {
       color: $light;
       font-weight: 200;
-      letter-spacing: 0.15em;
+      letter-spacing: 0.02em; /* ESA > reduced letter spacing */
       margin-top: 0;
       text-transform: capitalize;
     }

@@ -1,5 +1,5 @@
 ---
-title: "Vinnova Project: Biochar - systems analysis for climate change mitigation"
+title: "Vinnova Project: Biochar systems analysis for climate change mitigation"
 description: "Between 2017 and 2021, the Vinnonva-funded research project was carried out at KTH Royal Institute of Technology. The project was called *Biochar - systems analysis for climate change mitigation*. The project evaluated the energy, climate and environmental implications of deploying biochar technologies in Sweden. 
 
 
