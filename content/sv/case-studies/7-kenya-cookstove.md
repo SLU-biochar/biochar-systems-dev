@@ -106,6 +106,10 @@ The farmers perceptions of the technology and the reasons for changes in practic
 ### List of references
 
 #### Peer-reviewed publications
+Kätterer, T., Roobroeck, D., Kimutai, G., Karltun E., Nyberg, G., Sundberg C., Roing de Nowina K. 2022. Maize grain yield responses to realistic biochar application rates on smallholder farms in Kenya. Agron. Sustain. Dev. 42, 63. https://doi.org/10.1007/s13593-022-00793-5
+
+Mahmoud Y, Njenga M, Sundberg C, Roing de Nowina K, 2021. Soils, sinks, and smallholder farmers: Examining the benefits of biochar energy transitions in Kenya, Energy Research & Social Science, 75, 102033, https://doi.org/10.1016/j.erss.2021.102033.
+
 Sundberg, C.; Karltun, E.; Gitau, J.K.; Kätterer, T.; Kimutai, G.M.; Mahmoud, Y.; Njenga, M.; Nyberg, G.; Roing de Nowina, K.; Roobroeck, D.; Sieber, P. Biochar from cookstoves reduces greenhouse gas emissions from smallholder farms in Africa. Mitigation and Adaptation Strategies for Global Change. 2020 https://doi.org/10.1007/s11027-020-09920-7 
 
 Gitau, K. J.; Sundberg, C.; Mendum, R.; Mutune, J.; Njenga, M. Use of Biochar-Producing Gasifier Cookstove Improves Energy Use Efficiency and Indoor Air Quality in Rural Households. Energies. 2019 https://doi.org/10.3390/en12224285
