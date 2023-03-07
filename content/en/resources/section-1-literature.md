@@ -10,7 +10,7 @@ lastmod: "2022-01-20"
 # in one row, nb of boostrap columns can be defined directly below in HTML
 ---
 
-<div class="col-md-7">
+<div class="col-md-6">
 
 ### **Scientific literature** - a _selection_
 
@@ -109,8 +109,37 @@ This list was last updated on {{< lastmod >}}.
 
 </div>
 
-<div class="col-md-4 col-md-push-1">
-<br /><br /><br />
-{{< figure src="resources-scopus-biochar-2.png" title="*Peer-reviewed publications containing the keyword biochar published annually, as indexed in Scopus*" width="100%">}}
+<div class="col-md-5 col-md-push-1">
+
+### **Our publications**
+
+Below, we list publications from our research group at KTH and SLU, and other collaborations (click to expand). 
+
+{{% expandcss idLabel="ourpublications" title=" **Life cycle assessment, spatial analyses and more** " collpased='True' %}}
+- Zakrisson, L., Azzi, E. S., & Sundberg, C. (2023). Climate impact of bioenergy with or without carbon dioxide removal: influence of functional unit and parameter variability. The International Journal of Life Cycle Assessment. https://doi.org/10.1007/s11367-023-02144-2
+
+- Karan, S. K., Osslund, F., Azzi, E. S., Karltun, E., & Sundberg, C. (2023). A spatial framework for prioritizing biochar application to arable land: A case study for Sweden. Resources, Conservation and Recycling, 189, 106769. https://doi.org/10.1016/j.resconrec.2022.106769
+
+- Kätterer, T., Roobroeck, D., Kimutai, G. et al. Maize grain yield responses to realistic biochar application rates on smallholder farms in Kenya. Agron. Sustain. Dev. 42, 63 (2022). https://doi.org/10.1007/s13593-022-00793-5
+
+- Azzi, E. S., Karltun, E., & Sundberg, C. (2022). Life cycle assessment of urban uses of biochar and case study in Uppsala, Sweden. Biochar, 4(1), 18. https://doi.org/10.1007/s42773-022-00144-3
+
+- Papageorgiou, A., Azzi, E. S., Enell, A., & Sundberg, C. (2021). Biochar produced from wood waste for soil remediation in Sweden: carbon sequestration and other environmental impacts. Science of The Total Environment, 145953. https://doi.org/10.1016/j.scitotenv.2021.145953
+
+- Mahmoud, Y., Njenga, M., Sundberg, C., & Roing de Nowina, K. (2021). Soils, sinks, and smallholder farmers: Examining the benefits of biochar energy transitions in Kenya. Energy Research & Social Science, 75, 102033. https://doi.org/10.1016/j.erss.2021.102033
+
+- Azzi, E. S., Karltun, E., & Sundberg, C. (2021). Assessing the diverse environmental effects of biochar systems: An evaluation framework. Journal of Environmental Management, 286, 112154. https://doi.org/10.1016/j.jenvman.2021.112154
+
+- Azzi, E. S., Karltun, E., & Sundberg, C. (2021). Small-scale biochar production on Swedish farms: A model for estimating potential, variability, and environmental performance. Journal of Cleaner Production, 280, 124873. https://doi.org/10.1016/j.jclepro.2020.124873
+
+- Azzi, E. S., Karltun, E., & Sundberg, C. (2019). Prospective life cycle assessment of large-scale biochar production and use for negative emissions in Stockholm. Environmental Science & Technology, 53(14), 8466–8476. https://doi.org/10.1021/acs.est.9b01615
+
+{{% /expandcss %}}
+
+To keep up to date with our work, follow Google Scholar and university publication profiles from our team members, e.g. [Cecilia Sundberg](https://scholar.google.com/citations?hl=en&user=095LohcAAAAJ&view_op=list_works&sortby=pubdate) [(SLU)](https://www.slu.se/cv/cecilia-sundberg/), [Azzi Elias](https://scholar.google.com/citations?user=n6DQa3cAAAAJ&hl=fr), [Lisa Zakrisson](https://www.slu.se/cv/lisa-zakrisson/).
+
+<br />
+{{< figure src="resources-scopus-biochar-2.png" title="*Peer-reviewed publications containing the keyword biochar published annually, as indexed in Scopus*" width="80%">}}
+
 
 </div>
