@@ -58,8 +58,8 @@ The project started in january 2022, and will continue until year 2025:
 * Elias Azzi (SLU, PhD in biochar systems analysis) Data management & modelling of biochar stability in python. elias.azzi@slu.se
 * Erik Karltun (SLU, lecturer in soil science at the Soil & Environment Department). Soil and plant interactions with biochar. erik.karltun@slu.se
 * Harald Cederlund (SLU, molecular sciences) Researcher responsible for stability characterisation at the laboratory scale. harald.cederlund@slu.se
+* Haichao Li (SLU, Post-doctoral researcher, Soil & Environment Department) Responsible for laboratory and field incubations experiements. haichao.li@slu.se
 * Helena Söderqvist (2050 Consulting) Knowledge bridge between market & user. helena.soderqvist@2050.se
-* <i>To be recruited</i> Post-doctoral researcher, field and laboratory trials
 
 
 ## Research outputs (dated 2022-06-08)

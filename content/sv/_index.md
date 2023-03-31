@@ -20,23 +20,23 @@ banner:
 about:
   enable: true
   title: "Om webbplatsen"
-  description: "Denna webbplats är den sista leveransen av ett 4-årigt forskningsprojekt finansierat av Vinnova, den svenska innovationsmyndigheten. Projektet utvärderade energi-, klimat- och miljökonsekvenserna av att använda biokolteknik i Sverige."
+  description: "Syftet med denna webbplats är att dela med sig av insikter från olika fallstudier, i och utanför Sverige, men också att presentera metoder, data och modeller för att studera biokolsystem."
   content: "
-  **Syftet** med denna webbplats är att dela med sig av insikter från olika fallstudier, i och utanför Sverige, men också att presentera metoder, data och modeller för att studera biokolsystem.
-  
-
   **Målgruppen** inkluderar studenter, forskare, kommuner, konsulter och industriföretag, oavsett deras tidigare kunskapsnivå om biokol eller miljösystemanalys.
-  
+
+
+  Denna webbplats är den sista leveransen av ett 4-årigt forskningsprojekt finansierat av Vinnova, den svenska innovationsmyndigheten. Projektet utvärderade energi-, klimat- och miljökonsekvenserna av att använda biokolteknik i Sverige.
+
 
   Webbplatsen sköts för närvarande av forskargruppen **Bioenergisystem** vid Sveriges Lantbruksuniversitet (SLU). Innehållet är tänkt att uppdateras med nya fallstudier, data och modeller. Bidrag är välkomna: ni kan antingen <u><a href='mailto:cecilia.sundberg@slu.se?subject=Bidragsidéer för biokolsystem'> kontakta oss</a></u> med förslag, eller vända er till <u><a href='https://github.com/SLU-biochar/biochar-systems-dev' target='_blank'>bidragsguiden</a></u> på GitHub."
 
-  image: "img/vinnova-sv.png"
+  image: "img/case-studies-bg.png"
 
 
 ######################### Portfolio ###############################
 portfolio:
   enable: true
-  bg_image: "img/case-studies-bg.png"
+  bg_image: "img/frontpage-biochar.jpg"
   title: "FALLSTUDIER"
   content: " Varför gör man fallstudier? 
   

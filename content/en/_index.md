@@ -24,17 +24,19 @@ about:
   content: "
   The **target audience** includes students, researchers, municipalities, consultants, and industrials, regardless of their prior level of knowledge on biochar or environmental systems analysis. 
   
+
   This website was developed in of a 4-year research project funded by Vinnova, the Swedish innovation agency. The project evaluated the energy, climate and environmental implications of deploying biochar technologies in Sweden.
+
 
   The website is maintained by the **Bioenergy systems** research group at the Swedish University of Agricultural Sciences (SLU). The contents are being updated with new case studies, data, and models. Contributions are welcome: either <u><a href='mailto:cecilia.sundberg@slu.se?subject=Contribution ideas for biochar-systems'> reach out to us</a></u> with suggestions, or check the <u><a href='https://github.com/SLU-biochar/biochar-systems-dev' target='_blank'>GitHub contribution guide</a></u>."
 
-  image: ""
+  image: "img/case-studies-bg.png"
 
 
 ######################### Portfolio ###############################
 portfolio:
   enable: true
-  bg_image: "img/case-studies-bg.png"
+  bg_image: "img/frontpage-biochar.jpg"
   title: "CASE STUDIES"
   content: " Why do case studies? 
   
