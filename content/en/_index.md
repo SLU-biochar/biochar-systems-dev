@@ -20,17 +20,15 @@ banner:
 about:
   enable: true
   title: "About this website"
-  description: "This website is the last deliverable of a 4-year research project funded by Vinnova, the Swedish innovation agency. The project evaluated the energy, climate and environmental implications of deploying biochar technologies in Sweden."
+  description: "The purpose of this website is to share the insights gained from various case studies, in Sweden and beyond, but also to present methodologies, data and models for studying biochar systems."
   content: "
-  The **purpose** of this website is to share the insights gained from various case studies, in Sweden and beyond, but also to present methodologies, data and models for studying biochar systems.
-  
-
   The **target audience** includes students, researchers, municipalities, consultants, and industrials, regardless of their prior level of knowledge on biochar or environmental systems analysis. 
   
+  This website was developed in of a 4-year research project funded by Vinnova, the Swedish innovation agency. The project evaluated the energy, climate and environmental implications of deploying biochar technologies in Sweden.
 
-  The website is currently maintained by the **Bioenergy systems** research group at the Swedish University of Agricultural Sciences (SLU). The contents are meant to be updated, with new case studies, data, and models. Contributions are welcome: either <u><a href='mailto:cecilia.sundberg@slu.se?subject=Contribution ideas for biochar-systems'> reach out to us</a></u> with suggestions, or check the <u><a href='https://github.com/SLU-biochar/biochar-systems-dev' target='_blank'>GitHub contribution guide</a></u>."
+  The website is maintained by the **Bioenergy systems** research group at the Swedish University of Agricultural Sciences (SLU). The contents are being updated with new case studies, data, and models. Contributions are welcome: either <u><a href='mailto:cecilia.sundberg@slu.se?subject=Contribution ideas for biochar-systems'> reach out to us</a></u> with suggestions, or check the <u><a href='https://github.com/SLU-biochar/biochar-systems-dev' target='_blank'>GitHub contribution guide</a></u>."
 
-  image: "img/vinnova-en.png"
+  image: ""
 
 
 ######################### Portfolio ###############################
