@@ -52,31 +52,31 @@ menu:
 
 [9] This said, there is consensus that once biochar has been applied to soil there is little to no risk of sudden and uncontrolled complete reversal of biochar carbon storage (neither from human activities nor natural events like fires). 
 
-### Producing biochars with high durability:
+### Producing biochars with high durability
 
 [10] There is a clear consensus that not all biochars have the same properties and that this affects durability. The process conditions needed to obtain biochars with high durability are known. Biochars shall be produced at higher temperatures and with long enough residence time to ensure that carbonisation is complete and fused aromatic structures are formed.
 
 [11] Biochar characterisation is important. This includes knowing the feedstock type, the pyrolysis conditions, and biochar properties that indicate its degree of aromaticity (e.g. hydrogen to carbon ratio, electrical conductivity).  
 
-### Currently used quantification methods:
+### Currently used quantification methods
 
 [12] Established quantification methods of 100-year biochar persistence (e.g. referenced in IPCC inventory guidelines and used in voluntary carbon markets, to date) extrapolate short-term soil decomposition processes, and do not fully consider the processes that may explain millennial persistence. 
 
 [13] These calculation methods are based on the results of more than 100 individual biochar incubation experiments, of which two have been performed under field conditions.
 
-### Relevant areas of research:
+### Relevant areas of research
 
 [14] An active area of research relevant for biochar carbon storage durability is the development of advanced analytical characterisation methods of biochar that will enable measurement of the physicochemical heterogeneity in carbon structures present in biochar.
 
 [15] Another area of continued research is biochar incubation, with a focus on field conditions, to elucidate both differences from laboratory conditions, and how transport processes affect biochar in the field.
 
-### Compared to other CDR methods:
+### Compared to other CDR methods
 
 [16] Relative to soil and forestry carbon storage, biochar carbon storage is much less subject to risks of reversal (human activities and climatic events). Hence, biochar does not require extensive in-field monitoring.
 
 [17] Relative to geological storage of carbon dioxide (e.g. direct air carbon capture and storage (DACCS), bioenergy with CCS), biochar carbon storage depends on more parameters like production conditions, soil quality and climate, but is associated with more socio-environmental co-benefits.
 
-### Contextual comments:
+### Contextual comments
 
 [18] The aim of this text is not to close the scientific discussion. Even though some aspects are generally accepted by the scientific community and sources of variability are largely well understood; other aspects are more uncertain or still unknown. In parallel to biochar production scaling, the research is continuing with multiple groups investigating the remaining uncertainties and unknowns.
 
@@ -92,12 +92,18 @@ menu:
 
 <i><sup>#</sup>affiliated to Department of Energy and Technology, Swedish University of Agricultural Sciences, Uppsala, Sweden; elias.azzi@slu.se; cecilia.sundberg@slu.se </i>
 
-Contributors, alphabetically sorted:  
+Contributors, alphabetically sorted:
+- Alice Budai, NIBIO, Norway
 - Andrew R. Zimmerman, Professor,  Department of Geological Sciences, University of Florida, FL, USA
+- Annette Cowie, NSW Department of Primary Industries, Australia
+- Caroline A. Masiello (Dr.), Rice University, Houston, TX, USA
+- Daniel Rasse, NIBIO, Norway
+- Diego Marazza, University of Bologna (UniBO), Italy
+- Enrico Balugani, University of Bologna (UniBO), Italy
+- Haichao Li, Swedish University of Agricultural Sciences (SLU), Sweden
 - Hans-Peter Schmidt, Ithaka Institute for Carbon Strategies
 - Johannes Meyer zu Drewer, Ithaka Institute for Carbon Strategies
-- Haichao Li, Swedish University of Agricultural Sciences (SLU)
-- Dr. Caroline A. Masiello, Rice University, Houston, TX, USA
+- Simone Pesce, University of Bologna (UniBO), Italy
 
 <hr style="border-top: 1px solid #493c3c">
 
@@ -119,6 +125,7 @@ Contributors, alphabetically sorted:
 * Leng, L., Huang, H., Li, H., Li, J., Zhou, W., 2019a. Biochar stability assessment methods: A review. Sci. Total Environ. 647, 210–222. https://doi.org/10.1016/j.scitotenv.2018.07.402 
 * Leng, L., Xu, X., Wei, L., Fan, L., Huang, H., Li, J., Lu, Q., Li, J., Zhou, W., 2019b. Biochar stability assessment by incubation and modelling: Methods, drawbacks and recommendations. Sci. Total Environ. 664, 11–23. https://doi.org/10.1016/j.scitotenv.2019.01.298 
 * Major, J., Rondon, M., Molina, D., Riha, S.J., Lehmann, J., 2010. Maize yield and nutrition during 4 years after biochar application to a Colombian savanna oxisol. Plant Soil 333, 117–128. https://doi.org/10.1007/s11104-010-0327-0
+* Marazza D, Pesce S, Greggio N, Vaccari FP, Balugani E, Buscaroli A. The Long-Term Experiment Platform for the Study of Agronomical and Environmental Effects of the Biochar: Methodological Framework. Agriculture. 2022; 12(8):1244. https://doi.org/10.3390/agriculture12081244
 * Petersen, H.I., Lassen, L., Rudra, A., Nguyen, L.X., Do, P.T.M., Sanei, H., 2023. Carbon stability and morphotype composition of biochars from feedstocks in the Mekong Delta, Vietnam. Int. J. Coal Geol. 104233. https://doi.org/10.1016/j.coal.2023.104233 
 * Pulcher, R., Balugani, E., Ventura, M., Greggio, N., Marazza, D., 2022. Inclusion of biochar in a C dynamics model based on observations from an 8-year field experiment. SOIL 8, 199–211. https://doi.org/10.5194/SOIL-8-199-2022 
 * Spokas, K.A., 2010. Review of the stability of biochar in soils: predictability of O:C molar ratios. Carbon Manag. 1, 289–303. https://doi.org/10.4155/cmt.10.32 
