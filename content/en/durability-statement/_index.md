@@ -97,13 +97,18 @@ Contributors, alphabetically sorted:
 - Andrew R. Zimmerman, Professor,  Department of Geological Sciences, University of Florida, FL, USA
 - Annette Cowie, NSW Department of Primary Industries, Australia
 - Caroline A. Masiello (Dr.), Rice University, Houston, TX, USA
+- Christhel Andrade, Institut National des Sciences Appliquées (INSA) Toulouse, France
+- Claudia Kammann, Hochschule Geisenheim University
 - Daniel Rasse, NIBIO, Norway
 - Diego Marazza, University of Bologna (UniBO), Italy
 - Enrico Balugani, University of Bologna (UniBO), Italy
+- Fernanda Santos, ORNL
 - Haichao Li, Swedish University of Agricultural Sciences (SLU), Sweden
 - Hans-Peter Schmidt, Ithaka Institute for Carbon Strategies
 - Johannes Meyer zu Drewer, Ithaka Institute for Carbon Strategies
+- Nikolas Hagemann, Agroscope and Ithaka Institute for Carbon Strategies
 - Simone Pesce, University of Bologna (UniBO), Italy
+- Saran Sohi, University of Edinburgh
 
 <hr style="border-top: 1px solid #493c3c">
 

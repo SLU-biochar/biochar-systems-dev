@@ -24,8 +24,12 @@ The contact email of the project is: kolinlagringattraknamed@2050.se (the Swedis
 * Register to the newsletter by mailing this address 
 * This webpage will be updated as the project goes
 
+
 ## Background
 Biochar produced from biomass has large potential to provide negative greenhouse gas emissions as a stable carbon sink in soil. A major hurdle for biochar market establishment is the limited knowledge about the stability of biochar over longer time periods.
+
+## Update: a clarification statement (2023-06-15)
+At the Biochar Summit in Helsinborg, we published a short non-technical statement synthesizing current knowledge on durability, resulting from 2 months of discussions between researchers in the field. Access it here: [biochar.systems/durability-statement]({{< ref "durability-statement/_index.md" >}})
 
 ## Research objectives
 
