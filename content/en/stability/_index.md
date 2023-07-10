@@ -77,6 +77,11 @@ The project started in january 2022, and will continue until year 2025:
 
 {{< youtube_test id="VXL3c4kX9tY" title="Project overview & database presentation" autoplay="false" start="0" >}} 
 
+## External links
+
+- [UNIBO's Long Term Experiment Platform for Biochar](https://site.unibo.it/environmental-management-research-group/en/activities/long-term-platform)
+
+
 <br />
 </div>
 

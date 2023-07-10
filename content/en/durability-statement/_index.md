@@ -112,6 +112,11 @@ Contributors, alphabetically sorted:
 
 <hr style="border-top: 1px solid #493c3c">
 
+### Cross-publications
+The above statement was linked or re-posted at: 
+- [UNIBO's Long Term Experiment Platform for Biochar](https://site.unibo.it/environmental-management-research-group/en/activities/long-term-platform)
+
+
 ### Selected references
 
 * Andrade, C., Albers, A., Zamora-Ledezma, E., Hamelin, L., 2022. Database to determine the Carbon recalcitrance and carbon conversion rate to bioeconomy coproducts. https://doi.org/10.48531/JBRU.CALMIP/WYWKIQ
