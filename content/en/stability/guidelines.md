@@ -30,5 +30,7 @@ Page contents under preparation for report publication
 {{% /notice %}}
 </div>
 
-<div class="col-md-8 text-left">
-<div>
+<div class="col-md-12">
+<br />
+<br />
+</div>
