@@ -26,7 +26,7 @@ menu:
 
 The preparation of this report was initiated in Autumn 2022, as part of research project on biochar persistence funded by the Swedish Energy Agency. *More information about the project is [available on this website]({{< ref "../stability" >}})*.
 
-This report provides a snapshop of the state of the knowledge as of 2023, with a focus on incubation-derived estimates of biochar persistence, among other approaches.
+This report provides a snapshot of the state of the knowledge as of 2023, with a focus on incubation-derived estimates of biochar persistence, among other approaches.
 
 As biochar durability research is rapidly evolving, this report will be updated in 2025 to provide a more comprehensive understanding of biochar persistence, attempting to unify the various approaches to modelling & understanding biochar persistence.
 
