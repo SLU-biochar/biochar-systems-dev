@@ -37,17 +37,19 @@ As biochar durability research is rapidly evolving, this report will be updated 
 # Downloads
 
 
-The report is published by the **Swedish University of Agricultural Sciences**. A supporting Excel file can be downloaded here. Access to data & code is also provided below
+The report is published by the **Swedish University of Agricultural Sciences**. A supporting Excel file can be downloaded here. Access to data & code & peer-reviewed article is also provided below.
 
 
-{{< button href="https://www.google.com/" icon="download" >}} PDF Report {{< /button >}}
+{{< button href="https://res.slu.se/id/publ/127313" icon="download" >}} PDF Report {{< /button >}}
 <br />
 
 {{< button href="../SLU_2023-06-27_Calculator for biochar carbon storage durability_viaSLU2023.xlsx" icon="download" >}} Excel Calculator (.xslx) {{< /button >}}
 <br />
 
 {{< button href="https://github.com/SLU-biochar/biocharStability" icon="download" >}} GitHub Repository {{< /button >}}
+<br />
 
+{{< button href="https://doi.org/10.1016/j.geoderma.2023.116761" icon="download" >}} Peer-reviewed article {{< /button >}}
 
 </div>
 </div>
