@@ -5,6 +5,10 @@ description: "
 
 
 This RE:source-funded project investigated whether it is possible to valorise urban wood waste as biochar, and to use the biochar to remediate lightly contaminated soil and avoids its landfilling. The work involved a municipal waste management company (NSR), researchers with expertise in soil remediation, and our LCA research group. While others in the project were responsible for testing the biochar remediation technique, our task was to evaluate the environmental suitability of this technique from life cycle perspective.
+
+
+**Update:** a second phase of this project runs in 2023-2025.
+
 " # a text describing the motivations, the context, the research questions, attratively
 
 draft: false
@@ -97,7 +101,7 @@ Overall, in Sweden's current context, the biochar remediation technique is an en
 
   ### Frequently asked questions [under construction]
 
-  A compilation of comments and questions arising from disucssing this article. Don't hesitate to contact us if you have questions..
+  A compilation of comments and questions arising from disucssing this article. Don't hesitate to contact us if you have questions.
 
 {{% expandcss idLabel="dimensioning" title="" %}}
 {{% /expandcss %}}
