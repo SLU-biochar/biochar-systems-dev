@@ -97,7 +97,7 @@ Overall, in Sweden's current context, the biochar remediation technique is an en
 
   ### Frequently asked questions [under construction]
 
-  A compilation of comments and questions arising from disucssing this article. Don't hesitate to contact us if you have questions.
+  A compilation of comments and questions arising from disucssing this article. Don't hesitate to contact us if you have questions..
 
 {{% expandcss idLabel="dimensioning" title="" %}}
 {{% /expandcss %}}
