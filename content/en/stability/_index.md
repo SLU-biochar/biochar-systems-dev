@@ -39,7 +39,7 @@ _This project aimed at consolidating the knowledge around biochar carbon storage
 
 * _Dataset and code_. December 2023. [GitHub Repository](https://github.com/SLU-biochar/biocharStability) for the biochar decay dataset and python code for reproducing analyses. https://github.com/SLU-biochar/biocharStability
 
-* _Background report_. December 2023. Guidelines for estimation of biochar durability. See: [biochar.systems/stability/guidelines]({{< ref "/guidelines.md" >}})
+* _Background report_. December 2023. Guidelines for estimation of biochar durability. See: [biochar.systems/stability/guidelines]({{< ref "stability/guidelines.md" >}})
 
 * _Public statement_. June 2023. At the Biochar Summit in Helsinborg, we published a short non-technical statement synthesizing current knowledge on durability, resulting from 2 months of discussions between researchers in the field. Access it here: [biochar.systems/durability-statement]({{< ref "durability-statement/_index.md" >}})
 
