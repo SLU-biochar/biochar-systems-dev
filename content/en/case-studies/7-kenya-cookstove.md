@@ -22,7 +22,7 @@ information:
   - info : "In this research project, the production and use of biochar in 150 smallholder farming households in three different regions in Kenya was investigated. Biochar-producing cookstoves were distributed and fuel use efficiency, emissions and biochar production were quantified. Effects on crop yields after application of biochar to soil was studied."
   - info : "Biochar produced in cookstoves can contribute to negative carbon emissions through sequestration of biomass carbon, while also providing clean renewable energy and increasing yields in tropical agriculture."
   - info : "The project is a transdisciplinary collaboration between researchers in Kenya (IITA, ICRAF and CIFOR) and Sweden (KTH, SLU and Lund University)."
-  - info : "The research is funded by the Swedish Research Council, grant No. 2015 03180, and the Swedish Research Council for Environment, Agricultural Sciences and Spatial Planning, grants No. 924-2015-1112 and 942-2015-1648."
+
 ---
 
 ## **Resources**
@@ -30,10 +30,12 @@ information:
   <div class="col-md-4">
 
   ### Selected references
+  
+Gitau, J. K., Sundberg, C., Mendum, R., & Njenga, M. (2025). Comparative Assessment of Gasifier Cookstove Performance on Smallholder Farms in Three Regions in Kenya. Sustainability, 17(13), 5872. https://doi.org/10.3390/su17135872
 
-Gitau, K. J.; Sundberg, C.; Mendum, R.; Mutune, J.; Njenga, M. Use of Biochar-Producing Gasifier Cookstove Improves Energy Use Efficiency and Indoor Air Quality in Rural Households. Energies. 2019 https://doi.org/10.3390/en12224285
+Kätterer, T., Roobroeck, D., Kimutai, G. et al. Maize grain yield responses to realistic biochar application rates on smallholder farms in Kenya. Agron. Sustain. Dev. 42, 63 (2022). https://doi.org/10.1007/s13593-022-00793-5
 
-Gitau, K. J.; Mutune, J.; Sundberg, C.; Mendum, R.; Njenga, M. Factors Influencing the Adoption of Biochar-Producing Gasifier Cookstoves by Households in Rural Kenya. Energy Sustain. Dev. 2019, 52, 63–71 https://doi.org/10.1016/J.ESD.2019.07.006
+Sundberg, C.; Karltun, E.; Gitau, J.K.; Kätterer, T.; Kimutai, G.M.; Mahmoud, Y.; Njenga, M.; Nyberg, G.; Roing de Nowina, K.; Roobroeck, D.; Sieber, P. Biochar from cookstoves reduces greenhouse gas emissions from smallholder farms in Africa. Mitigation and Adaptation Strategies for Global Change. 2020 https://doi.org/10.1007/s11027-020-09920-7
 
 
   Complete list of references further down.
@@ -87,8 +89,11 @@ Gitau, K. J.; Mutune, J.; Sundberg, C.; Mendum, R.; Njenga, M. Factors Influenci
 
 ### Funding
 
-The research (2016 to 2020) was funded by Vetenskapsrådet, with grant number 2015 03180, as well as Formas, with grant numbers 924-2015-1112 and 942-2015-1648.
+The research (2016 to 2020) was funded by Swedish Research Council, with grant number 2015 03180, as well as Swedish Research Council for Environment, Agricultural Sciences and Spatial Planning, with grant numbers 924-2015-1112 and 942-2015-1648.
 
+The research is funded by the Swedish Research Council, grant No. 2015 03180, and the Swedish Research Council for Environment, Agricultural Sciences and Spatial Planning, grants No. 924-2015-1112 and 942-2015-1648.
+
+Research on this topic has continued in the BICEPS project in 2022-2025, FOSC-2015, funded by ERA-net Cofund on Food Systems and Climate.
 
 ### Project summary 
 
@@ -107,11 +112,13 @@ The farmers perceptions of the technology and the reasons for changes in practic
 ### List of references
 
 #### Peer-reviewed publications
+Gitau, J. K., Sundberg, C., Mendum, R., & Njenga, M. (2025). Comparative Assessment of Gasifier Cookstove Performance on Smallholder Farms in Three Regions in Kenya. Sustainability, 17(13), 5872. https://doi.org/10.3390/su17135872
+
+Lagerhammar, A., Sandgren, N., & Sundberg, C. (2024). Long-term viability of biochar-producing gasifier stoves for energy and agricultural solutions in rural Kenya. Energy for Sustainable Development, 81(0973-0826), 101490. https://doi.org/10.1016/j.esd.2024.101490
+
 Kätterer, T., Roobroeck, D., Kimutai, G., Karltun E., Nyberg, G., Sundberg C., Roing de Nowina K. 2022. Maize grain yield responses to realistic biochar application rates on smallholder farms in Kenya. Agron. Sustain. Dev. 42, 63. https://doi.org/10.1007/s13593-022-00793-5
 
-Mahmoud Y, Njenga M, Sundberg C, Roing de Nowina K, 2021. Soils, sinks, and smallholder farmers: Examining the benefits of biochar energy transitions in Kenya, Energy Research & Social Science, 75, 102033, https://doi.org/10.1016/j.erss.2021.102033.
-
-Sundberg, C.; Karltun, E.; Gitau, J.K.; Kätterer, T.; Kimutai, G.M.; Mahmoud, Y.; Njenga, M.; Nyberg, G.; Roing de Nowina, K.; Roobroeck, D.; Sieber, P. Biochar from cookstoves reduces greenhouse gas emissions from smallholder farms in Africa. Mitigation and Adaptation Strategies for Global Change. 2020 https://doi.org/10.1007/s11027-020-09920-7 
+Mahmoud Y, Njenga M, Sundberg C, Roing de Nowina K, 2021. Soils, sinks, and smallholder farmers: Examining the benefits of biochar energy transitions in Kenya, Energy Research & Social Science, 75, 102033, https://doi.org/10.1016/j.erss.2021.102033. 
 
 Gitau, K. J.; Sundberg, C.; Mendum, R.; Mutune, J.; Njenga, M. Use of Biochar-Producing Gasifier Cookstove Improves Energy Use Efficiency and Indoor Air Quality in Rural Households. Energies. 2019 https://doi.org/10.3390/en12224285
 
@@ -130,6 +137,8 @@ Njenga M,  Iiyama M, Jamnadass R, Helander H, Larsson L, de Leeuw J, Neufeldt H,
 James K. Gitau,  Ruth Mendum and Mary Njenga. 2018.  Gender and Improvement of Cooking Systems with Biochar-producing Gasifier Stoves. In: Njenga, M.; Mendum, R. (Eds.). 2018. Recovering bioenergy in Sub-Saharan Africa: gender dimensions, lessons and challenges. Colombo, Sri Lanka: International Water Management Institute (IWMI). CGIAR Research Program on Water, Land and Ecosystems (WLE). (Resource Recovery and Reuse: Special Issue). https://doi.org/10.5337/2018.226
 
 #### MSc & BSc theses
+
+Lagerhammar, A., Sandgren, N., & Sundberg, C., 2024, Long-term viability of biochar-producing gasifier stoves for energy and agricultural solutions in rural Kenya, https://urn.kb.se/resolve?urn=urn%3Anbn%3Ase%3Akth%3Adiva-350861
 
 Ranung Siri and Ruud Jessica. 2019. Use of Biochar Producing Cookstoves in Rural Kenya: Energy efficiency, air pollution concentrations and biochar production potential. SEED, KTH https://urn.kb.se/resolve?urn=urn:nbn:se:kth:diva-257882
 

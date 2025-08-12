@@ -5,7 +5,7 @@ description: "
 <b>Part 1 / 3   -   Exploring the data</b>
 <p/>
 <p>
-This first dashboard allows to explore the biochar incubation data and the associated metadata, which were collected from the litterature and compiled in a single consistent format. The result of many hours of work.
+This first dashboard allows to explore the biochar incubation data and the associated metadata, which were collected from the litterature and compiled in a single consistent format. 
 </p>
 
 "
@@ -68,13 +68,13 @@ The two graphs below present the actual biochar incubation data, for all observa
 ## **Download all the data**
 
 All the data shown above (and the code to deal with it) is available for download in various format:
-* Get it from *GitHub* (data + code)
-* Get it in *.xlsx* format (data only)
+* Get it from *GitHub* [(data + code)](https://github.com/SLU-biochar/biocharStability)
+* Get it in *.xlsx* format [(data only)](https://github.com/SLU-biochar/biocharStability/blob/main/biocharStability/database/biochar_incubation_database_2022-12_SI4Manuscript.xlsx)
 * Get it in *.json* format (data only)
 
 ## **Scroll down for more**
 
-Below, more interactive figures and text analyses are provided. They reproduce the results from our pre-print article published here *insert link*.
+Below, more interactive figures and text analyses are provided. They reproduce the results from our pre-print article published [here](https://doi.org/10.1016/j.geoderma.2023.116761).
 
   </div>
 </div>
@@ -140,13 +140,14 @@ A key difference between the biochar from different feedstocks is the ash conten
 
 <div class="row">
 <div class="col-md-7">
-<div id="component_3" style="max-height:90vh; margin:0 5% 1% 5%;" >
+<div id="component_3" style="margin-bottom:3rem;" >
     <div class="bk-root" id="f982bdaf-f103-4140-baeb-1625b889cf0a" data-root-id="2884"></div>    <br />
 </div>
 </div>
 
 <div class="col-md-3">
 <div id="component_text_3">
+
 
 ### **Most biochars were from slow pyrolysis**
 
