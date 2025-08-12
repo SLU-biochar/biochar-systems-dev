@@ -1,9 +1,7 @@
 ---
-title: "Biochar water filters"
+title: "Biochar water filters (Sweden)"
 description: "
-This research project is ongoing. The aim is to compare biochar filters to a conventional technology for smallscale, onsite wastewater treatment.
-
-" # a text describing the motivations, the context, the research questions, attratively
+This research project is ongoing. The aim is to compare biochar filters to a conventional technology for smallscale, onsite wastewater treatment." # a text describing the motivations, the context, the research questions, attratively
 draft: false
 image : "case-studies/wwt.png"
 weight : 8
@@ -11,7 +9,7 @@ bg_image: "img/feature-bg.jpg"
 menu:
   main:
     parent: "Case studies"
-    name: "6. Water filters"
+    name: "6a. Water filters (Sweden)"
     weight: 7
 
 category: ["LCA", "Sweden"]
