@@ -28,7 +28,7 @@ information:
   <div class="col-md-4">
 
   ### Reference
-  Shivesh Kishore Karan, Woolf, D., Elias Sebastian Azzi, Sundberg, C., & Wood, S. A. (2023b). Potential for biochar carbon sequestration from crop residues: A global spatially explicit assessment. Global Change Biology. Bioenergy/GCB Bioenergy, 15(12), 1424–1436. https://doi.org/10.1111/gcbb.13102
+  Karan, S., Woolf, D., Azzi, E., Sundberg, C., & Wood, S. A. (2023). Potential for biochar carbon sequestration from crop residues: A global spatially explicit assessment. Global Change Biology. Bioenergy/GCB Bioenergy, 15(12), 1424–1436. https://doi.org/10.1111/gcbb.13102
 
 
   <br/><br/>

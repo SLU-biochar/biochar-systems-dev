@@ -26,5 +26,5 @@ css : []
 **Browse this section**
 - [Overview](./overview/)
 - [Guidelines](./guidelines/)
-- [Dashboard](./dashboard/)
-- [Helsingborg statement](./helsingborg-statement/)
+- [Dashboard](/stability/app/)
+- [Helsingborg statement](/durability-statement/)

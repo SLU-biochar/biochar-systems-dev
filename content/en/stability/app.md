@@ -25,6 +25,11 @@ menu:
 js : ["bokehapp/bokeh-2.4.3.min", "bokehapp/bokeh-widgets-2.4.3.min", "bokehapp/bokeh-tables-2.4.3.min", "bokehapp/bokeh-gl-2.4.3.min", "bokehapp/bokeh-mathjax-2.4.3.min", ]
 css : ["bokehapp/bokehapp-custom"]
 
+# _build:
+#  list: never     # hides it from lists/menus generated from section contents
+#  render: always  # still renders the page at its URL
+
+
 ---
 <div class="col-md-12">
 {{% notice warning %}}
