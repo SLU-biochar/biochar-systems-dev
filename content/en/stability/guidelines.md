@@ -13,8 +13,9 @@ draft: false
 
 menu:
   main:
-    parent: "More"
-    name: "Biochar durability guidelines"
+    parent: "Biochar durability"
+    name: "Guidelines"
+    identifier: "durability-guidelines"
     weight: 2
 
 # Page-specific JavaScript & CSS, from static folder #ESA

@@ -14,6 +14,7 @@ styling:
 Master and bachelor students write their theses with us on biochar. Here is a selection of recent ones (titles are linked to the publications):
 
 MSc:
+* Danielle Jansen, 2023, [Drivers and Barriers for Biochar Deployment in Swedish Agriculture : a Multi-Level Perspective on Sustainability Transitions](https://slu.primo.exlibrisgroup.com/permalink/46SLUB_INST/1sl36d2/alma9921064729205121)
 * Simon Martelius, 2022, [Comparative techno-economic analysis of BECCS and biochar in Sweden](https://slu.primo.exlibrisgroup.com/permalink/46SLUB_INST/1sl36d2/alma9921014794605121)
 * Lisa Zakrisson, 2021, [Comparative life cycle assessment of bioenergy systems with and without carbon dioxide removal](http://urn.kb.se/resolve?urn=urn:nbn:se:kth:diva-296955)
 * Charlotte Malmén, 2020, [Pyrolysis as a business for heat-requiring industries: A case​ study of biochar production in connection to an asphalt plant](http://urn.kb.se/resolve?urn=urn:nbn:se:kth:diva-283606)

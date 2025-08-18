@@ -69,12 +69,32 @@ First, the largest difference is between the biochar carbon sink & climate chang
 
 ## C. Biochar decomposition: how is it measured?
 
-[to be continued]
+### Basics in soil sciences
+Biochar, the carbon-rich solid produced by pyrolysis of biomass under limited oxygen, offers a durable form of carbon when applied to soils. Its long-term stability in soil stems from the formation of fused aromatic structures during pyrolysis, structures that are much less prone to microbial decomposition compared to fresh biomass. In soil science terms, this durability or persistence (also referred to in policy contexts as durability of carbon storage) reflects how long biochar carbon remains stable and less reactive in soil systems.
 
-- Basics in soil sciences
-- Biochar in soils: main processes at play
-- Incubation experiments, lab & field
+### Biochar in soils: main processes at play
+When biochar is incorporated into agricultural soils, several processes shape its environmental role:
 
+- Its chemically stable, aromatic carbon structure slows microbial decomposition, enhancing carbon storage.
+
+- Biochar’s persistence varies depending on both its inherent properties (e.g., H/C atomic ratio, production temperature) and soil/environmental conditions.
+
+- In the project, biochar stability is modelled based on its H/C ratio and the mean annual temperature of its location, allowing estimation of the fraction of carbon remaining over time.
+
+- The Biochar Systems group at SLU has built on this by developing spatially explicit models and tools to analyze and quantify long-term biochar carbon storage in soils.
+
+### Incubation experiments, lab & field
+A central component of the project is the integration of incubation experiments and field trials to better understand biochar’s real-world behavior:
+
+- Laboratory incubations are used to study biochar decomposition over controlled short time spans, helping parameterize persistence models.
+
+- Field trials have been established to monitor long-term behavior under actual agricultural conditions, allowing researchers to observe degradation and transport processes not observable in lab settings.
+
+- All data, including incubation results and field findings, is consolidated into an open database and integrated via a dedicated library and code repository, facilitating modeling, analysis, and transparency.
+
+- The project further provides practical guidelines on using these stability models for applications such as carbon accounting, LCA, and climate reporting.
+
+Want to read more? Click [here](/stability/)
 
 ## D. Biochar stability estimates: how are they built?
 

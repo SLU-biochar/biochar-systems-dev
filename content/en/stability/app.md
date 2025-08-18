@@ -17,9 +17,10 @@ layout : dashbord
 
 menu:
   main:
-    parent: "More"
-    name: "Biochar stability dashboard"
-    weight: 2
+    parent: "Biochar durability"
+    name: "Dashboard"
+    identifier: "durability-dashboard"
+    weight: 3
 
 # Page-specific JavaScript & CSS, from static folder #ESA
 js : ["bokehapp/bokeh-2.4.3.min", "bokehapp/bokeh-widgets-2.4.3.min", "bokehapp/bokeh-tables-2.4.3.min", "bokehapp/bokeh-gl-2.4.3.min", "bokehapp/bokeh-mathjax-2.4.3.min", ]

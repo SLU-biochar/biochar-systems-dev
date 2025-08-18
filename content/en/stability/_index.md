@@ -10,8 +10,9 @@ draft: false
 
 menu:
   main:
-    parent: "More"
-    name: "Biochar stability"
+    parent: "Biochar durability"
+    name: "Overview"
+    identifier: "durability-overview"
     weight: 1
 
 ---

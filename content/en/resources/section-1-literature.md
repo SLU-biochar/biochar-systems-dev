@@ -115,7 +115,7 @@ This list was last updated on {{< lastmod >}}.
 
 Below, we list publications from our research group at KTH and SLU, and other collaborations (click to expand). 
 
-{{% expandcss idLabel="ourpublications" title=" **Biochar persistence** " collpased='True' %}}
+{{% expandcss idLabel="biocharpersistence" title=" **Biochar persistence** " collpased='True' %}}
 - Azzi, E. S., Li, H., Cederlund, H., Karltun, E., & Sundberg, C. (2024). Modelling biochar long-term carbon storage in soil with harmonized analysis of decomposition data. Geoderma, 441(0016-7061), 116761–116761. https://doi.org/10.1016/j.geoderma.2023.116761
 
 - Lehmann, J., Abiven, S., Azzi, E., Fang, Y., Singh, B. P., Sohi, S., Sundberg, C., Woolf, D., & Zimmerman, A. R. (2024). Persistence of biochar. Biochar for Environmental Management, 277–311. https://doi.org/10.4324/9781003297673-11
@@ -128,37 +128,49 @@ Below, we list publications from our research group at KTH and SLU, and other co
 
 - Azzi, E., & Sundberg, C. (2023). Revisiting biochar decomposition data and long-term stability estimates: a transparent and reproducible analysis. EGU General Assembly 2023. https://doi.org/10.5194/egusphere-egu23-5625
 
-- Zakrisson, L., Azzi, E. S., & Sundberg, C. (2023). Climate impact of bioenergy with or without carbon dioxide removal: influence of functional unit and parameter variability. The International Journal of Life Cycle Assessment. https://doi.org/10.1007/s11367-023-02144-2
-
-- Karan, S. K., Osslund, F., Azzi, E. S., Karltun, E., & Sundberg, C. (2023). A spatial framework for prioritizing biochar application to arable land: A case study for Sweden. Resources, Conservation and Recycling, 189, 106769. https://doi.org/10.1016/j.resconrec.2022.106769
-
-- Karan, S. K., Woolf, D., Azzi, E., Sundberg, C., & Wood, S. A. (2023). Potential for biochar carbon sequestration from crop residues: A global spatially explicit assessment. Global Change Biology. Bioenergy/GCB Bioenergy, 15(12), 1424–1436. https://doi.org/10.1111/gcbb.13102
-
 - Azzi, E. S., Sundberg, C., Söderqvist, H., Källgren, T., Cederlund, H., & Li, H. (2023). Guidelines for estimation of biochar durability : Background report. Rapport (Institutionen För Energi Och Teknik, SLU). https://doi.org/10.54612/a.lkbuavb9qc
 
 - Azzi, E. and Sundberg, C.: Revisiting biochar decomposition data and long-term stability estimates: a transparent and reproducible analysis, (2023) EGU General Assembly 2023, Vienna, Austria, 24–28 Apr 2023, EGU23-5625, https://doi.org/10.5194/egusphere-egu23-5625.
 
-- Azzi, E., Jungefeldt, L., Karan, S., & Sundberg, C. (2022). Biochar in Swedish agriculture – straw pyrolysis as a first step towards net-zero. Mistra Food Futures Report, 4. https://res.slu.se/id/publ/131841
 
-- Kätterer, T., Roobroeck, D., Kimutai, G. et al. Maize grain yield responses to realistic biochar application rates on smallholder farms in Kenya. Agron. Sustain. Dev. 42, 63 (2022). https://doi.org/10.1007/s13593-022-00793-5
 
-- Azzi, E. S., Karltun, E., & Sundberg, C. (2022). Life cycle assessment of urban uses of biochar and case study in Uppsala, Sweden. Biochar, 4(1), 18. https://doi.org/10.1007/s42773-022-00144-3
+
+{{% /expandcss %}}
+
+{{% expandcss idLabel="lca" title=" **Life cycle assessement** " collpased='True' %}}
+- Zakrisson, L., Azzi, E. S., & Sundberg, C. (2023). Climate impact of bioenergy with or without carbon dioxide removal: influence of functional unit and parameter variability. The International Journal of Life Cycle Assessment. https://doi.org/10.1007/s11367-023-02144-2
 
 - Papageorgiou, A., Sinha, R., Sebastian Azzi, E., Sundberg, C., & Enell, A. (2022). The Role of Biochar Systems in the Circular Economy: Biomass Waste Valorization and Soil Remediation. IntechOpen. https://doi.org/10.5772/intechopen.104389
 
-- Papageorgiou, A., Azzi, E. S., Enell, A., & Sundberg, C. (2021). Biochar produced from wood waste for soil remediation in Sweden: carbon sequestration and other environmental impacts. Science of The Total Environment, 145953. https://doi.org/10.1016/j.scitotenv.2021.145953
+- Azzi, E., Jungefeldt, L., Karan, S., & Sundberg, C. (2022). Biochar in Swedish agriculture – straw pyrolysis as a first step towards net-zero. Mistra Food Futures Report, 4. https://res.slu.se/id/publ/131841
 
-- Mahmoud, Y., Njenga, M., Sundberg, C., & Roing de Nowina, K. (2021). Soils, sinks, and smallholder farmers: Examining the benefits of biochar energy transitions in Kenya. Energy Research & Social Science, 75, 102033. https://doi.org/10.1016/j.erss.2021.102033
+- Azzi, E. S., Karltun, E., & Sundberg, C. (2022). Life cycle assessment of urban uses of biochar and case study in Uppsala, Sweden. Biochar, 4(1), 18. https://doi.org/10.1007/s42773-022-00144-3
 
 - Azzi, E. S., Karltun, E., & Sundberg, C. (2021). Assessing the diverse environmental effects of biochar systems: An evaluation framework. Journal of Environmental Management, 286, 112154. https://doi.org/10.1016/j.jenvman.2021.112154
 
+- Papageorgiou, A., Azzi, E. S., Enell, A., & Sundberg, C. (2021). Biochar produced from wood waste for soil remediation in Sweden: carbon sequestration and other environmental impacts. Science of The Total Environment, 145953. https://doi.org/10.1016/j.scitotenv.2021.145953
+
+- Azzi, E. S., Karltun, E., & Sundberg, C. (2019). Prospective life cycle assessment of large-scale biochar production and use for negative emissions in Stockholm. Environmental Science & Technology, 53(14), 8466–8476. https://doi.org/10.1021/acs.est.9b01615
+
+{{% /expandcss %}}
+
+{{% expandcss idLabel="spatialanalyses" title=" **Spatial analyses** " collpased='True' %}}
+- Karan, S. K., Osslund, F., Azzi, E. S., Karltun, E., & Sundberg, C. (2023). A spatial framework for prioritizing biochar application to arable land: A case study for Sweden. Resources, Conservation and Recycling, 189, 106769. https://doi.org/10.1016/j.resconrec.2022.106769
+
+- Karan, S. K., Woolf, D., Azzi, E., Sundberg, C., & Wood, S. A. (2023). Potential for biochar carbon sequestration from crop residues: A global spatially explicit assessment. Global Change Biology. Bioenergy/GCB Bioenergy, 15(12), 1424–1436. https://doi.org/10.1111/gcbb.13102
+
 - Azzi, E. S., Karltun, E., & Sundberg, C. (2021). Small-scale biochar production on Swedish farms: A model for estimating potential, variability, and environmental performance. Journal of Cleaner Production, 280, 124873. https://doi.org/10.1016/j.jclepro.2020.124873
+
+{{% /expandcss %}}
+
+{{% expandcss idLabel="africa" title=" **Africa** " collpased='True' %}}
+- Kätterer, T., Roobroeck, D., Kimutai, G. et al. Maize grain yield responses to realistic biochar application rates on smallholder farms in Kenya. Agron. Sustain. Dev. 42, 63 (2022). https://doi.org/10.1007/s13593-022-00793-5
+
+- Mahmoud, Y., Njenga, M., Sundberg, C., & Roing de Nowina, K. (2021). Soils, sinks, and smallholder farmers: Examining the benefits of biochar energy transitions in Kenya. Energy Research & Social Science, 75, 102033. https://doi.org/10.1016/j.erss.2021.102033
 
 - Sundberg, C., Karltun, E., Gitau, J. K. et al. (2020). Biochar from cookstoves reduces greenhouse gas emissions from smallholder farms in Africa. Mitig Adapt Strateg Glob Change 25, 953–967. https://doi.org/10.1007/s11027-020-09920-7
 
 - Gitau, J.K., Njenga, M., Sundberg, C., Mendum, R., 2020. Biochar producing gasifier cooking system for enhanced fuelwood efficiency, women’s wellbeing and sustainable agroecosystems in Kenya. Global Bioenergy Partnership Report, 66-71. http://www.globalbioenergy.org/fileadmin/user_upload/gbep/docs/AG4/AG4_Collection_of_examples_links_sust._wood_energy_and_FLR_June2020.pdf
-
-- Azzi, E. S., Karltun, E., & Sundberg, C. (2019). Prospective life cycle assessment of large-scale biochar production and use for negative emissions in Stockholm. Environmental Science & Technology, 53(14), 8466–8476. https://doi.org/10.1021/acs.est.9b01615
 
 - Gitau, J. K.,Mutune, J., Sundberg, Mendum, R., & Njenga, M., (2019). Factors influencing the adoption of biochar-producing gasifier cookstoves by households in rural Kenya. Energy for Sustainable Development, 52, 63-71, 0973-0826, https://doi.org/10.1016/j.esd.2019.07.006.
 
@@ -167,7 +179,6 @@ Below, we list publications from our research group at KTH and SLU, and other co
 - Gitau, J. K., Njenga, M., Mendum, R., Mutune, J., Mahmoud, Y., & Sundberg, C. (2019). Cleaner cooking while producing biochar: factors affecting adoption of gasifier cookstoves in rural areas. https://lup.lub.lu.se/record/dd34afc6-43d3-429a-8847-d42d57a6ce0c
 
 - Mahmoud, Y., Gitau, J. K., Karltun, E., Kätterer, T., Kimutai, G., Njenga, M., Nyberg, G., Roing, K., Dries Roobroek, & Sundberg, C. (2019). Biochar production and application in small-scale farming in Kenya: Yield increases and local perceptions. https://lup.lub.lu.se/record/ad144337-b4f6-4cb4-bd94-10a59208162b
-
 {{% /expandcss %}}
 
 To keep up to date with our work, follow Google Scholar and university publication profiles from our team members, e.g. [Cecilia Sundberg](https://scholar.google.com/citations?hl=en&user=095LohcAAAAJ&view_op=list_works&sortby=pubdate) [(SLU)](https://www.slu.se/cv/cecilia-sundberg/), [Azzi Elias](https://scholar.google.com/citations?user=n6DQa3cAAAAJ&hl=fr), [Lisa Zakrisson](https://www.slu.se/cv/lisa-zakrisson/).

@@ -213,8 +213,13 @@ attributes = "defer"
 
 	[[languages.en.menu.main]]
 		hasChildren = true
-		name = "Case studies"
+		name = "Biochar durability"
 		weight = 3
+
+	[[languages.en.menu.main]]
+		hasChildren = true
+		name = "Case studies"
+		weight = 4
 
 	[[languages.en.menu.main]]
 		hasChildren = true
@@ -239,8 +244,13 @@ attributes = "defer"
 
 	[[languages.sv.menu.main]]
 		hasChildren = true
-		name = "Fallstudier"
+		name = "Biokols stabilitet"
 		weight = 3
+
+	[[languages.sv.menu.main]]
+		hasChildren = true
+		name = "Fallstudier"
+		weight = 4
 
 	[[languages.sv.menu.main]]
 		hasChildren = true
