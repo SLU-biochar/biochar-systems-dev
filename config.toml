@@ -195,6 +195,35 @@ attributes = ""
 link = "plugins/google-map/gmap.js"
 attributes = "defer"
 
+
+#################################Logos#########################################
+[params.partnersbar]
+  title = "Partners & Stakeholders"
+
+[[params.partners]]
+  name = "SLU"
+  url  = "https://www.slu.se/"
+  logo = "img/logos/slu.png"
+  alt  = "Swedish University of Agricultural Sciences"
+
+[[params.partners]]
+  name = "2050"
+  url  = "https://2050.se/en/"
+  logo = "img/logos/2050.png"
+  alt  = "Swedish University of Agricultural Sciences"
+
+[[params.partners]]
+  name = "Swedish Energy Agency"
+  url  = "https://www.energimyndigheten.se/en/"
+  logo = "img/logos/sea.png"
+  alt  = "Swedish University of Agricultural Sciences"
+
+[[params.partners]]
+  name = "Vinnova"
+  url  = "https://www.vinnova.se/"
+  logo = "img/logos/vinnova.png"
+  alt  = "Swedish University of Agricultural Sciences"
+
 ################################# English translation #########################
 [languages.en]
 	languageName = "English"
@@ -213,18 +242,18 @@ attributes = "defer"
 
 	[[languages.en.menu.main]]
 		hasChildren = true
-		name = "Biochar durability"
+		name = "Case studies"
 		weight = 3
 
 	[[languages.en.menu.main]]
 		hasChildren = true
-		name = "Case studies"
+		name = "Biochar durability"
 		weight = 4
 
 	[[languages.en.menu.main]]
 		hasChildren = true
 		name = "More"
-		weight = 5
+		weight = 7
 
 ################################# Swedish translation ##########################
 [languages.sv]
@@ -244,15 +273,10 @@ attributes = "defer"
 
 	[[languages.sv.menu.main]]
 		hasChildren = true
-		name = "Biokols stabilitet"
-		weight = 3
-
-	[[languages.sv.menu.main]]
-		hasChildren = true
 		name = "Fallstudier"
 		weight = 4
 
 	[[languages.sv.menu.main]]
 		hasChildren = true
 		name = "Mer"
-		weight = 6		
+		weight = 7		
