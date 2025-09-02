@@ -10,9 +10,10 @@ draft: false
 
 menu:
   main:
-    parent: "More"
+    parent: "Biochar durability"
     name: "Helsingborg statement"
-    weight: 10
+    identifier: "durability-statement"
+    weight: 4
 
 ---
 

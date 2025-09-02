@@ -15,7 +15,8 @@ enableInlineShortcodes = true # Enable inline shortcode support for content page
 # Default time zone for time stamps; use any valid [tz database name](https://en.wikipedia.org/wiki/List_of_tz_database_time_zones#List)
 timeZone = "UTC"
 # Number of posts per page in list view
-paginate = "4"
+[pagination]
+pagerSize = 4
 # Post excerpt length
 summaryLength = "30"
 # Disabled languages
@@ -64,6 +65,7 @@ ordered = false
 	description = "This is meta description"
 	author = "Themefisher"
 	image = "images/logo.png" # this image will be used as fallback if a page has no image of its own
+	twitter = "yourhandle"
 
 
 ################################# Sidebar widgets #############################
@@ -150,7 +152,6 @@ link = "#"
 icon = "ion-social-facebook-outline" #ionicon pack v2 : https://ionicons.com/v2/
 link = "#"
 
-
 ################################# Plugins #####################################
 # CSS Plugins
 [[params.plugins.css]]
@@ -217,8 +218,13 @@ attributes = "defer"
 
 	[[languages.en.menu.main]]
 		hasChildren = true
+		name = "Biochar durability"
+		weight = 4
+
+	[[languages.en.menu.main]]
+		hasChildren = true
 		name = "More"
-		weight = 5
+		weight = 7
 
 ################################# Swedish translation ##########################
 [languages.sv]
@@ -239,9 +245,9 @@ attributes = "defer"
 	[[languages.sv.menu.main]]
 		hasChildren = true
 		name = "Fallstudier"
-		weight = 3
+		weight = 4
 
 	[[languages.sv.menu.main]]
 		hasChildren = true
 		name = "Mer"
-		weight = 6		
+		weight = 7		

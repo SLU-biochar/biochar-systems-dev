@@ -11,6 +11,7 @@ styling:
 <div class="col-md-12">
 
 ### **Webinars**
+* 22-03-2024, Nordic Biochar Network, [How long will biochar stay in soil-and how do we know that?](https://www.youtube.com/watch?v=0QQpgjuQaDY)
 
 * 2022-01-26, Biochar Synthesis Day, [Practical research insights](https://www.youtube.com/watch?v=xymUjLXP3ic)
 
@@ -32,6 +33,7 @@ styling:
 </div>
 
 <div class="row">  
+<div class="col-sm-4" style="margin-bottom:0.5em;"> {{< youtube_test id="0QQpgjuQaDY" title="How long will biochar stay in soil-and how do we know that?" autoplay="false" start="0" >}} </div>
 <div class="col-sm-4" style="margin-bottom:0.5em;"> {{< youtube_test id="xymUjLXP3ic" title="Biochar systems across scales in Sweden - Practical research insights" autoplay="false" start="0" >}} </div>
 <div class="col-sm-4" style="margin-bottom:0.5em;"> {{< youtube_test id="C-KLZJDKefQ" title="Compilation of biochar projects in Sweden up to 2021" autoplay="false" start="0" >}} </div>
 <div class="col-sm-4" style="margin-bottom:0.5em;"> {{< youtube_test id="ymz-kaDvzdc" title="Biochar systems across scales in Sweden" autoplay="false" start="0" >}} </div>

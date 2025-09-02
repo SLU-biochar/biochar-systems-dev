@@ -1,6 +1,6 @@
 ---
 title: "Research Project / Biochar Stability"
-description: "<p>Biochar can contribute to negative greenhouse gas emissions in the form of long-term carbon storage. It is important for the development of the biochar market to strengthen the knowledge around biochar stability in soils over long times and to develop ways of accounting for biochar stability. </p>
+description: "<p>Biochar can contribute to negative greenhouse gas emissions in the form of long-term carbon storage. It is important for the development of the biochar market and biochar policy to strengthen the knowledge around biochar stability in soils over long times and to develop ways of accounting for biochar stability. </p>
 
 <p>This 4-year research project, named <i>Biochar Stability: supporting transparent & reliable carbon removal</i>, is funded by the Swedish Energy Agency. It started in March 2022 and is finishing in December 2025.<p>
 "
@@ -10,8 +10,9 @@ draft: false
 
 menu:
   main:
-    parent: "More"
-    name: "Biochar stability"
+    parent: "Biochar durability"
+    name: "Overview"
+    identifier: "durability-overview"
     weight: 1
 
 ---
@@ -31,7 +32,7 @@ _This project aimed at consolidating the knowledge around biochar carbon storage
 * New models for calculation of biochar stability based on biochar properties and environmental conditions
 * Practical guidelines on how to use the stability models developed
 
-## Research outputs (as of 2024-12-06)
+## Research outputs (as of 2025-06-30)
 
 * _Scientific article_. December 2024. [Can inert pool models improve predictions of biochar long-term persistence in soils?](https://doi.org/10.1016/j.geoderma.2024.117093) Geoderma, 452, 117093. https://doi.org/10.1016/j.geoderma.2024.117093
 
@@ -39,17 +40,18 @@ _This project aimed at consolidating the knowledge around biochar carbon storage
 
 * _Dataset and code_. December 2023. [GitHub Repository](https://github.com/SLU-biochar/biocharStability) for the biochar decay dataset and python code for reproducing analyses. https://github.com/SLU-biochar/biocharStability
 
-* _Background report_. December 2023. Guidelines for estimation of biochar durability. See: [biochar.systems/stability/guidelines]({{< ref "/guidelines.md" >}})
+* _Background report_. December 2023. Guidelines for estimation of biochar durability. See: [biochar.systems/stability/guidelines]({{< ref "stability/guidelines.md" >}})
 
 * _Public statement_. June 2023. At the Biochar Summit in Helsinborg, we published a short non-technical statement synthesizing current knowledge on durability, resulting from 2 months of discussions between researchers in the field. Access it here: [biochar.systems/durability-statement]({{< ref "durability-statement/_index.md" >}})
 
-* _Conferences & Seminars_. Project team has contributed to a series a scientific conferences, seminars and workshops on the topic of biochar persistence, such as: EU CRCF Workshops & Meetings 2024, Biochar Summit 2023, EGU 2023, EGU 2022, Negative Emission Conference 2022.
+* _Conferences & Seminars_. Project team has contributed to a series a scientific conferences, seminars and workshops on the topic of biochar persistence, such as: EU CRCF Workshops & Meetings 2024, Biochar Summit 2023/2025, EGU 2023, EGU 2022, Negative Emission Conference 2022, 2nd Swedish Conference on Sewage Sludge biochar 2024.
 
 
 ### Activities on-going and planned
 Several activities on-going and new ones are planned in 2025:
 * Laboratory incubations with non-labelled Swedish biochars started in February 2022 have been concluded. Analysis of data is on-going.
 * Laboratory incubations with novel labelled biochar started in September 2023 is on-going. Characterisation and other analyses are on-going.
+* Field trials have been established at Ultuna, Uppsala in 2023. Data collection is ongoing.
 * Update of recommendations and review of new research findings is planned for 2025.
 
 <br />
@@ -67,7 +69,7 @@ The project has 5 work packages (WP):
 * WP4: Field trials
 * WP5: Data analysis
 
-The project started in january 2022, and will continue until year 2025:
+The project started in january 2022, and will end in year 2025:
 * Year 2022: survey & roundtables with stakeholders (WP1) / biochar collection & characterisation (WP2) / experiment design (WP3-4) / litterature data collection, modelling toochain, and first re-analysis (WP5)
 * Year 2023: initial guidelines (WP1-5) / start of incubation (WP3) / start of field trials (WP4) / uncertainty modelling (WP5) / publication of dataset and modelling article (WP5)
 * Year 2024: continued laboratory and field work (WP3-4) / modelling of power and inert pool models (WP5)
@@ -108,4 +110,3 @@ For general inquiries: kolinlagringattraknamed@2050.se
 
 
 </div>
-
