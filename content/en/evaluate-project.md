@@ -11,7 +11,7 @@ draft: false
 menu:
   main:
     name: "Evaluate your project"
-    weight: 3
+    weight: 5
   footer:
     name: "Evaluate your project"
     weight: 6

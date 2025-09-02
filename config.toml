@@ -195,35 +195,6 @@ attributes = ""
 link = "plugins/google-map/gmap.js"
 attributes = "defer"
 
-
-#################################Logos#########################################
-[params.partnersbar]
-  title = "Partners & Stakeholders"
-
-[[params.partners]]
-  name = "SLU"
-  url  = "https://www.slu.se/"
-  logo = "img/logos/slu.png"
-  alt  = "Swedish University of Agricultural Sciences"
-
-[[params.partners]]
-  name = "2050"
-  url  = "https://2050.se/en/"
-  logo = "img/logos/2050.png"
-  alt  = "Swedish University of Agricultural Sciences"
-
-[[params.partners]]
-  name = "Swedish Energy Agency"
-  url  = "https://www.energimyndigheten.se/en/"
-  logo = "img/logos/sea.png"
-  alt  = "Swedish University of Agricultural Sciences"
-
-[[params.partners]]
-  name = "Vinnova"
-  url  = "https://www.vinnova.se/"
-  logo = "img/logos/vinnova.png"
-  alt  = "Swedish University of Agricultural Sciences"
-
 ################################# English translation #########################
 [languages.en]
 	languageName = "English"
