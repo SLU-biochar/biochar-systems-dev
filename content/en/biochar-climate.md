@@ -134,8 +134,11 @@ For biochar projects, aligning with the forthcoming CRCF will enhance credibilit
 [to be continued]
 
 
+<div style="display:none" aria-hidden="true">
 {{< stabilitytable >}}
 
 {{< button href="../biochar-stability-calculator.xlsx" icon="download" >}} Download as Excel {{< /button >}}
 {{< button href="../biochar-stability-calculator.py" icon="download" >}} Download as Python script {{< /button >}}
+</div>
+
 
