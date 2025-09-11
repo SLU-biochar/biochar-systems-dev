@@ -44,14 +44,15 @@ information:
 
   ### Conferences
   The work was presented at four conferences:
+  - Sundberg C, Tibbetts H, Zakrisson L, Njenga M, Ndinda C, Kozyatnyk I, 2025. Assessing a complex biochar system with circular economy principles . 3rd International Negative Emissions Conference Proceedings, Edited by N Lutz and S Smith Oxford, 18-21 June 2024. https://doi.org/10.5287/ora-o1yjzd6vx 
 
-  - Kozyatnyk, I., Njenga, M., La solución natural para el tratamiento de aguas grises: combinando biocarbón y semillas de Moringa oleifera para un agua más limpia. Congreso y Exposición de Agua y Desarrollo de la IWA, 12-15 de junio de 2023, 10-14 de diciembre de 2023, Kigali, Ruanda. Modera una sesión sobre estrategias y tecnologías de tratamiento de aguas residuales.
+  - Kozyatnyk, I., Njenga, M., Nature's solution to greywater treatment: combining biochar and Moringa oleifera seeds for cleaner water. IWA Water and Development Congress & Exhibition, 12-15 June 2023, 10-14 December 2023, Kigali, Rwanda. Chairing a session on Wastewater strategies and treatment technologies
 
-  - Kozyatnyk, I., Njenga, M., Tratamiento de aguas grises con biocarbón y proteínas de semillas de Moringa oleifera. Cumbre del Biocarbón, 12-15 de junio de 2023, Helsingborg, Suecia.
+  - Kozyatnyk, I., Njenga, M., Greywater treatment using biochar and Moringa oleifera seed proteins. The Biochar Summit, 12-15 June 2023, Helsingborg, Sweden.
 
-  - Kozyatnyk, I., Njenga, M., Desarrollo de un protocolo para el tratamiento de aguas grises domésticas mediante biocarbón y proteínas de semillas de Moringa oleifera. 18.ª Conferencia de Vanguardia de la IWA sobre Tecnologías del Agua y las Aguas Residuales, 29 de mayo-2 de junio de 2023, Daegu, Corea del Sur.
+  - Kozyatnyk, I., Njenga, M., Development of a protocol for household greywater treatment using biochar and Moringa oleifera seeds proteins. The 18th IWA Leading Edge Conference on Water and Wastewater Technologies, 29 May-2 June 2023, Daegu, South Korea.
 
-  - Kozyatnyk, I., Njenga, M., Tratamiento de aguas grises utilizando biocarbón y proteínas de semillas de Moringa oleifera. 4ª Conferencia Internacional sobre Tecnología de Biorrecursos para Bioenergía, Bioproductos y Sostenibilidad Ambiental, 14-17 de mayo de 2023, Lago de Garda, Italia.
+  - Kozyatnyk, I., Njenga, M., Greywater treatment using biochar and Moringa oleifera seed proteins. 4th International Conference for Bioresource Technology for Bioenergy, Bioproducts & Environmental Sustainability, 14-17 May 2023, Lake Garda, Italy.
   </div>
   <div class="col-md-4">
 
