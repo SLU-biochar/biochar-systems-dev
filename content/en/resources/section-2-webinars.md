@@ -1,6 +1,6 @@
 ---
 name: "Webinars"
-weight: 2
+weight: 4
 styling:
     sectionClass: "section-sm section-dark"
     containerClass: " "

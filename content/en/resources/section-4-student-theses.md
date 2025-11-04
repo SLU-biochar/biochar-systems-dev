@@ -1,5 +1,6 @@
 ---
 name: "MSc and BSc theses"
+weight: 2
 styling:
     sectionClass: "section-sm section-dark"
     containerClass: " "
@@ -14,8 +15,10 @@ styling:
 Master and bachelor students write their theses with us on biochar. Here is a selection of recent ones (titles are linked to the publications):
 
 MSc:
+* Filippa Norrman, 2024 [Kolflöden och potentiella kolsänkor i Stockholms stads geografiska område](https://slu.primo.exlibrisgroup.com/permalink/46SLUB_INST/1sl36d2/alma9921140630605121)
 * Danielle Jansen, 2023, [Drivers and Barriers for Biochar Deployment in Swedish Agriculture : a Multi-Level Perspective on Sustainability Transitions](https://slu.primo.exlibrisgroup.com/permalink/46SLUB_INST/1sl36d2/alma9921064729205121)
 * Simon Martelius, 2022, [Comparative techno-economic analysis of BECCS and biochar in Sweden](https://slu.primo.exlibrisgroup.com/permalink/46SLUB_INST/1sl36d2/alma9921014794605121)
+* Louise Jungefeldt, 2022 [Climate change mitigation from biochar production at farm level: A time dynamic LCA study of wheat](https://www.diva-portal.org/smash/record.jsf?pid=diva2%3A1694250&dswid=-4615)
 * Lisa Zakrisson, 2021, [Comparative life cycle assessment of bioenergy systems with and without carbon dioxide removal](http://urn.kb.se/resolve?urn=urn:nbn:se:kth:diva-296955)
 * Charlotte Malmén, 2020, [Pyrolysis as a business for heat-requiring industries: A case​ study of biochar production in connection to an asphalt plant](http://urn.kb.se/resolve?urn=urn:nbn:se:kth:diva-283606)
 * Tara Mirovic, 2020, [Biochar production from wood waste for GHG reduction: A case-study from the construction industry](http://urn.kb.se/resolve?urn=urn:nbn:se:kth:diva-283612)
